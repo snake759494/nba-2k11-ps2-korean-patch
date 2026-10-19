@@ -1,0 +1,602 @@
+[
+{
+"id": 2400,
+"en": "-Stays out of passing lanes"
+},
+{
+"id": 2401,
+"en": "Best Hand"
+},
+{
+"id": 2402,
+"en": "Scramble Starters"
+},
+{
+"id": 2403,
+"en": "EFF"
+},
+{
+"id": 2404,
+"en": "Lakers Shorts"
+},
+{
+"id": 2405,
+"en": "Hornets Tote"
+},
+{
+"id": 2406,
+"en": "Player duplicated and assigned to your team"
+},
+{
+"id": 2407,
+"en": "STRENGTH"
+},
+{
+"id": 2408,
+"en": "2 On 2"
+},
+{
+"id": 2409,
+"en": "Congratulations!  The {0} have completed the goal, \"ðOne player named to the All-NBA Second Team.\"ð  10 Reward Points have been added to their total."
+},
+{
+"id": 2410,
+"en": "24/7 : Road to The EBC"
+},
+{
+"id": 2411,
+"en": "Backcourt"
+},
+{
+"id": 2412,
+"en": "GAMES BACK"
+},
+{
+"id": 2413,
+"en": "Assign Player Camp"
+},
+{
+"id": 2414,
+"en": "No draft class loaded. Use default draft class?"
+},
+{
+"id": 2415,
+"en": "-Plays both zone and man"
+},
+{
+"id": 2416,
+"en": "SG Rub Iso"
+},
+{
+"id": 2417,
+"en": "Lakers"
+},
+{
+"id": 2418,
+"en": "Offensive Rebounding"
+},
+{
+"id": 2419,
+"en": "Manage profile"
+},
+{
+"id": 2420,
+"en": "Man. w/o Msg"
+},
+{
+"id": 2421,
+"en": " Dunk "
+},
+{
+"id": 2422,
+"en": "Create New Arena Music"
+},
+{
+"id": 2423,
+"en": "Shades 6"
+},
+{
+"id": 2424,
+"en": "to continue"
+},
+{
+"id": 2425,
+"en": "The {0} must keep 9 players on the team."
+},
+{
+"id": 2426,
+"en": "TEAM NAME"
+},
+{
+"id": 2427,
+"en": "NBA Teams Warmup"
+},
+{
+"id": 2428,
+"en": "Def Clutch"
+},
+{
+"id": 2429,
+"en": "Simulate To End"
+},
+{
+"id": 2430,
+"en": "International All-Stars"
+},
+{
+"id": 2431,
+"en": "MINUTES PER GAME"
+},
+{
+"id": 2432,
+"en": "Shot Close Tendency"
+},
+{
+"id": 2433,
+"en": "%s  %s STATS %s"
+},
+{
+"id": 2434,
+"en": "Rt Bicep Tattoo"
+},
+{
+"id": 2435,
+"en": "Official Athletic Shoe 3"
+},
+{
+"id": 2436,
+"en": "August"
+},
+{
+"id": 2437,
+"en": "Round 2 Format"
+},
+{
+"id": 2438,
+"en": "Generic"
+},
+{
+"id": 2439,
+"en": "Waves Fade"
+},
+{
+"id": 2440,
+"en": "broken nose"
+},
+{
+"id": 2441,
+"en": "Last Month"
+},
+{
+"id": 2442,
+"en": "Are you sure want to delete item?"
+},
+{
+"id": 2443,
+"en": "Bandage"
+},
+{
+"id": 2444,
+"en": "scout"
+},
+{
+"id": 2445,
+"en": "Mar"
+},
+{
+"id": 2446,
+"en": "Congratulations!  The {0} have completed the goal, \"ðImprove record by 5 wins.\"ð  5 Reward Points have been added to their total."
+},
+{
+"id": 2447,
+"en": "Energy"
+},
+{
+"id": 2448,
+"en": "Congratulations!  The {0} have completed the goal, \"ðImprove record over last year.\"ð  5 Reward Points have been added to their total."
+},
+{
+"id": 2449,
+"en": "You've unlocked the 2011 All-Star uniforms!"
+},
+{
+"id": 2450,
+"en": "In Stands"
+},
+{
+"id": 2451,
+"en": "20 Bonus Rank Points"
+},
+{
+"id": 2452,
+"en": "This drill will improve your Ball Handling, Off. Awareness, and Layup attributes."
+},
+{
+"id": 2453,
+"en": "Last Play"
+},
+{
+"id": 2454,
+"en": "17 Min"
+},
+{
+"id": 2455,
+"en": "Center"
+},
+{
+"id": 2456,
+"en": "%s HAS SHIN SPLINTS BUT CAN RETURN"
+},
+{
+"id": 2457,
+"en": "to Assign Camp"
+},
+{
+"id": 2458,
+"en": "Hornets Warmup"
+},
+{
+"id": 2459,
+"en": "Sideburns"
+},
+{
+"id": 2460,
+"en": "Blk"
+},
+{
+"id": 2461,
+"en": "League - Steals"
+},
+{
+"id": 2462,
+"en": "%s FOUL SITUATION"
+},
+{
+"id": 2463,
+"en": "Offensive Playbook"
+},
+{
+"id": 2464,
+"en": "3pt PG PickPop"
+},
+{
+"id": 2465,
+"en": "Unlocked"
+},
+{
+"id": 2466,
+"en": "Bomber"
+},
+{
+"id": 2467,
+"en": "Retro Grizzlies"
+},
+{
+"id": 2468,
+"en": "Move |RANALOG| down now to start shot"
+},
+{
+"id": 2469,
+"en": "Congratulations, the {0} have won the NBA Championship."
+},
+{
+"id": 2470,
+"en": "OFFENSIVE REBOUNDING"
+},
+{
+"id": 2471,
+"en": "Board"
+},
+{
+"id": 2472,
+"en": "The controller that paused the game has been removed.\nð\nð"
+},
+{
+"id": 2473,
+"en": "DnkSt"
+},
+{
+"id": 2474,
+"en": "FOUL"
+},
+{
+"id": 2475,
+"en": "-Doesn't like to drive the ball"
+},
+{
+"id": 2476,
+"en": "Mavericks Jersey"
+},
+{
+"id": 2477,
+"en": "View Offers"
+},
+{
+"id": 2478,
+"en": "To View Offers"
+},
+{
+"id": 2479,
+"en": "Monocle"
+},
+{
+"id": 2480,
+"en": "Crash Boards"
+},
+{
+"id": 2481,
+"en": "PASSING"
+},
+{
+"id": 2482,
+"en": "%s was dropped from \"ð%s\"ð by the admin."
+},
+{
+"id": 2483,
+"en": "%s @ %s"
+},
+{
+"id": 2484,
+"en": "Playoff Picture"
+},
+{
+"id": 2485,
+"en": "Nuggets Warmup"
+},
+{
+"id": 2486,
+"en": "Cooking Pot"
+},
+{
+"id": 2487,
+"en": "%s Personal, %s Team"
+},
+{
+"id": 2488,
+"en": "The group of guys we have now should win it all."
+},
+{
+"id": 2489,
+"en": "to Exit"
+},
+{
+"id": 2490,
+"en": "3P%"
+},
+{
+"id": 2491,
+"en": "Tournaments"
+},
+{
+"id": 2492,
+"en": "Before"
+},
+{
+"id": 2493,
+"en": "Day"
+},
+{
+"id": 2494,
+"en": "I put this team before anything else in my life and I simply can't sit here and watch you drive it into the ground.  I'm not ready to give up on you just yet though because I think you and I have the same long term goals in mind, so let's just call this a warning."
+},
+{
+"id": 2495,
+"en": "This replay cannot be loaded. To view this replay you must restart the game in the %s language."
+},
+{
+"id": 2496,
+"en": "-Good hands on defense"
+},
+{
+"id": 2497,
+"en": "Congratulations!  The {0} have completed the goal, \"ðOne player named to the All-Rookie Second Team.\"ð  5 Reward Points have been added to their total."
+},
+{
+"id": 2498,
+"en": "Commentators"
+},
+{
+"id": 2499,
+"en": "-Likes to play in passing lanes"
+},
+{
+"id": 2500,
+"en": "Follow Missed Shots"
+},
+{
+"id": 2501,
+"en": "Camouflage"
+},
+{
+"id": 2502,
+"en": "EASTERN Backpack"
+},
+{
+"id": 2503,
+"en": "Inside Defense"
+},
+{
+"id": 2504,
+"en": "Load VIP"
+},
+{
+"id": 2505,
+"en": "Defensive Skills"
+},
+{
+"id": 2506,
+"en": "Raptors Tote"
+},
+{
+"id": 2507,
+"en": "Diamond Earring"
+},
+{
+"id": 2508,
+"en": "Exit"
+},
+{
+"id": 2509,
+"en": "Archibald Jersey"
+},
+{
+"id": 2510,
+"en": "|M_LINK|"
+},
+{
+"id": 2511,
+"en": "OUT"
+},
+{
+"id": 2512,
+"en": "Gervin Jersey"
+},
+{
+"id": 2513,
+"en": "Story Jumper"
+},
+{
+"id": 2514,
+"en": "to launch Network Configuration Utility"
+},
+{
+"id": 2515,
+"en": "%s  %s %s"
+},
+{
+"id": 2516,
+"en": "{0}Would you like to have the CPU auto-adjust all lineups?"
+},
+{
+"id": 2517,
+"en": "Cnst"
+},
+{
+"id": 2518,
+"en": "Generic Quick Play"
+},
+{
+"id": 2519,
+"en": "2K SPORTS BROWSER"
+},
+{
+"id": 2520,
+"en": "TShC"
+},
+{
+"id": 2521,
+"en": "Isomotion Usage"
+},
+{
+"id": 2522,
+"en": "3 Min"
+},
+{
+"id": 2523,
+"en": "Cavaliers Fisherman"
+},
+{
+"id": 2524,
+"en": "Waiting for a challenge..."
+},
+{
+"id": 2525,
+"en": "No valid network configuration found."
+},
+{
+"id": 2526,
+"en": "St Patrick's"
+},
+{
+"id": 2527,
+"en": "Player Salaries"
+},
+{
+"id": 2528,
+"en": "You've unlocked the International All-Stars!  The NBA has gone global over the last decade.  Check out this team of stars."
+},
+{
+"id": 2529,
+"en": "Player Highs (Per Game)"
+},
+{
+"id": 2530,
+"en": "Franchise Trade Value"
+},
+{
+"id": 2531,
+"en": "Team Veterans - {0}"
+},
+{
+"id": 2532,
+"en": "Rockets Warmup"
+},
+{
+"id": 2533,
+"en": "Draft Year"
+},
+{
+"id": 2534,
+"en": "|M_PRIMARY| Edit"
+},
+{
+"id": 2535,
+"en": "PLAYER THOUGHTS:"
+},
+{
+"id": 2536,
+"en": "Series Length"
+},
+{
+"id": 2537,
+"en": "Two in a Row"
+},
+{
+"id": 2538,
+"en": "Mid"
+},
+{
+"id": 2539,
+"en": "Moustache"
+},
+{
+"id": 2540,
+"en": "Magic Cap"
+},
+{
+"id": 2541,
+"en": "R:%d P:%d %s"
+},
+{
+"id": 2542,
+"en": "[1] [2] was hurt in our last game: [3].  I don't expect him to miss any games, but he is going to be limited in what he can do until he fully heals which should take [4] days."
+},
+{
+"id": 2543,
+"en": "HOME - Up Court"
+},
+{
+"id": 2544,
+"en": "%i.%i%%"
+},
+{
+"id": 2545,
+"en": "Offensive Tendencies"
+},
+{
+"id": 2546,
+"en": "This drill will improve your Blocking, Stealing, and Def. Awareness attributes."
+},
+{
+"id": 2547,
+"en": "Free Throws Made - Attempted"
+},
+{
+"id": 2548,
+"en": "TRIVIA"
+},
+{
+"id": 2549,
+"en": "TOTAL"
+}
+]

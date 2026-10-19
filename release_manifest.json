@@ -1,0 +1,17 @@
+{
+ "version": "v1.1",
+ "date": "2026-10-19",
+ "game": "NBA 2K11 (USA) / SLUS-21936 / PS2 (DVD, ISO)",
+ "asset": "NBA_2K11_PS2_KO_v1.1.xdelta",
+ "asset_size": 70294816,
+ "asset_sha256": "ec5b43019c25bd46d3b2efaa6149041bcc95fc30702a46d6c41242428800cbdb",
+ "xdelta_options": "xdelta3 -e -S none -A (no secondary compression, no application header)",
+ "source_iso_size": 3326181376,
+ "source_iso_md5": "4b5c16eb8d19d066ca6ecb15e362cb74",
+ "source_iso_sha1": "54af6a47030398368ed748f9e03ace558a48a0c8",
+ "source_iso_sha256": "ec02e916d9c0d65ad15f7a2e3d5d477f8189871d1a66d238d8fdef23bdbd5a2e",
+ "output_iso_size": 3405934592,
+ "output_iso_md5": "44bd6c0b7dab2fbce13da83991e439c7",
+ "output_iso_sha1": "788a2f371912e19cf1b35ff26672a0ea5c6e2295",
+ "output_iso_sha256": "c2ad4cf19886564805f3e8e5ab3da43c1f14c7616437f295f971ff7a12ed16fe"
+}

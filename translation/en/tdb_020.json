@@ -1,0 +1,602 @@
+[
+{
+"id": 3000,
+"en": "TDrv"
+},
+{
+"id": 3001,
+"en": "Hook"
+},
+{
+"id": 3002,
+"en": "LAST SEASON"
+},
+{
+"id": 3003,
+"en": "Smothered"
+},
+{
+"id": 3004,
+"en": "2nd Quarter"
+},
+{
+"id": 3005,
+"en": "Flat top"
+},
+{
+"id": 3006,
+"en": "Improve your post play by scoring on the defender in the block."
+},
+{
+"id": 3007,
+"en": "Player Of Week"
+},
+{
+"id": 3008,
+"en": "Guitar"
+},
+{
+"id": 3009,
+"en": "Enter %s Code"
+},
+{
+"id": 3010,
+"en": "Most"
+},
+{
+"id": 3011,
+"en": "The %s was removed during use. Format failed. Press |CROSS| to continue."
+},
+{
+"id": 3012,
+"en": "DNQ"
+},
+{
+"id": 3013,
+"en": "The DUALSHOCK|REG|2 analog controller that paused the game has been removed.\nð\nð"
+},
+{
+"id": 3014,
+"en": "-Pounds the ball inside"
+},
+{
+"id": 3015,
+"en": "RETURN"
+},
+{
+"id": 3016,
+"en": "to select a new coach"
+},
+{
+"id": 3017,
+"en": "Warmup C"
+},
+{
+"id": 3018,
+"en": "Current"
+},
+{
+"id": 3019,
+"en": "Player Banned"
+},
+{
+"id": 3020,
+"en": "Hall Of Fame"
+},
+{
+"id": 3021,
+"en": "Shades 5"
+},
+{
+"id": 3022,
+"en": "Proposed By"
+},
+{
+"id": 3023,
+"en": "|M_RIGHTSTICK| {0}"
+},
+{
+"id": 3024,
+"en": "-Tends to shoot early in the clock"
+},
+{
+"id": 3025,
+"en": "Waiting for schedule generation"
+},
+{
+"id": 3026,
+"en": "1-1-3 Zone"
+},
+{
+"id": 3027,
+"en": "Work on shooting pressured jumpers under control. Dribble to the shot marker, square up, and shoot."
+},
+{
+"id": 3028,
+"en": "Appear Online"
+},
+{
+"id": 3029,
+"en": "Foul Tendency"
+},
+{
+"id": 3030,
+"en": "TripleThreat"
+},
+{
+"id": 3031,
+"en": "2KBeats Panel"
+},
+{
+"id": 3032,
+"en": "Peace Shorts"
+},
+{
+"id": 3033,
+"en": "High Rub SG-C"
+},
+{
+"id": 3034,
+"en": "Quick Post Up"
+},
+{
+"id": 3035,
+"en": "Plastic Bags"
+},
+{
+"id": 3036,
+"en": "Fullcourt Trap"
+},
+{
+"id": 3037,
+"en": "2010 All-Star uniforms"
+},
+{
+"id": 3038,
+"en": "Reach on Defense"
+},
+{
+"id": 3039,
+"en": "-Bails out of shot too often"
+},
+{
+"id": 3040,
+"en": "shot medium, missed"
+},
+{
+"id": 3041,
+"en": "Hair Style"
+},
+{
+"id": 3042,
+"en": "I'm a businessman through and through.  Let's stay out of the red."
+},
+{
+"id": 3043,
+"en": "Load Overlays"
+},
+{
+"id": 3044,
+"en": "2007 Draft"
+},
+{
+"id": 3045,
+"en": "Assoc. Settings"
+},
+{
+"id": 3046,
+"en": " to complete assigning workout"
+},
+{
+"id": 3047,
+"en": "Pick Strength"
+},
+{
+"id": 3048,
+"en": "Sim Speed:"
+},
+{
+"id": 3049,
+"en": "22"
+},
+{
+"id": 3050,
+"en": "Re-sign Players"
+},
+{
+"id": 3051,
+"en": "Man Defense"
+},
+{
+"id": 3052,
+"en": "CAP ROOM"
+},
+{
+"id": 3053,
+"en": " Please do not remove the Memory Card (PS2), disconnect any controllers, or turn the power off."
+},
+{
+"id": 3054,
+"en": "D "
+},
+{
+"id": 3055,
+"en": "Congo"
+},
+{
+"id": 3056,
+"en": "Used some exploits"
+},
+{
+"id": 3057,
+"en": "to advance to selecting end point"
+},
+{
+"id": 3058,
+"en": "-Plays a sagging type of defense"
+},
+{
+"id": 3059,
+"en": "Cavaliers Jersey"
+},
+{
+"id": 3060,
+"en": "injury"
+},
+{
+"id": 3061,
+"en": "Back To Basket Tend."
+},
+{
+"id": 3062,
+"en": "Description"
+},
+{
+"id": 3063,
+"en": "Hawks Jersey"
+},
+{
+"id": 3064,
+"en": "1 Game"
+},
+{
+"id": 3065,
+"en": "Targets"
+},
+{
+"id": 3066,
+"en": "|M_LINK|View Player Card"
+},
+{
+"id": 3067,
+"en": "Conditioning Camp"
+},
+{
+"id": 3068,
+"en": "League - FG%"
+},
+{
+"id": 3069,
+"en": "Team - Blocks"
+},
+{
+"id": 3070,
+"en": "Most Assists"
+},
+{
+"id": 3071,
+"en": "MESSAGES"
+},
+{
+"id": 3072,
+"en": "Drafted Team"
+},
+{
+"id": 3073,
+"en": "TICKETS"
+},
+{
+"id": 3074,
+"en": "The {0} have lost in the NBA Finals, but with a few more roster moves you could win it all next year."
+},
+{
+"id": 3075,
+"en": "Licorice"
+},
+{
+"id": 3076,
+"en": "Putback Tend"
+},
+{
+"id": 3077,
+"en": "Improve our overall team rating considerably this year."
+},
+{
+"id": 3078,
+"en": "Overwrite \"ð%s\"ð on %s?"
+},
+{
+"id": 3079,
+"en": "Red Sport Glasses"
+},
+{
+"id": 3080,
+"en": "Shower Cap"
+},
+{
+"id": 3081,
+"en": "2nd Chance Pts"
+},
+{
+"id": 3082,
+"en": "ABA Ball"
+},
+{
+"id": 3083,
+"en": "Base"
+},
+{
+"id": 3084,
+"en": "Team - FT%"
+},
+{
+"id": 3085,
+"en": "Inside Out SF-PF"
+},
+{
+"id": 3086,
+"en": "Pass Intercept Tend."
+},
+{
+"id": 3087,
+"en": "Bigs PickRoll"
+},
+{
+"id": 3088,
+"en": "Slow"
+},
+{
+"id": 3089,
+"en": "Game of 21"
+},
+{
+"id": 3090,
+"en": "Off. Rebound"
+},
+{
+"id": 3091,
+"en": "Quit"
+},
+{
+"id": 3092,
+"en": "Shot 3pt"
+},
+{
+"id": 3093,
+"en": "Bowl Cut"
+},
+{
+"id": 3094,
+"en": "FOULS PER GAME"
+},
+{
+"id": 3095,
+"en": "<FOUL> (%s)"
+},
+{
+"id": 3096,
+"en": "Intg"
+},
+{
+"id": 3097,
+"en": "10"
+},
+{
+"id": 3098,
+"en": "Auto Flip"
+},
+{
+"id": 3099,
+"en": "11 Bonus Rank Points"
+},
+{
+"id": 3100,
+"en": "Hook Tend"
+},
+{
+"id": 3101,
+"en": "Low Post Offense"
+},
+{
+"id": 3102,
+"en": "Congratulations!  The {0} have completed the goal, \"ðImprove record by 15 wins.\"ð  10 Reward Points have been added to their total."
+},
+{
+"id": 3103,
+"en": "Shooting Foul"
+},
+{
+"id": 3104,
+"en": "owner"
+},
+{
+"id": 3105,
+"en": "VS Team Name"
+},
+{
+"id": 3106,
+"en": "Wht Calf Sleeve"
+},
+{
+"id": 3107,
+"en": "-Uses screens well"
+},
+{
+"id": 3108,
+"en": "Mirror Sport Glasses"
+},
+{
+"id": 3109,
+"en": "Rockets Cap"
+},
+{
+"id": 3110,
+"en": " CAR"
+},
+{
+"id": 3111,
+"en": "Foul"
+},
+{
+"id": 3112,
+"en": "Congratulations!  The {0} have completed the goal, \"ðCoach the Rookie of the Year.\"ð  15 Reward Points have been added to their total."
+},
+{
+"id": 3113,
+"en": "Occasional"
+},
+{
+"id": 3114,
+"en": "CAP AFTER:"
+},
+{
+"id": 3115,
+"en": "1PA"
+},
+{
+"id": 3116,
+"en": "Turnaround"
+},
+{
+"id": 3117,
+"en": "TIMEOUT: "
+},
+{
+"id": 3118,
+"en": "12 Minutes"
+},
+{
+"id": 3119,
+"en": "Chicago"
+},
+{
+"id": 3120,
+"en": "Expected Wins"
+},
+{
+"id": 3121,
+"en": "Manage Lineups"
+},
+{
+"id": 3122,
+"en": "OFG%"
+},
+{
+"id": 3123,
+"en": "Quick Stats"
+},
+{
+"id": 3124,
+"en": "Sign Out"
+},
+{
+"id": 3125,
+"en": "--"
+},
+{
+"id": 3126,
+"en": "turnover"
+},
+{
+"id": 3127,
+"en": "%s SEASON SCORING"
+},
+{
+"id": 3128,
+"en": "strained calf"
+},
+{
+"id": 3129,
+"en": "Scouted Prospects"
+},
+{
+"id": 3130,
+"en": "Team Band"
+},
+{
+"id": 3131,
+"en": "Player Of The Game"
+},
+{
+"id": 3132,
+"en": "Pending Team Options"
+},
+{
+"id": 3133,
+"en": "<CLEAR PATH FOUL> (%s)"
+},
+{
+"id": 3134,
+"en": "Stl"
+},
+{
+"id": 3135,
+"en": "Nets Jersey"
+},
+{
+"id": 3136,
+"en": "Team - Rebounds"
+},
+{
+"id": 3137,
+"en": "Declined"
+},
+{
+"id": 3138,
+"en": "UPSET"
+},
+{
+"id": 3139,
+"en": "Saipan hat"
+},
+{
+"id": 3140,
+"en": "2006 Draft Arena"
+},
+{
+"id": 3141,
+"en": "Defenseive Focus"
+},
+{
+"id": 3142,
+"en": "League Income"
+},
+{
+"id": 3143,
+"en": "Improve record by 20 wins"
+},
+{
+"id": 3144,
+"en": "Black Leather Bag"
+},
+{
+"id": 3145,
+"en": "7 Min"
+},
+{
+"id": 3146,
+"en": "Black Strap"
+},
+{
+"id": 3147,
+"en": "Win 25 games in a row"
+},
+{
+"id": 3148,
+"en": "VIP Stats"
+},
+{
+"id": 3149,
+"en": "Online Sign-In"
+}
+]

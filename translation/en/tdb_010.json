@@ -1,0 +1,602 @@
+[
+{
+"id": 1500,
+"en": "Foul Tend"
+},
+{
+"id": 1501,
+"en": "Combo Guard Camp"
+},
+{
+"id": 1502,
+"en": "Assists Per Game"
+},
+{
+"id": 1503,
+"en": "League - Points"
+},
+{
+"id": 1504,
+"en": "home"
+},
+{
+"id": 1505,
+"en": "Field Goal Percentage"
+},
+{
+"id": 1506,
+"en": "-Below average Shot IQ"
+},
+{
+"id": 1507,
+"en": "|M_NEXTSUBPAGE|"
+},
+{
+"id": 1508,
+"en": "Low Post SF"
+},
+{
+"id": 1509,
+"en": "Brazil"
+},
+{
+"id": 1510,
+"en": "TURNOVERS PER GAME"
+},
+{
+"id": 1511,
+"en": "VIP"
+},
+{
+"id": 1512,
+"en": "KB"
+},
+{
+"id": 1513,
+"en": "NBA Retro Jersey"
+},
+{
+"id": 1514,
+"en": "Perimeter Shooting Camp"
+},
+{
+"id": 1515,
+"en": "MADE:"
+},
+{
+"id": 1516,
+"en": "WESTERN Shorts"
+},
+{
+"id": 1517,
+"en": "Defensive Rebounding"
+},
+{
+"id": 1518,
+"en": "Timed out signing into 2K Sports. Please try again shortly."
+},
+{
+"id": 1519,
+"en": "Thunder Arena"
+},
+{
+"id": 1520,
+"en": "3 Man Roll 1-3"
+},
+{
+"id": 1521,
+"en": "Assistant Coach"
+},
+{
+"id": 1522,
+"en": "Eastern Conference"
+},
+{
+"id": 1523,
+"en": "TPG"
+},
+{
+"id": 1524,
+"en": "Reb"
+},
+{
+"id": 1525,
+"en": "-Tough shot blocker"
+},
+{
+"id": 1526,
+"en": "Bad Release (too late)"
+},
+{
+"id": 1527,
+"en": "none"
+},
+{
+"id": 1528,
+"en": "to Return"
+},
+{
+"id": 1529,
+"en": " HLF2"
+},
+{
+"id": 1530,
+"en": "2nd Team Calf Sleeve"
+},
+{
+"id": 1531,
+"en": "Select to Add Team"
+},
+{
+"id": 1532,
+"en": "Approval"
+},
+{
+"id": 1533,
+"en": "Out Of Bounds"
+},
+{
+"id": 1534,
+"en": "Great game."
+},
+{
+"id": 1535,
+"en": "Fast Break Pts"
+},
+{
+"id": 1536,
+"en": "%s %d"
+},
+{
+"id": 1537,
+"en": "Bucks Warmup"
+},
+{
+"id": 1538,
+"en": "Overall Pick"
+},
+{
+"id": 1539,
+"en": "Dunk"
+},
+{
+"id": 1540,
+"en": "Hornets Backpack"
+},
+{
+"id": 1541,
+"en": "@ %s"
+},
+{
+"id": 1542,
+"en": "TEAMS"
+},
+{
+"id": 1543,
+"en": "SALARY CAP:"
+},
+{
+"id": 1544,
+"en": "Mirror specs"
+},
+{
+"id": 1545,
+"en": "3"
+},
+{
+"id": 1546,
+"en": "OVERALL LEADERBOARD"
+},
+{
+"id": 1547,
+"en": "'s"
+},
+{
+"id": 1548,
+"en": "PLAY FOR WINNER:"
+},
+{
+"id": 1549,
+"en": "Beachball"
+},
+{
+"id": 1550,
+"en": "Offensive Summary"
+},
+{
+"id": 1551,
+"en": "Uruguay"
+},
+{
+"id": 1552,
+"en": "-May take low percentage shots"
+},
+{
+"id": 1553,
+"en": "PG Elbow Iso"
+},
+{
+"id": 1554,
+"en": "3 Sec in the Key"
+},
+{
+"id": 1555,
+"en": "-Hustles for offensive boards"
+},
+{
+"id": 1556,
+"en": "Yellow Sport Glasses"
+},
+{
+"id": 1557,
+"en": "This clip name is already in use"
+},
+{
+"id": 1558,
+"en": "Pistol Jersey"
+},
+{
+"id": 1559,
+"en": "Game Stats"
+},
+{
+"id": 1560,
+"en": "Valentine's Day Uniforms"
+},
+{
+"id": 1561,
+"en": "Good D"
+},
+{
+"id": 1562,
+"en": "EXPENDITURES: {0}"
+},
+{
+"id": 1563,
+"en": "to draft prospect"
+},
+{
+"id": 1564,
+"en": "Coach the Rookie of the Year"
+},
+{
+"id": 1565,
+"en": "Most Off Rebounds"
+},
+{
+"id": 1566,
+"en": "Normal Stylish Glasses"
+},
+{
+"id": 1567,
+"en": "Jordan Team Select"
+},
+{
+"id": 1568,
+"en": "D+"
+},
+{
+"id": 1569,
+"en": "90W"
+},
+{
+"id": 1570,
+"en": "Dbl-Team"
+},
+{
+"id": 1571,
+"en": "-Plays an uptempo game"
+},
+{
+"id": 1572,
+"en": "Nuggets Fisherman"
+},
+{
+"id": 1573,
+"en": "Shoot in Traffic"
+},
+{
+"id": 1574,
+"en": "Short Flattop"
+},
+{
+"id": 1575,
+"en": "Round"
+},
+{
+"id": 1576,
+"en": "Halftime"
+},
+{
+"id": 1577,
+"en": "15 Minutes"
+},
+{
+"id": 1578,
+"en": "On Fire!"
+},
+{
+"id": 1579,
+"en": "Error"
+},
+{
+"id": 1580,
+"en": "Shades 2"
+},
+{
+"id": 1581,
+"en": "D:"
+},
+{
+"id": 1582,
+"en": "BOXOUT"
+},
+{
+"id": 1583,
+"en": "FRI"
+},
+{
+"id": 1584,
+"en": "Appearance 5"
+},
+{
+"id": 1585,
+"en": "4 Man Post 3"
+},
+{
+"id": 1586,
+"en": "Flash Arena"
+},
+{
+"id": 1587,
+"en": "3PT Tend"
+},
+{
+"id": 1588,
+"en": "Not Centered (with very early release)"
+},
+{
+"id": 1589,
+"en": "Screen Screener SF"
+},
+{
+"id": 1590,
+"en": "RPG"
+},
+{
+"id": 1591,
+"en": "-Good at contesting shots"
+},
+{
+"id": 1592,
+"en": "80W"
+},
+{
+"id": 1593,
+"en": "Very Late"
+},
+{
+"id": 1594,
+"en": "Codes"
+},
+{
+"id": 1595,
+"en": "DEFENSE"
+},
+{
+"id": 1596,
+"en": "Password"
+},
+{
+"id": 1597,
+"en": "All Plays"
+},
+{
+"id": 1598,
+"en": "-Tends to rely on jumpshooters"
+},
+{
+"id": 1599,
+"en": "-Likes to mix it up on defense"
+},
+{
+"id": 1600,
+"en": "Timeouts"
+},
+{
+"id": 1601,
+"en": "Feb"
+},
+{
+"id": 1602,
+"en": "A problem was encountered while downloading this content.  Please try again later."
+},
+{
+"id": 1603,
+"en": "CONFERENCE RANK"
+},
+{
+"id": 1604,
+"en": "Latvia"
+},
+{
+"id": 1605,
+"en": "Power Forwards DEBUG"
+},
+{
+"id": 1606,
+"en": "Slicked Back 2"
+},
+{
+"id": 1607,
+"en": "Set Active"
+},
+{
+"id": 1608,
+"en": "Yes"
+},
+{
+"id": 1609,
+"en": "-Rarely attacks the rim"
+},
+{
+"id": 1610,
+"en": "Sixers Fisherman"
+},
+{
+"id": 1611,
+"en": "-Likes to spread the floor"
+},
+{
+"id": 1612,
+"en": "Reward Points Available: {0:d}"
+},
+{
+"id": 1613,
+"en": "to Play Next Game"
+},
+{
+"id": 1614,
+"en": "2KSports Team"
+},
+{
+"id": 1615,
+"en": "You will lose your current game if you quit. Unsaved data will be lost. Quit now?"
+},
+{
+"id": 1616,
+"en": "Shot Tendency"
+},
+{
+"id": 1617,
+"en": "to exit"
+},
+{
+"id": 1618,
+"en": "Canteen"
+},
+{
+"id": 1619,
+"en": "East All-Stars"
+},
+{
+"id": 1620,
+"en": "6 Min"
+},
+{
+"id": 1621,
+"en": "any rating"
+},
+{
+"id": 1622,
+"en": "Pacers Retro"
+},
+{
+"id": 1623,
+"en": "Playbook"
+},
+{
+"id": 1624,
+"en": "3PT Ability"
+},
+{
+"id": 1625,
+"en": "PF"
+},
+{
+"id": 1626,
+"en": "What would you like to do with {0}'s option?"
+},
+{
+"id": 1627,
+"en": " @ "
+},
+{
+"id": 1628,
+"en": "Game Tempo"
+},
+{
+"id": 1629,
+"en": "-Attempts a lot of shot blocks"
+},
+{
+"id": 1630,
+"en": "Offense Clutch"
+},
+{
+"id": 1631,
+"en": "TIMEOUTS"
+},
+{
+"id": 1632,
+"en": "Rejected"
+},
+{
+"id": 1633,
+"en": "Cornrows"
+},
+{
+"id": 1634,
+"en": "No other significant strengths"
+},
+{
+"id": 1635,
+"en": "Basketball I.Q."
+},
+{
+"id": 1636,
+"en": "C "
+},
+{
+"id": 1637,
+"en": "Drop From League"
+},
+{
+"id": 1638,
+"en": "%s, do you consent to aborting this game?  If Yes, then this game will not count towards either player's record. If No, then you will be awarded with the win, if %s quits."
+},
+{
+"id": 1639,
+"en": "Shoot In Traffic"
+},
+{
+"id": 1640,
+"en": "3PA"
+},
+{
+"id": 1641,
+"en": "-Has an uptempo-style of play"
+},
+{
+"id": 1642,
+"en": "Player Scouting"
+},
+{
+"id": 1643,
+"en": "3pt SG Screen"
+},
+{
+"id": 1644,
+"en": "Who to Guard"
+},
+{
+"id": 1645,
+"en": "Foul Trouble"
+},
+{
+"id": 1646,
+"en": "Raptors Cap"
+},
+{
+"id": 1647,
+"en": "1st QUARTER STARS"
+},
+{
+"id": 1648,
+"en": "SUBSTITUTION"
+},
+{
+"id": 1649,
+"en": "Add Player"
+}
+]

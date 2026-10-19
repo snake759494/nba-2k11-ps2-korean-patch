@@ -1,0 +1,602 @@
+[
+{
+"id": 3600,
+"en": "19 Min"
+},
+{
+"id": 3601,
+"en": "Save Replay"
+},
+{
+"id": 3602,
+"en": "Training 24/7"
+},
+{
+"id": 3603,
+"en": "-Tenacious on-ball defender"
+},
+{
+"id": 3604,
+"en": "Change Jersey Number"
+},
+{
+"id": 3605,
+"en": "Inside Game"
+},
+{
+"id": 3606,
+"en": "Train_FullCourtIso"
+},
+{
+"id": 3607,
+"en": "Bobcats Racing Uniform"
+},
+{
+"id": 3608,
+"en": "2005 Glasses"
+},
+{
+"id": 3609,
+"en": "20 Minutes"
+},
+{
+"id": 3610,
+"en": "Weak-side feed C"
+},
+{
+"id": 3611,
+"en": "Growth Debug"
+},
+{
+"id": 3612,
+"en": "Waves"
+},
+{
+"id": 3613,
+"en": "%ind%s"
+},
+{
+"id": 3614,
+"en": "NBA.COM"
+},
+{
+"id": 3615,
+"en": "Clutch/Turbo Mascot"
+},
+{
+"id": 3616,
+"en": "Challenge Settings"
+},
+{
+"id": 3617,
+"en": "Win Awarded"
+},
+{
+"id": 3618,
+"en": "Secondary road uniforms - Hornets / Magic / Timberwolves"
+},
+{
+"id": 3619,
+"en": "Sports"
+},
+{
+"id": 3620,
+"en": "Southwest"
+},
+{
+"id": 3621,
+"en": "Must Clear Ball"
+},
+{
+"id": 3622,
+"en": "Robot Goggles"
+},
+{
+"id": 3623,
+"en": "Home Record"
+},
+{
+"id": 3624,
+"en": "Spurs Cap"
+},
+{
+"id": 3625,
+"en": "Lakers Cap"
+},
+{
+"id": 3626,
+"en": "Controller Assign"
+},
+{
+"id": 3627,
+"en": "Jordan Melo M4"
+},
+{
+"id": 3628,
+"en": "Today"
+},
+{
+"id": 3629,
+"en": "Second Quarter"
+},
+{
+"id": 3630,
+"en": "Turkey"
+},
+{
+"id": 3631,
+"en": "It is too late to replace dropped players. Are you sure you want to drop %s?"
+},
+{
+"id": 3632,
+"en": "OFF. REBOUNDS PER GAME"
+},
+{
+"id": 3633,
+"en": "2008"
+},
+{
+"id": 3634,
+"en": "Career Averages (Per Game)"
+},
+{
+"id": 3635,
+"en": "Celebrities"
+},
+{
+"id": 3636,
+"en": "Ping"
+},
+{
+"id": 3637,
+"en": "Tracks"
+},
+{
+"id": 3638,
+"en": "Safari Hat"
+},
+{
+"id": 3639,
+"en": "Spain"
+},
+{
+"id": 3640,
+"en": "OFFENSIVE TEMPO"
+},
+{
+"id": 3641,
+"en": "assist"
+},
+{
+"id": 3642,
+"en": "Jerri Curl"
+},
+{
+"id": 3643,
+"en": "Successfully loaded %s \"ð%s\"ð from %s."
+},
+{
+"id": 3644,
+"en": "Important"
+},
+{
+"id": 3645,
+"en": "Oct"
+},
+{
+"id": 3646,
+"en": "Clippers Warmup"
+},
+{
+"id": 3647,
+"en": "Nuggets Backpack"
+},
+{
+"id": 3648,
+"en": "20 Min"
+},
+{
+"id": 3649,
+"en": "Enter Code to add an unlockable item to your list.  Upon entering the code, you will need to save your Settings file for the unlockable to be permanently saved."
+},
+{
+"id": 3650,
+"en": "Mavericks Cap"
+},
+{
+"id": 3651,
+"en": "LeaderPage"
+},
+{
+"id": 3652,
+"en": "Romania"
+},
+{
+"id": 3653,
+"en": "Power Low C"
+},
+{
+"id": 3654,
+"en": "Drexler Jersey"
+},
+{
+"id": 3655,
+"en": "add a player type guideline"
+},
+{
+"id": 3656,
+"en": "Raptors Backpack"
+},
+{
+"id": 3657,
+"en": "Right Leg Items"
+},
+{
+"id": 3658,
+"en": "This drill will improve your Shot Close, Layup, Dunk, and Off. Awareness attributes."
+},
+{
+"id": 3659,
+"en": "Second Chance Points"
+},
+{
+"id": 3660,
+"en": "<BASKET INTERFERENCE -> %s"
+},
+{
+"id": 3661,
+"en": "May"
+},
+{
+"id": 3662,
+"en": "Improve record over last year"
+},
+{
+"id": 3663,
+"en": "|M_SECONDARY| WHAT ARE SCOUTING REPORTS?"
+},
+{
+"id": 3664,
+"en": "50's/60's"
+},
+{
+"id": 3665,
+"en": "Jumpshot Timing"
+},
+{
+"id": 3666,
+"en": "Game Speed"
+},
+{
+"id": 3667,
+"en": "Verbally abusive"
+},
+{
+"id": 3668,
+"en": "Triple Threat Usage"
+},
+{
+"id": 3669,
+"en": "Grizzlies Tote"
+},
+{
+"id": 3670,
+"en": "Putback Tendency"
+},
+{
+"id": 3671,
+"en": "Commentary Vol"
+},
+{
+"id": 3672,
+"en": "Ready to play. Headset users only."
+},
+{
+"id": 3673,
+"en": "Heat Fisherman"
+},
+{
+"id": 3674,
+"en": "WEAKNESSES:"
+},
+{
+"id": 3675,
+"en": "Bobcats Cap"
+},
+{
+"id": 3676,
+"en": "Play by Play"
+},
+{
+"id": 3677,
+"en": "{0} ({1}) has been injured: {2}, 1 day. {3}"
+},
+{
+"id": 3678,
+"en": "PG:"
+},
+{
+"id": 3679,
+"en": "Set Playback"
+},
+{
+"id": 3680,
+"en": "POSITIVE:"
+},
+{
+"id": 3681,
+"en": "-Plays a slashing-type game"
+},
+{
+"id": 3682,
+"en": "Total Wins"
+},
+{
+"id": 3683,
+"en": "to sort"
+},
+{
+"id": 3684,
+"en": "offensive foul"
+},
+{
+"id": 3685,
+"en": "Load Arena Music"
+},
+{
+"id": 3686,
+"en": "{0:d}{1}"
+},
+{
+"id": 3687,
+"en": "Conf Finals Format"
+},
+{
+"id": 3688,
+"en": "<%s  %s %s>"
+},
+{
+"id": 3689,
+"en": "Congratulations!  The {0} have completed the goal, \"ðPlay a rookie 30+ minutes per game.\"ð  20 Reward Points have been added to their total."
+},
+{
+"id": 3690,
+"en": "<PTS:> %s <(%s)>"
+},
+{
+"id": 3691,
+"en": "Abuses exploits"
+},
+{
+"id": 3692,
+"en": "Medium"
+},
+{
+"id": 3693,
+"en": "You have already selected the maximum number of teams"
+},
+{
+"id": 3694,
+"en": "WESTERN Jersey"
+},
+{
+"id": 3695,
+"en": "-Takes smart shots"
+},
+{
+"id": 3696,
+"en": "for trade options"
+},
+{
+"id": 3697,
+"en": "Clog Passing Lanes"
+},
+{
+"id": 3698,
+"en": "TS Lightswitch Garnett"
+},
+{
+"id": 3699,
+"en": "Nosebleeds"
+},
+{
+"id": 3700,
+"en": "{0:d2}"
+},
+{
+"id": 3701,
+"en": "to return to HoopCast"
+},
+{
+"id": 3702,
+"en": "League - Rebounds"
+},
+{
+"id": 3703,
+"en": "-Double teams stars in coaching menu"
+},
+{
+"id": 3704,
+"en": "OUT OF BOUNDS"
+},
+{
+"id": 3705,
+"en": "HME"
+},
+{
+"id": 3706,
+"en": "-Rarely attempts interceptions"
+},
+{
+"id": 3707,
+"en": "for next notification"
+},
+{
+"id": 3708,
+"en": "Round 2"
+},
+{
+"id": 3709,
+"en": "This drill will improve your Stealing and Def. Awareness attributes."
+},
+{
+"id": 3710,
+"en": "Any unsaved changes to your Arena Music settings will be lost.  Continue?"
+},
+{
+"id": 3711,
+"en": "%s JUST RECORDED A QUADRUPLE DOUBLE!!!"
+},
+{
+"id": 3712,
+"en": "TOR"
+},
+{
+"id": 3713,
+"en": "Very Late:"
+},
+{
+"id": 3714,
+"en": "<CHARGING -> %s %s PERSONAL"
+},
+{
+"id": 3715,
+"en": "Warriors Warmup"
+},
+{
+"id": 3716,
+"en": "ROOKIE"
+},
+{
+"id": 3717,
+"en": "Baylor Jersey"
+},
+{
+"id": 3718,
+"en": "Rockets Tote"
+},
+{
+"id": 3719,
+"en": "4 Man Iso 4"
+},
+{
+"id": 3720,
+"en": "View Settings"
+},
+{
+"id": 3721,
+"en": "NBA Draft"
+},
+{
+"id": 3722,
+"en": "Ovr"
+},
+{
+"id": 3723,
+"en": "Grizzlies Warmup"
+},
+{
+"id": 3724,
+"en": "Best of 7"
+},
+{
+"id": 3725,
+"en": "Flexible Schedule"
+},
+{
+"id": 3726,
+"en": "approved"
+},
+{
+"id": 3727,
+"en": "<PLAYER INJURY -> %s"
+},
+{
+"id": 3728,
+"en": "Headphones"
+},
+{
+"id": 3729,
+"en": "Vibration"
+},
+{
+"id": 3730,
+"en": "%"
+},
+{
+"id": 3731,
+"en": "to change stat view"
+},
+{
+"id": 3732,
+"en": "Cursing or Lewdness"
+},
+{
+"id": 3733,
+"en": "|CROSS| Options"
+},
+{
+"id": 3734,
+"en": "to Change / Edit Info"
+},
+{
+"id": 3735,
+"en": "Half Court"
+},
+{
+"id": 3736,
+"en": "Season Complete."
+},
+{
+"id": 3737,
+"en": "Bucks Backpack"
+},
+{
+"id": 3738,
+"en": "Bobcats Jersey"
+},
+{
+"id": 3739,
+"en": "Caps"
+},
+{
+"id": 3740,
+"en": "Signing in %s.\nð\nðESRB Notice: Online Interactions Not Rated by the ESRB."
+},
+{
+"id": 3741,
+"en": "TRACK"
+},
+{
+"id": 3742,
+"en": "Executive of the Year"
+},
+{
+"id": 3743,
+"en": "FG PCT"
+},
+{
+"id": 3744,
+"en": "Got game? Prove it online!\nð\nðPlay NBA 2K8, College Hoops 2K8, or both games online and you could WIN prizes every week! All you need to do to win is be one of the top 5 ballers on the PowerBar|REG| Triple Threat|TM| Hoops Leaderboard.\nð\nðTo find out more about the PowerBar Triple Threat Hoops Leaderboard competition and what you need to do to get into the action, check the PowerBar story in the News Section. You can also get full program details and register at www.2ksports.com."
+},
+{
+"id": 3745,
+"en": "Leave Tournament"
+},
+{
+"id": 3746,
+"en": "-Prone to overuse jump passes"
+},
+{
+"id": 3747,
+"en": "2 Minutes"
+},
+{
+"id": 3748,
+"en": "POTENTIAL"
+},
+{
+"id": 3749,
+"en": "90's West"
+}
+]

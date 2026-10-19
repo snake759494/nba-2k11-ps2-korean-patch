@@ -1,0 +1,602 @@
+[
+{
+"id": 1950,
+"en": "Warriors Cap"
+},
+{
+"id": 1951,
+"en": "Pistons Backpack"
+},
+{
+"id": 1952,
+"en": "Mavericks Fisherman"
+},
+{
+"id": 1953,
+"en": "%s HAS A STRAINED HAMSTRING BUT CAN RETURN"
+},
+{
+"id": 1954,
+"en": "Retro Heat"
+},
+{
+"id": 1955,
+"en": "Avg"
+},
+{
+"id": 1956,
+"en": "High Rub PG-C"
+},
+{
+"id": 1957,
+"en": "Appearance 1"
+},
+{
+"id": 1958,
+"en": "Corner Roll SG-C"
+},
+{
+"id": 1959,
+"en": "60 or better"
+},
+{
+"id": 1960,
+"en": "Def 3 Sec in the Key"
+},
+{
+"id": 1961,
+"en": "-Looks to dish off while shooting"
+},
+{
+"id": 1962,
+"en": "Rematch"
+},
+{
+"id": 1963,
+"en": "Wireframe"
+},
+{
+"id": 1964,
+"en": "Unfortunately, [1] [2] was injured in our game last night: [3].  He can play through the pain if you want him to, but don't expect him to be full strength for another [4] days."
+},
+{
+"id": 1965,
+"en": "OFF"
+},
+{
+"id": 1966,
+"en": "The Analog Controller (DUALSHOCK|REG|2) is detected. Please press |START| to continue."
+},
+{
+"id": 1967,
+"en": "Draft Class '04"
+},
+{
+"id": 1968,
+"en": "One on One"
+},
+{
+"id": 1969,
+"en": "FOCUS"
+},
+{
+"id": 1970,
+"en": "Sweat Jersey"
+},
+{
+"id": 1971,
+"en": "Hoops Leaderboard"
+},
+{
+"id": 1972,
+"en": "-Commits few fouls"
+},
+{
+"id": 1973,
+"en": "to sort column"
+},
+{
+"id": 1974,
+"en": "View Full Leagues"
+},
+{
+"id": 1975,
+"en": "coach"
+},
+{
+"id": 1976,
+"en": "Dreadlocks"
+},
+{
+"id": 1977,
+"en": "Assign Workouts"
+},
+{
+"id": 1978,
+"en": "Third Quarter"
+},
+{
+"id": 1979,
+"en": "Surgical Mask"
+},
+{
+"id": 1980,
+"en": "Points For"
+},
+{
+"id": 1981,
+"en": "The {0} must keep 12 players on the team."
+},
+{
+"id": 1982,
+"en": "Italy"
+},
+{
+"id": 1983,
+"en": "Home Timeouts"
+},
+{
+"id": 1984,
+"en": "Auto w/ Msg"
+},
+{
+"id": 1985,
+"en": "Save Season Game"
+},
+{
+"id": 1986,
+"en": "ATLANTIC DIVISION"
+},
+{
+"id": 1987,
+"en": "Armband Black"
+},
+{
+"id": 1988,
+"en": "Save Association Game"
+},
+{
+"id": 1989,
+"en": "HANDS"
+},
+{
+"id": 1990,
+"en": "Hold |M_SECONDARY| to speed up CPU select"
+},
+{
+"id": 1991,
+"en": "Beard Style"
+},
+{
+"id": 1992,
+"en": "SHOOTING"
+},
+{
+"id": 1993,
+"en": "A network problem has been encountered that prevents gameplay from continuing. If this is a ranked game it will not be counted."
+},
+{
+"id": 1994,
+"en": "November"
+},
+{
+"id": 1995,
+"en": "3pt PF Stepout"
+},
+{
+"id": 1996,
+"en": "2 Man Roll 1-2"
+},
+{
+"id": 1997,
+"en": "|M_PREVPAGE|"
+},
+{
+"id": 1998,
+"en": "st"
+},
+{
+"id": 1999,
+"en": "for Navigational Menu"
+},
+{
+"id": 2000,
+"en": "%s Shooting"
+},
+{
+"id": 2001,
+"en": "High Rub PG-PF"
+},
+{
+"id": 2002,
+"en": "Nets Backpack"
+},
+{
+"id": 2003,
+"en": "Walton Jersey"
+},
+{
+"id": 2004,
+"en": "Ranked Game"
+},
+{
+"id": 2005,
+"en": "Block Success"
+},
+{
+"id": 2006,
+"en": "OVERALL"
+},
+{
+"id": 2007,
+"en": "SHOOT IN TRAFFIC"
+},
+{
+"id": 2008,
+"en": "Simulate Game"
+},
+{
+"id": 2009,
+"en": "POINTS PER GAME"
+},
+{
+"id": 2010,
+"en": "Yellow Classics"
+},
+{
+"id": 2011,
+"en": "Are you sure you wish to quit your current position?"
+},
+{
+"id": 2012,
+"en": "Send your player to Combo Guard Camp and he will gain 4 points in the following categories: Ball Handling, Passing, and Shoot In Traffic."
+},
+{
+"id": 2013,
+"en": "LAST ONLINE:"
+},
+{
+"id": 2014,
+"en": "Stereo"
+},
+{
+"id": 2015,
+"en": "Defensive Pressure"
+},
+{
+"id": 2016,
+"en": "foul"
+},
+{
+"id": 2017,
+"en": "Proposal"
+},
+{
+"id": 2018,
+"en": "Overtime"
+},
+{
+"id": 2019,
+"en": "Uncontested Shot!"
+},
+{
+"id": 2020,
+"en": "Take the ball to the hole and score with either a layup or dunk. Try changing shot in mid-air to avoid getting blocked."
+},
+{
+"id": 2021,
+"en": "Congratulations!  The {0} have completed the goal, \"ðWin 10 games in a row.\"ð  10 Reward Points have been added to their total."
+},
+{
+"id": 2022,
+"en": "Two man game where the screener rolls to the basket after setting a pick."
+},
+{
+"id": 2023,
+"en": "Season Length"
+},
+{
+"id": 2024,
+"en": "to Scout Player"
+},
+{
+"id": 2025,
+"en": "8 Sec Half Court"
+},
+{
+"id": 2026,
+"en": "Kings Backpack"
+},
+{
+"id": 2027,
+"en": "Rested"
+},
+{
+"id": 2028,
+"en": "Look for Post Players"
+},
+{
+"id": 2029,
+"en": "to Delete a Team"
+},
+{
+"id": 2030,
+"en": "Vertical"
+},
+{
+"id": 2031,
+"en": "to Start"
+},
+{
+"id": 2032,
+"en": "Hurt"
+},
+{
+"id": 2033,
+"en": "Drill Result"
+},
+{
+"id": 2034,
+"en": "No significant weaknesses"
+},
+{
+"id": 2035,
+"en": "to Sort"
+},
+{
+"id": 2036,
+"en": "Offensive Rebounds"
+},
+{
+"id": 2037,
+"en": "The Analog Controller (DUALSHOCK|REG|2) that paused the game has been removed.\nð\nð"
+},
+{
+"id": 2038,
+"en": "Send your player to Basketball 101 Camp and he will gain 4 points in the following categories: Offensive Awareness, Defensive Awareness, and Hands."
+},
+{
+"id": 2039,
+"en": "O"
+},
+{
+"id": 2040,
+"en": "team rebound"
+},
+{
+"id": 2041,
+"en": "to Select a Team"
+},
+{
+"id": 2042,
+"en": "GAME SOUND"
+},
+{
+"id": 2043,
+"en": "All Players"
+},
+{
+"id": 2044,
+"en": "[1] [2] picked up a minor injury in our last game: [3].  He isn't expected to miss any time, though he won't be able to give you 100% for another [4] days."
+},
+{
+"id": 2045,
+"en": "Black 2-way"
+},
+{
+"id": 2046,
+"en": "Settings Changed"
+},
+{
+"id": 2047,
+"en": "Item"
+},
+{
+"id": 2048,
+"en": "Address 2"
+},
+{
+"id": 2049,
+"en": "Good"
+},
+{
+"id": 2050,
+"en": "Pistons Cap"
+},
+{
+"id": 2051,
+"en": "Games"
+},
+{
+"id": 2052,
+"en": "Power Forward"
+},
+{
+"id": 2053,
+"en": "-- end of period --"
+},
+{
+"id": 2054,
+"en": "Flower Pot"
+},
+{
+"id": 2055,
+"en": "Welcome to the Arena Music Manager!"
+},
+{
+"id": 2056,
+"en": "Flashy Pass"
+},
+{
+"id": 2057,
+"en": "2 Min"
+},
+{
+"id": 2058,
+"en": "Save Anim Stats"
+},
+{
+"id": 2059,
+"en": "Away Sock Color"
+},
+{
+"id": 2060,
+"en": "Fatigue Bar"
+},
+{
+"id": 2061,
+"en": "TOP PERFORMANCE"
+},
+{
+"id": 2062,
+"en": "Great all-around experience"
+},
+{
+"id": 2063,
+"en": "Pick In Round"
+},
+{
+"id": 2064,
+"en": "-Poor Shot IQ"
+},
+{
+"id": 2065,
+"en": "3Pt"
+},
+{
+"id": 2066,
+"en": "Formatting the %s failed. Press |CROSS| to continue."
+},
+{
+"id": 2067,
+"en": "-Double teams near sidelines"
+},
+{
+"id": 2068,
+"en": "-Gets 2nd chance opportunities often"
+},
+{
+"id": 2069,
+"en": "Shot Tend"
+},
+{
+"id": 2070,
+"en": "2nd HALF"
+},
+{
+"id": 2071,
+"en": "Black"
+},
+{
+"id": 2072,
+"en": "Minutes Played"
+},
+{
+"id": 2073,
+"en": "Congratulations!  The {0} have completed the goal, \"ðTwo players named to the All-Star team.\"ð  10 Reward Points have been added to their total."
+},
+{
+"id": 2074,
+"en": "Simulate All Games"
+},
+{
+"id": 2075,
+"en": "SF Take"
+},
+{
+"id": 2076,
+"en": "accepted"
+},
+{
+"id": 2077,
+"en": "J. HavlicekJersey"
+},
+{
+"id": 2078,
+"en": "-Plays tight defense on everyone"
+},
+{
+"id": 2079,
+"en": "Sim Quarter Length"
+},
+{
+"id": 2080,
+"en": "-Makes poor decisions on defense"
+},
+{
+"id": 2081,
+"en": "-Tends to leave shooters open"
+},
+{
+"id": 2082,
+"en": "%ird%s"
+},
+{
+"id": 2083,
+"en": "Quickness"
+},
+{
+"id": 2084,
+"en": "Grade"
+},
+{
+"id": 2085,
+"en": "-Posts up |PCT_POST| of the time"
+},
+{
+"id": 2086,
+"en": "Quick Match"
+},
+{
+"id": 2087,
+"en": "Clippers"
+},
+{
+"id": 2088,
+"en": "DURABILITY"
+},
+{
+"id": 2089,
+"en": "Playoff Teams"
+},
+{
+"id": 2090,
+"en": "Reward Points"
+},
+{
+"id": 2091,
+"en": "Army Helmet"
+},
+{
+"id": 2092,
+"en": "0 Min"
+},
+{
+"id": 2093,
+"en": "Lineups"
+},
+{
+"id": 2094,
+"en": "Best of 5"
+},
+{
+"id": 2095,
+"en": "Free Agency Period Ending\nð%s is about to return to the free agent pool.  Sign him now?"
+},
+{
+"id": 2096,
+"en": "This drill will improve your Shot Close, Shot Medium, and Shot 3PT skills."
+},
+{
+"id": 2097,
+"en": "sore knee"
+},
+{
+"id": 2098,
+"en": "Player Statistics"
+},
+{
+"id": 2099,
+"en": "Retro 1"
+}
+]

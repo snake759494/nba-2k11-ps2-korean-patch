@@ -1,0 +1,602 @@
+[
+{
+"id": 450,
+"en": "Blocking Foul"
+},
+{
+"id": 451,
+"en": "Crowd Vol"
+},
+{
+"id": 452,
+"en": "Practice Modes"
+},
+{
+"id": 453,
+"en": "Manual"
+},
+{
+"id": 454,
+"en": "Duration"
+},
+{
+"id": 455,
+"en": "REBS"
+},
+{
+"id": 456,
+"en": "Senegal"
+},
+{
+"id": 457,
+"en": "Street Match Settings"
+},
+{
+"id": 458,
+"en": "FPG"
+},
+{
+"id": 459,
+"en": "Michael Jordan"
+},
+{
+"id": 460,
+"en": "Player named to Defensive First Team All-NBA"
+},
+{
+"id": 461,
+"en": "Starting Possession"
+},
+{
+"id": 462,
+"en": "Contested Shot Tend."
+},
+{
+"id": 463,
+"en": "On-Ball Steal"
+},
+{
+"id": 464,
+"en": "Congratulations!  The {0} have completed the goal, \"ðPlay a rookie 20+ minutes per game.\"ð  10 Reward Points have been added to their total."
+},
+{
+"id": 465,
+"en": "CAMP"
+},
+{
+"id": 466,
+"en": "You've unlocked the Rip City uniform for the Trail Blazers!  Note that it is only available as the home team."
+},
+{
+"id": 467,
+"en": "None"
+},
+{
+"id": 468,
+"en": "Trading"
+},
+{
+"id": 469,
+"en": "Pick Roll Forwards"
+},
+{
+"id": 470,
+"en": "Not a Jumpshot..."
+},
+{
+"id": 471,
+"en": "Grizzlies Cap"
+},
+{
+"id": 472,
+"en": "-Doesn't change shot often"
+},
+{
+"id": 473,
+"en": "Quick"
+},
+{
+"id": 474,
+"en": "Shuffle-Cut Option"
+},
+{
+"id": 475,
+"en": "Scene Viewer"
+},
+{
+"id": 476,
+"en": "2 Man Post 1"
+},
+{
+"id": 477,
+"en": "DRAFTED"
+},
+{
+"id": 478,
+"en": "Not Loyal"
+},
+{
+"id": 479,
+"en": "Kings"
+},
+{
+"id": 480,
+"en": "to show prospect card"
+},
+{
+"id": 481,
+"en": "COACH"
+},
+{
+"id": 482,
+"en": "DIFF"
+},
+{
+"id": 483,
+"en": "Hornets Mardi Gras uniform"
+},
+{
+"id": 484,
+"en": "Shot Close"
+},
+{
+"id": 485,
+"en": "September"
+},
+{
+"id": 486,
+"en": "Hire Assistant"
+},
+{
+"id": 487,
+"en": "6 Years"
+},
+{
+"id": 488,
+"en": "Player"
+},
+{
+"id": 489,
+"en": "Help Defense Strength"
+},
+{
+"id": 490,
+"en": "Stamina"
+},
+{
+"id": 491,
+"en": "-Has a patient halfcourt game"
+},
+{
+"id": 492,
+"en": "Select Soundtrack"
+},
+{
+"id": 493,
+"en": "WEEK OF"
+},
+{
+"id": 494,
+"en": "Settings for {0}"
+},
+{
+"id": 495,
+"en": "FGA:"
+},
+{
+"id": 496,
+"en": "AWAY"
+},
+{
+"id": 497,
+"en": "Wristband Black"
+},
+{
+"id": 498,
+"en": "0 Minutes"
+},
+{
+"id": 499,
+"en": "Highlight Player"
+},
+{
+"id": 500,
+"en": "Retrieving initial user list. Please wait."
+},
+{
+"id": 501,
+"en": "Improve record by 25 wins"
+},
+{
+"id": 502,
+"en": "Not enough points remaining"
+},
+{
+"id": 503,
+"en": "Real Player FT%"
+},
+{
+"id": 504,
+"en": "Raptors Jersey"
+},
+{
+"id": 505,
+"en": "Overall Rating"
+},
+{
+"id": 506,
+"en": "<LOOSE BALL FOUL -> %s"
+},
+{
+"id": 507,
+"en": "Draft Class '05"
+},
+{
+"id": 508,
+"en": "Save"
+},
+{
+"id": 509,
+"en": "AST"
+},
+{
+"id": 510,
+"en": "Exact Score of 21"
+},
+{
+"id": 511,
+"en": "-Doesn't force bad shots"
+},
+{
+"id": 512,
+"en": "Big Board"
+},
+{
+"id": 513,
+"en": "Racoon Hat"
+},
+{
+"id": 514,
+"en": "2K Beats"
+},
+{
+"id": 515,
+"en": "5 on 5"
+},
+{
+"id": 516,
+"en": "Late Game Fouling"
+},
+{
+"id": 517,
+"en": "League Settings"
+},
+{
+"id": 518,
+"en": "to View Box Scores"
+},
+{
+"id": 519,
+"en": "11 Minutes"
+},
+{
+"id": 520,
+"en": "Last Week"
+},
+{
+"id": 521,
+"en": "INSIDE"
+},
+{
+"id": 522,
+"en": "Rebounding Focus"
+},
+{
+"id": 523,
+"en": "-Commits blocking fouls often"
+},
+{
+"id": 524,
+"en": "MINUTES PLAYED"
+},
+{
+"id": 525,
+"en": "Reset to Default"
+},
+{
+"id": 526,
+"en": "Game Point"
+},
+{
+"id": 527,
+"en": "Bucks Cap"
+},
+{
+"id": 528,
+"en": "Point Guards"
+},
+{
+"id": 529,
+"en": "-Rarely changes shot"
+},
+{
+"id": 530,
+"en": "Pro"
+},
+{
+"id": 531,
+"en": "Mid-range Tendencies"
+},
+{
+"id": 532,
+"en": "Play a rookie 25+ minutes per game"
+},
+{
+"id": 533,
+"en": "Delete"
+},
+{
+"id": 534,
+"en": "Gold Bracelet"
+},
+{
+"id": 535,
+"en": "Bulls Fisherman"
+},
+{
+"id": 536,
+"en": "Team - Fatigue"
+},
+{
+"id": 537,
+"en": "to Make Selection"
+},
+{
+"id": 538,
+"en": "Sweden"
+},
+{
+"id": 539,
+"en": "Fast Break"
+},
+{
+"id": 540,
+"en": "to select slot or offer"
+},
+{
+"id": 541,
+"en": "DEVELOPMENT HOURS REMAINING:"
+},
+{
+"id": 542,
+"en": "2KBeats Music"
+},
+{
+"id": 543,
+"en": "back spasms"
+},
+{
+"id": 544,
+"en": "Online Options"
+},
+{
+"id": 545,
+"en": "%s (%s) select a Player."
+},
+{
+"id": 546,
+"en": "Plays"
+},
+{
+"id": 547,
+"en": "Spin Move"
+},
+{
+"id": 548,
+"en": "10% Back"
+},
+{
+"id": 549,
+"en": "A"
+},
+{
+"id": 550,
+"en": "to change conferences"
+},
+{
+"id": 551,
+"en": "Face"
+},
+{
+"id": 552,
+"en": "-Good nose for the ball"
+},
+{
+"id": 553,
+"en": "Steal"
+},
+{
+"id": 554,
+"en": "On"
+},
+{
+"id": 555,
+"en": "GP"
+},
+{
+"id": 556,
+"en": "The {0} have 1 or more players whose contracts have expired but have a Team Option clause.  Select whether to Accept or Decline the Team Option."
+},
+{
+"id": 557,
+"en": "Team Strap"
+},
+{
+"id": 558,
+"en": "Congratulations!  The {0} have completed the goal, \"ðThree players named to the All-Star team.\"ð  15 Reward Points have been added to their total."
+},
+{
+"id": 559,
+"en": "to adjust defensive matchups"
+},
+{
+"id": 560,
+"en": "Layup"
+},
+{
+"id": 561,
+"en": "Retro Phone"
+},
+{
+"id": 562,
+"en": "<%s: %s PERSONAL FOULS>"
+},
+{
+"id": 563,
+"en": "Username"
+},
+{
+"id": 564,
+"en": "Poorly Contested"
+},
+{
+"id": 565,
+"en": "Controller Setup"
+},
+{
+"id": 566,
+"en": "Top Of Arc"
+},
+{
+"id": 567,
+"en": "Substitution"
+},
+{
+"id": 568,
+"en": "Transaction Log"
+},
+{
+"id": 569,
+"en": "to Advance"
+},
+{
+"id": 570,
+"en": "Summary"
+},
+{
+"id": 571,
+"en": "Create Tournament"
+},
+{
+"id": 572,
+"en": "Battle"
+},
+{
+"id": 573,
+"en": "SCORE REQUIRED"
+},
+{
+"id": 574,
+"en": "to Cancel"
+},
+{
+"id": 575,
+"en": "Rating"
+},
+{
+"id": 576,
+"en": "-Holds the ball more than pass"
+},
+{
+"id": 577,
+"en": "Owner Status"
+},
+{
+"id": 578,
+"en": "Now"
+},
+{
+"id": 579,
+"en": "Total Blocks"
+},
+{
+"id": 580,
+"en": "to advance to naming clip"
+},
+{
+"id": 581,
+"en": "PACIFIC DIVISION"
+},
+{
+"id": 582,
+"en": "NBA FINALS"
+},
+{
+"id": 583,
+"en": "Comparison"
+},
+{
+"id": 584,
+"en": "Perfect Release"
+},
+{
+"id": 585,
+"en": "Offensive Awareness"
+},
+{
+"id": 586,
+"en": "-Distributes shots well"
+},
+{
+"id": 587,
+"en": "A pick is set down low for a teammate who gets open for the catch and shoot."
+},
+{
+"id": 588,
+"en": "Stack SF-C"
+},
+{
+"id": 589,
+"en": "Record"
+},
+{
+"id": 590,
+"en": "12"
+},
+{
+"id": 591,
+"en": "-Gambles in passing lanes"
+},
+{
+"id": 592,
+"en": "Rank"
+},
+{
+"id": 593,
+"en": "Cutscene Select"
+},
+{
+"id": 594,
+"en": "Part Right"
+},
+{
+"id": 595,
+"en": "Mavericks Shorts"
+},
+{
+"id": 596,
+"en": "Team #"
+},
+{
+"id": 597,
+"en": "Simulator Speed"
+},
+{
+"id": 598,
+"en": "Block Grade"
+},
+{
+"id": 599,
+"en": "4 Man Roll 1-3"
+}
+]

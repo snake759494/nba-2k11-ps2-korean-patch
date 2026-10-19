@@ -1,0 +1,1002 @@
+[
+{
+"id": 1500,
+"en": "INTANGIBLES"
+},
+{
+"id": 1501,
+"en": "VIP Playback Not Available"
+},
+{
+"id": 1502,
+"en": "Set to Online VIP"
+},
+{
+"id": 1503,
+"en": "Reserve"
+},
+{
+"id": 1504,
+"en": "Utility"
+},
+{
+"id": 1505,
+"en": "Guard"
+},
+{
+"id": 1506,
+"en": "Forward"
+},
+{
+"id": 1507,
+"en": "Fantasy Basketball Teams are now complete"
+},
+{
+"id": 1508,
+"en": "Choose"
+},
+{
+"id": 1509,
+"en": "All line-up changes will be lost if you continue. Do you wish to continue?"
+},
+{
+"id": 1510,
+"en": "Ambient: Game Start"
+},
+{
+"id": 1511,
+"en": "Select Option"
+},
+{
+"id": 1512,
+"en": "Scramble Starters?"
+},
+{
+"id": 1513,
+"en": "Scramble Starters is like a virtual slot machine.\n\nEvery Starter in the NBA is assigned to a random team.\n\nOn exit, your Rosters will be reset to their previous state."
+},
+{
+"id": 1514,
+"en": "Play Fantasy Basketball?"
+},
+{
+"id": 1515,
+"en": "Cap Room: %s   Available: %s"
+},
+{
+"id": 1516,
+"en": "You can only trade to a team that has enough room on its roster. This team is full."
+},
+{
+"id": 1517,
+"en": "You may not trade to a created team. Edit the team in Create Team to add new players."
+},
+{
+"id": 1518,
+"en": "The player has transferred."
+},
+{
+"id": 1519,
+"en": "Waive Player"
+},
+{
+"id": 1520,
+"en": "Begin Trade"
+},
+{
+"id": 1521,
+"en": "Place on Trading Block"
+},
+{
+"id": 1522,
+"en": "Re-negotiate Contract"
+},
+{
+"id": 1523,
+"en": "Talk out of retirement"
+},
+{
+"id": 1524,
+"en": "Negotiate Contract"
+},
+{
+"id": 1525,
+"en": "No player actions are allowed until the re-signing period"
+},
+{
+"id": 1526,
+"en": "You cannot waive an injured player."
+},
+{
+"id": 1527,
+"en": "You cannot waive any more players."
+},
+{
+"id": 1528,
+"en": "Waive this player?"
+},
+{
+"id": 1529,
+"en": "Trading block is full"
+},
+{
+"id": 1530,
+"en": "Player is already on trading block"
+},
+{
+"id": 1531,
+"en": "Someone else already holds that jersey"
+},
+{
+"id": 1532,
+"en": "Position & Rating are not editable."
+},
+{
+"id": 1533,
+"en": "Enter New Value"
+},
+{
+"id": 1534,
+"en": "Resetting the roster will lose all unsaved data. Continue?"
+},
+{
+"id": 1535,
+"en": "Trade '%s' with '%s'"
+},
+{
+"id": 1536,
+"en": "You can not trade injured players"
+},
+{
+"id": 1537,
+"en": "Release To Free Agency"
+},
+{
+"id": 1538,
+"en": "Assign To Another Team"
+},
+{
+"id": 1539,
+"en": "Trade With Another Team"
+},
+{
+"id": 1540,
+"en": "Assign To Team"
+},
+{
+"id": 1541,
+"en": "Remove Player From Team"
+},
+{
+"id": 1542,
+"en": "Upper"
+},
+{
+"id": 1543,
+"en": "Fastener"
+},
+{
+"id": 1544,
+"en": "Heel"
+},
+{
+"id": 1545,
+"en": "Midsole"
+},
+{
+"id": 1546,
+"en": "Sole"
+},
+{
+"id": 1547,
+"en": "Toe"
+},
+{
+"id": 1548,
+"en": "Swoosh"
+},
+{
+"id": 1549,
+"en": "Team Shots"
+},
+{
+"id": 1550,
+"en": "%s\n\nAre you sure that you want to cancel player select?"
+},
+{
+"id": 1551,
+"en": "Do you agree to these players?"
+},
+{
+"id": 1552,
+"en": "Do you agree to these teams?"
+},
+{
+"id": 1553,
+"en": "NBA Stars - %s"
+},
+{
+"id": 1554,
+"en": "Human"
+},
+{
+"id": 1555,
+"en": "The DUALSHOCK|REG|2 Analog Controller you are using is not connected to a controller port that is active, please move your DUALSHOCK|REG|2 Analog Controller to another controller port, or increase the number of players. Would you like to continue?"
+},
+{
+"id": 1556,
+"en": "ATLANTIC"
+},
+{
+"id": 1557,
+"en": "CENTRAL"
+},
+{
+"id": 1558,
+"en": "SOUTHEAST"
+},
+{
+"id": 1559,
+"en": "SOUTHWEST"
+},
+{
+"id": 1560,
+"en": "NORTHWEST"
+},
+{
+"id": 1561,
+"en": "PACIFIC"
+},
+{
+"id": 1562,
+"en": "Team Lineups"
+},
+{
+"id": 1563,
+"en": "NAN"
+},
+{
+"id": 1564,
+"en": "You would not have enough healthy players on each team"
+},
+{
+"id": 1565,
+"en": "You can't release that many players from this team"
+},
+{
+"id": 1566,
+"en": "You can't sign that many players to this team"
+},
+{
+"id": 1567,
+"en": "PROFILE"
+},
+{
+"id": 1568,
+"en": "ERR"
+},
+{
+"id": 1569,
+"en": "%s (Downloaded)"
+},
+{
+"id": 1570,
+"en": "You have changed your profile. Save your VIP file now?"
+},
+{
+"id": 1571,
+"en": "Games Won"
+},
+{
+"id": 1572,
+"en": "Games Lost"
+},
+{
+"id": 1573,
+"en": "Winning Streak"
+},
+{
+"id": 1574,
+"en": "Losing Streak"
+},
+{
+"id": 1575,
+"en": "Exhibition Games Won"
+},
+{
+"id": 1576,
+"en": "Atlantic Division Games Won"
+},
+{
+"id": 1577,
+"en": "Central Division Games Won"
+},
+{
+"id": 1578,
+"en": "Southeast Division Games Won"
+},
+{
+"id": 1579,
+"en": "Southwest Division Games Won"
+},
+{
+"id": 1580,
+"en": "Northwest Division Games Won"
+},
+{
+"id": 1581,
+"en": "Pacific Division Games Won"
+},
+{
+"id": 1582,
+"en": "Three Point Shots Made"
+},
+{
+"id": 1583,
+"en": "Three Point Shots Attempted"
+},
+{
+"id": 1584,
+"en": "Two Point Shots Made"
+},
+{
+"id": 1585,
+"en": "Two Point Shots Attempted"
+},
+{
+"id": 1586,
+"en": "Double Doubles"
+},
+{
+"id": 1587,
+"en": "Triple Doubles"
+},
+{
+"id": 1588,
+"en": "Street Games Played"
+},
+{
+"id": 1589,
+"en": "NBA Seasons Played"
+},
+{
+"id": 1590,
+"en": "Consecutive 127+ Point Games"
+},
+{
+"id": 1591,
+"en": "Name: %s"
+},
+{
+"id": 1592,
+"en": "Nike Shox Lethal"
+},
+{
+"id": 1593,
+"en": "Nike Shox Ups"
+},
+{
+"id": 1594,
+"en": "Nike Shox VC V"
+},
+{
+"id": 1595,
+"en": "Air Force 1 Hi"
+},
+{
+"id": 1596,
+"en": "Air Total Force Max"
+},
+{
+"id": 1597,
+"en": "Air Force Specialist"
+},
+{
+"id": 1598,
+"en": "Air Zoom Kobe I"
+},
+{
+"id": 1599,
+"en": "Air Zoom Huarache 2K5"
+},
+{
+"id": 1600,
+"en": "Up Tempo Pro"
+},
+{
+"id": 1601,
+"en": "Up Tempo"
+},
+{
+"id": 1602,
+"en": "Force"
+},
+{
+"id": 1603,
+"en": "Flight"
+},
+{
+"id": 1604,
+"en": "Signature"
+},
+{
+"id": 1605,
+"en": "Reporting game results. Please wait."
+},
+{
+"id": 1606,
+"en": "Free Throw Stats"
+},
+{
+"id": 1607,
+"en": "Hello"
+},
+{
+"id": 1608,
+"en": "Handicap"
+},
+{
+"id": 1609,
+"en": "%d Points"
+},
+{
+"id": 1610,
+"en": "Mid Range: -2"
+},
+{
+"id": 1611,
+"en": "Miss: +1"
+},
+{
+"id": 1612,
+"en": "Regenerate"
+},
+{
+"id": 1613,
+"en": "Layup: %d"
+},
+{
+"id": 1614,
+"en": "Mid: %d"
+},
+{
+"id": 1615,
+"en": "Bomb: %d"
+},
+{
+"id": 1616,
+"en": "COACH SETTINGS"
+},
+{
+"id": 1617,
+"en": "PLAY CALL"
+},
+{
+"id": 1618,
+"en": "ON THE FLY MENU"
+},
+{
+"id": 1619,
+"en": "AUTO"
+},
+{
+"id": 1620,
+"en": "MANUAL"
+},
+{
+"id": 1621,
+"en": "AUTO MSG"
+},
+{
+"id": 1622,
+"en": "AUTO NO MSG"
+},
+{
+"id": 1623,
+"en": "MAN MSG"
+},
+{
+"id": 1624,
+"en": "MAN NO MSG"
+},
+{
+"id": 1625,
+"en": "Ambient: On The Fly Up"
+},
+{
+"id": 1626,
+"en": "Ambient: On The Fly Down"
+},
+{
+"id": 1627,
+"en": "%s:  %d PTS, %d-%d FG"
+},
+{
+"id": 1628,
+"en": "Field Goals: %d%%"
+},
+{
+"id": 1629,
+"en": "%s: %d PTS"
+},
+{
+"id": 1630,
+"en": "Fastbreak Pts"
+},
+{
+"id": 1631,
+"en": "FTs Made"
+},
+{
+"id": 1632,
+"en": "END OF 1ST QTR"
+},
+{
+"id": 1633,
+"en": "HALFTIME"
+},
+{
+"id": 1634,
+"en": "END OF 3RD QTR"
+},
+{
+"id": 1635,
+"en": "%d PTS, %d-%d FG"
+},
+{
+"id": 1636,
+"en": "Last Season"
+},
+{
+"id": 1637,
+"en": "Regular Season"
+},
+{
+"id": 1638,
+"en": "Postseason"
+},
+{
+"id": 1639,
+"en": "Career"
+},
+{
+"id": 1640,
+"en": "%d lbs"
+},
+{
+"id": 1641,
+"en": "Ambient: Matchup"
+},
+{
+"id": 1642,
+"en": "Ambient: Team Records"
+},
+{
+"id": 1643,
+"en": "Ambient: Misc Info"
+},
+{
+"id": 1644,
+"en": "%d years"
+},
+{
+"id": 1645,
+"en": "%d Remaining"
+},
+{
+"id": 1646,
+"en": "%d-%d in last %d:%02d"
+},
+{
+"id": 1647,
+"en": "%s %s has scored %d consecutive points."
+},
+{
+"id": 1648,
+"en": "%s have made %d consecutive field goal attempts."
+},
+{
+"id": 1649,
+"en": "%s %s has made %d consecutive field goal attempts."
+},
+{
+"id": 1650,
+"en": "%s Personal"
+},
+{
+"id": 1651,
+"en": "%d years coaching for the %s"
+},
+{
+"id": 1652,
+"en": "%s, Rookie"
+},
+{
+"id": 1653,
+"en": "%s, %d Years Pro"
+},
+{
+"id": 1654,
+"en": "%s for %s"
+},
+{
+"id": 1655,
+"en": "Pct"
+},
+{
+"id": 1656,
+"en": "Clear"
+},
+{
+"id": 1657,
+"en": "DEF REBS"
+},
+{
+"id": 1658,
+"en": "FAST BREAK PTS"
+},
+{
+"id": 1659,
+"en": "%d-%d RUN IN"
+},
+{
+"id": 1660,
+"en": "LAST %d:%02d"
+},
+{
+"id": 1661,
+"en": "TIMEOUT: %s"
+},
+{
+"id": 1662,
+"en": "GAME POINT"
+},
+{
+"id": 1663,
+"en": "Survival Mode"
+},
+{
+"id": 1664,
+"en": "Fight another dude?"
+},
+{
+"id": 1665,
+"en": "Try for %d"
+},
+{
+"id": 1666,
+"en": "Stop"
+},
+{
+"id": 1667,
+"en": "Settle with %d"
+},
+{
+"id": 1668,
+"en": "Opponent Defeated!!!"
+},
+{
+"id": 1669,
+"en": "You da man!!!"
+},
+{
+"id": 1670,
+"en": "WHOME"
+},
+{
+"id": 1671,
+"en": "WAWAY"
+},
+{
+"id": 1672,
+"en": "PCREATEFACE"
+},
+{
+"id": 1673,
+"en": "PCREATEHAIR"
+},
+{
+"id": 1674,
+"en": "PCREATEFACEHAIR"
+},
+{
+"id": 1675,
+"en": "PCREATENECK"
+},
+{
+"id": 1676,
+"en": "PCREATENECKTATS"
+},
+{
+"id": 1677,
+"en": "PCREATEARMS"
+},
+{
+"id": 1678,
+"en": "PCREATEARMTATS"
+},
+{
+"id": 1679,
+"en": "PCREATESHOEUPPER"
+},
+{
+"id": 1680,
+"en": "PCREATESHOESOLE"
+},
+{
+"id": 1681,
+"en": "PCREATESHOEFASTEN"
+},
+{
+"id": 1682,
+"en": "PCREATESHOEHEEL"
+},
+{
+"id": 1683,
+"en": "PCREATESHOEMIDSOLE"
+},
+{
+"id": 1684,
+"en": "PCREATESHOETOE"
+},
+{
+"id": 1685,
+"en": "PCREATESHOELOGO"
+},
+{
+"id": 1686,
+"en": "GROWTHBACKMODEL"
+},
+{
+"id": 1687,
+"en": "GROWTHNECKMODEL"
+},
+{
+"id": 1688,
+"en": "GROWTHFACEMODEL"
+},
+{
+"id": 1689,
+"en": "GROWTHHEADMODEL"
+},
+{
+"id": 1690,
+"en": "GROWTHJERSEYMODEL"
+},
+{
+"id": 1691,
+"en": "GROWTHSHOEMODEL"
+},
+{
+"id": 1692,
+"en": "GROWTHSHORTSMODEL"
+},
+{
+"id": 1693,
+"en": "GROWTHWAISTMODEL"
+},
+{
+"id": 1694,
+"en": "GROWTHWRISTMODEL"
+},
+{
+"id": 1695,
+"en": "GROWTHSLEVEMODEL"
+},
+{
+"id": 1696,
+"en": "GROWTHBACKMENU"
+},
+{
+"id": 1697,
+"en": "GROWTHBACK"
+},
+{
+"id": 1698,
+"en": "GROWTHNECKMENU"
+},
+{
+"id": 1699,
+"en": "GROWTHNECK"
+},
+{
+"id": 1700,
+"en": "GROWTHFACEMENU"
+},
+{
+"id": 1701,
+"en": "GROWTHFACE"
+},
+{
+"id": 1702,
+"en": "GROWTHHEADMENU"
+},
+{
+"id": 1703,
+"en": "GROWTHHEAD"
+},
+{
+"id": 1704,
+"en": "GROWTHJERSEYMENU"
+},
+{
+"id": 1705,
+"en": "GROWTHJERSEY"
+},
+{
+"id": 1706,
+"en": "GROWTHSHOEMENU"
+},
+{
+"id": 1707,
+"en": "GROWTHSHOE"
+},
+{
+"id": 1708,
+"en": "GROWTHSHORTSMENU"
+},
+{
+"id": 1709,
+"en": "GROWTHSHORTS"
+},
+{
+"id": 1710,
+"en": "GROWTHWAISTMENU"
+},
+{
+"id": 1711,
+"en": "GROWTHWAIST"
+},
+{
+"id": 1712,
+"en": "GROWTHWRISTMENU"
+},
+{
+"id": 1713,
+"en": "GROWTHWRIST"
+},
+{
+"id": 1714,
+"en": "GROWTHSLEEVEMENU"
+},
+{
+"id": 1715,
+"en": "GROWTHSLEEVE"
+},
+{
+"id": 1716,
+"en": "GROWTHBALL"
+},
+{
+"id": 1717,
+"en": "PLAYERARTDATA"
+},
+{
+"id": 1718,
+"en": "Tyrant"
+},
+{
+"id": 1719,
+"en": "Entrepreneur"
+},
+{
+"id": 1720,
+"en": "Fan"
+},
+{
+"id": 1721,
+"en": "Hobbyist"
+},
+{
+"id": 1722,
+"en": "Win Games"
+},
+{
+"id": 1723,
+"en": "Make Money"
+},
+{
+"id": 1724,
+"en": "Improve Team"
+},
+{
+"id": 1725,
+"en": "Player is OK"
+},
+{
+"id": 1726,
+"en": "%d. <Add New Team>"
+},
+{
+"id": 1727,
+"en": "Enter Coach's First Name"
+},
+{
+"id": 1728,
+"en": "Enter Coach's Last Name"
+},
+{
+"id": 1729,
+"en": "WWWWWWWW"
+},
+{
+"id": 1730,
+"en": "Team roster is full. You must first release a player before signing another"
+},
+{
+"id": 1731,
+"en": "Release %s?"
+},
+{
+"id": 1732,
+"en": "Backing out of the menu at this time will not create your team and you will lose your work. Are you sure?"
+},
+{
+"id": 1733,
+"en": "The team must have at least %d players"
+},
+{
+"id": 1734,
+"en": "Player now deleted from your team"
+},
+{
+"id": 1735,
+"en": "XXX"
+},
+{
+"id": 1736,
+"en": "You can only edit user created teams"
+},
+{
+"id": 1737,
+"en": "Created team %s is currently being used and cannot be deleted"
+},
+{
+"id": 1738,
+"en": "Enter Short Team Name"
+},
+{
+"id": 1739,
+"en": "Enter City Name"
+},
+{
+"id": 1740,
+"en": "Players Signed: %d ( Min %d : Max %d )"
+},
+{
+"id": 1741,
+"en": "%s Call Timeout? %u Remaining"
+},
+{
+"id": 1742,
+"en": "Call Timeout"
+},
+{
+"id": 1743,
+"en": "VCSPUDMA"
+},
+{
+"id": 1744,
+"en": "FINISHED "
+},
+{
+"id": 1745,
+"en": "PLAYING  "
+},
+{
+"id": 1746,
+"en": "BUFFERED "
+},
+{
+"id": 1747,
+"en": "BUFFERING"
+},
+{
+"id": 1748,
+"en": "PENDING  "
+},
+{
+"id": 1749,
+"en": "PAUSE"
+}
+]

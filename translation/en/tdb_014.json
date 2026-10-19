@@ -1,0 +1,602 @@
+[
+{
+"id": 2100,
+"en": "JERSEYS"
+},
+{
+"id": 2101,
+"en": "I sent you a friend request."
+},
+{
+"id": 2102,
+"en": "Craig Sager"
+},
+{
+"id": 2103,
+"en": "SimCentral"
+},
+{
+"id": 2104,
+"en": "Fatigue"
+},
+{
+"id": 2105,
+"en": "-Tends to trap in corners"
+},
+{
+"id": 2106,
+"en": "Sixers Warmup"
+},
+{
+"id": 2107,
+"en": "Shootaround"
+},
+{
+"id": 2108,
+"en": "Season Stats"
+},
+{
+"id": 2109,
+"en": "Retro Magic"
+},
+{
+"id": 2110,
+"en": "Tournament Settings"
+},
+{
+"id": 2111,
+"en": "Suns Jersey"
+},
+{
+"id": 2112,
+"en": "Staff Salaries"
+},
+{
+"id": 2113,
+"en": "TA"
+},
+{
+"id": 2114,
+"en": "Western Conference"
+},
+{
+"id": 2115,
+"en": "Advance"
+},
+{
+"id": 2116,
+"en": "Speedy Delivery"
+},
+{
+"id": 2117,
+"en": "Dbl Wristband Black"
+},
+{
+"id": 2118,
+"en": "FV"
+},
+{
+"id": 2119,
+"en": "Send your player to Big Man Offense Camp and he will gain 4 points in the following categories: Low Post Offense, Shot Close, and Standing Dunk."
+},
+{
+"id": 2120,
+"en": "Inside"
+},
+{
+"id": 2121,
+"en": "FIRST ROUND"
+},
+{
+"id": 2122,
+"en": "League Desk"
+},
+{
+"id": 2123,
+"en": "DEFENSIVE REBOUNDING"
+},
+{
+"id": 2124,
+"en": "Post Offense"
+},
+{
+"id": 2125,
+"en": "Air Jordan Retro 15"
+},
+{
+"id": 2126,
+"en": "Bald"
+},
+{
+"id": 2127,
+"en": "Clippers Backpack"
+},
+{
+"id": 2128,
+"en": "%s: %s (%s%s)"
+},
+{
+"id": 2129,
+"en": "4 Man Iso 3"
+},
+{
+"id": 2130,
+"en": "%i/%i"
+},
+{
+"id": 2131,
+"en": "3 PT PERCENTAGE"
+},
+{
+"id": 2132,
+"en": "On Ball Steal Tend"
+},
+{
+"id": 2133,
+"en": "Waiting"
+},
+{
+"id": 2134,
+"en": "QTR LENGTH"
+},
+{
+"id": 2135,
+"en": "Red Stylish Glasses"
+},
+{
+"id": 2136,
+"en": "Hire Coach"
+},
+{
+"id": 2137,
+"en": "Rely on 3PT Shot"
+},
+{
+"id": 2138,
+"en": "-Doesn't run many fastbreaks"
+},
+{
+"id": 2139,
+"en": "Triple Threat"
+},
+{
+"id": 2140,
+"en": "Allow CPU Trades"
+},
+{
+"id": 2141,
+"en": "3 Man Iso 2"
+},
+{
+"id": 2142,
+"en": "for Options"
+},
+{
+"id": 2143,
+"en": "-Doesn't like to pass much"
+},
+{
+"id": 2144,
+"en": "-Likes to play zone defense"
+},
+{
+"id": 2145,
+"en": "Del"
+},
+{
+"id": 2146,
+"en": "<OFF 3 SECONDS -> %s"
+},
+{
+"id": 2147,
+"en": "Make sure to set subs to 'Manual' if you want to manage lineups yourself.  Choose your court players in the lineup spreadsheet below."
+},
+{
+"id": 2148,
+"en": "Def. Low Post"
+},
+{
+"id": 2149,
+"en": "Choose Side"
+},
+{
+"id": 2150,
+"en": "Drive Tendency"
+},
+{
+"id": 2151,
+"en": "Signing Status"
+},
+{
+"id": 2152,
+"en": "Vipers Arena"
+},
+{
+"id": 2153,
+"en": "Dunk Tend."
+},
+{
+"id": 2154,
+"en": "Change Rating"
+},
+{
+"id": 2155,
+"en": "BALL HANDLING"
+},
+{
+"id": 2156,
+"en": "Sonics Warmup"
+},
+{
+"id": 2157,
+"en": "-Rarely uses pumpfakes"
+},
+{
+"id": 2158,
+"en": "Rock Jersey"
+},
+{
+"id": 2159,
+"en": "3/4 Court Trap"
+},
+{
+"id": 2160,
+"en": "Soundtrack"
+},
+{
+"id": 2161,
+"en": "to leave roster"
+},
+{
+"id": 2162,
+"en": "Raptors Fisherman"
+},
+{
+"id": 2163,
+"en": "USERS WHO RATED YOU"
+},
+{
+"id": 2164,
+"en": "Time Of Day"
+},
+{
+"id": 2165,
+"en": "Online EULA"
+},
+{
+"id": 2166,
+"en": "Rookie of the Year"
+},
+{
+"id": 2167,
+"en": "Air Zoom LeBron V"
+},
+{
+"id": 2168,
+"en": "-Times interceptions poorly"
+},
+{
+"id": 2169,
+"en": "Dunk Tendencies"
+},
+{
+"id": 2170,
+"en": "WHAT ARE REWARD POINTS?"
+},
+{
+"id": 2171,
+"en": "Set Name"
+},
+{
+"id": 2172,
+"en": "-Tends to sag off high scorers"
+},
+{
+"id": 2173,
+"en": "-Doesn't play a physical game"
+},
+{
+"id": 2174,
+"en": "No Memory Card (PS2) inserted. You need at least %d KB of free space to save data. Continue?"
+},
+{
+"id": 2175,
+"en": "Atlantic Division"
+},
+{
+"id": 2176,
+"en": "Number Of Players"
+},
+{
+"id": 2177,
+"en": "Player Card"
+},
+{
+"id": 2178,
+"en": "Spurs Warmup"
+},
+{
+"id": 2179,
+"en": "Drive Tend."
+},
+{
+"id": 2180,
+"en": "Team Chemistry"
+},
+{
+"id": 2181,
+"en": "Perfect Pass"
+},
+{
+"id": 2182,
+"en": "Pacers Jersey"
+},
+{
+"id": 2183,
+"en": "This drill will improve your Blocking, Low Post Def., and Def. Awareness attributes."
+},
+{
+"id": 2184,
+"en": "FT(M-A)"
+},
+{
+"id": 2185,
+"en": "|M_BACK| Back"
+},
+{
+"id": 2186,
+"en": "NEGATIVE:"
+},
+{
+"id": 2187,
+"en": "Part Mid"
+},
+{
+"id": 2188,
+"en": "Green"
+},
+{
+"id": 2189,
+"en": "to propose trade"
+},
+{
+"id": 2190,
+"en": "no more guidelines"
+},
+{
+"id": 2191,
+"en": "DESCRIPTION"
+},
+{
+"id": 2192,
+"en": "3 Man Post 1"
+},
+{
+"id": 2193,
+"en": "TO:"
+},
+{
+"id": 2194,
+"en": "Arctic Camo Jersey"
+},
+{
+"id": 2195,
+"en": "<BLOCKING FOUL -> %s"
+},
+{
+"id": 2196,
+"en": "-Good vision on defense"
+},
+{
+"id": 2197,
+"en": "for clip options"
+},
+{
+"id": 2198,
+"en": "NBA Team Warmup"
+},
+{
+"id": 2199,
+"en": "BATTLE RULE VIOLATION"
+},
+{
+"id": 2200,
+"en": "16 Teams"
+},
+{
+"id": 2201,
+"en": "C:"
+},
+{
+"id": 2202,
+"en": "TripleTheat Tend"
+},
+{
+"id": 2203,
+"en": "Twisties"
+},
+{
+"id": 2204,
+"en": "Baseline"
+},
+{
+"id": 2205,
+"en": "Adjust Lineups"
+},
+{
+"id": 2206,
+"en": "BPG"
+},
+{
+"id": 2207,
+"en": "F "
+},
+{
+"id": 2208,
+"en": "Post"
+},
+{
+"id": 2209,
+"en": "Small Forwards DEBUG"
+},
+{
+"id": 2210,
+"en": "Sign Staff"
+},
+{
+"id": 2211,
+"en": "Congratulations!  You've unlocked the ABA ball."
+},
+{
+"id": 2212,
+"en": "14 Min"
+},
+{
+"id": 2213,
+"en": "%s %d|PIPE|%s %d"
+},
+{
+"id": 2214,
+"en": "Failed to connect to the server.  Please try again shortly."
+},
+{
+"id": 2215,
+"en": "AUP"
+},
+{
+"id": 2216,
+"en": "Retro Cavaliers"
+},
+{
+"id": 2217,
+"en": "Demo Cycle"
+},
+{
+"id": 2218,
+"en": "|M_PREVPAGE| Previous"
+},
+{
+"id": 2219,
+"en": "Defensive Summary"
+},
+{
+"id": 2220,
+"en": "knee tendinitis"
+},
+{
+"id": 2221,
+"en": "Lottery Odds"
+},
+{
+"id": 2222,
+"en": "Ast"
+},
+{
+"id": 2223,
+"en": "CURRENT CASH:"
+},
+{
+"id": 2224,
+"en": "1st QTR"
+},
+{
+"id": 2225,
+"en": "2nd EFFORT"
+},
+{
+"id": 2226,
+"en": "Scouting"
+},
+{
+"id": 2227,
+"en": "Fastest"
+},
+{
+"id": 2228,
+"en": "Team Practice comes at a cost.  The harder you practice your players, the more their fatigue will accrue.  Light practices cause a +1 increase in fatigue, Normal practices cause a +3 increase in fatigue, and Intense practices cause a +8 increase in fatigue.  The fatigue penalty lasts for the duration of the practice's effects.\nð\nðAttribute boosts only last a few days depending on how much effort was assigned to the drill:  Light practice boosts last 2 days, Normal practice boosts last 3 days, and Intense practice boosts last 4 days.\nð\nðSetting the focus to a single player causes your coaching staff to pay special attention to this player, which gives him an extra boost to his attributes over his teammates.  Setting the focus to 'None' results in all players receiving the same attribute boosts."
+},
+{
+"id": 2229,
+"en": "Most Game Time"
+},
+{
+"id": 2230,
+"en": "Shoe Style"
+},
+{
+"id": 2231,
+"en": "DRILL RESULT"
+},
+{
+"id": 2232,
+"en": "Point Guards DEBUG"
+},
+{
+"id": 2233,
+"en": "THU"
+},
+{
+"id": 2234,
+"en": "70 or better"
+},
+{
+"id": 2235,
+"en": "{0} is no longer with the {1}.  His drill has been removed."
+},
+{
+"id": 2236,
+"en": "Save Team"
+},
+{
+"id": 2237,
+"en": "Shades 1"
+},
+{
+"id": 2238,
+"en": "3-Point Percentage"
+},
+{
+"id": 2239,
+"en": "Restore Defaults"
+},
+{
+"id": 2240,
+"en": "Delete user created team %s?"
+},
+{
+"id": 2241,
+"en": "Player Attributes"
+},
+{
+"id": 2242,
+"en": "Are you sure you wish to send the team to {0}?"
+},
+{
+"id": 2243,
+"en": "TRIPLE THREAT"
+},
+{
+"id": 2244,
+"en": "Right Knee Pad"
+},
+{
+"id": 2245,
+"en": "Play Name"
+},
+{
+"id": 2246,
+"en": "Rookie Watch"
+},
+{
+"id": 2247,
+"en": "30"
+},
+{
+"id": 2248,
+"en": "The %s was removed during use. Delete Failed.\nðPress |CROSS| to continue."
+},
+{
+"id": 2249,
+"en": "-Doesn't follow shots very often"
+}
+]

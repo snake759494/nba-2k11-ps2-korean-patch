@@ -1,0 +1,142 @@
+[
+{
+"id": 1750,
+"en": "[%4lu] %s DATA 0x%p %u  D:%u S:%u P:%u"
+},
+{
+"id": 1751,
+"en": "[%4lu] %s FILE '%s'(%u) %u  D:%u S:%u P:%u"
+},
+{
+"id": 1752,
+"en": "HDD"
+},
+{
+"id": 1753,
+"en": "DATA"
+},
+{
+"id": 1754,
+"en": "MMMM, yyyy"
+},
+{
+"id": 1755,
+"en": "MMMM dd"
+},
+{
+"id": 1756,
+"en": "Apr"
+},
+{
+"id": 1757,
+"en": "Jun"
+},
+{
+"id": 1758,
+"en": "Jul"
+},
+{
+"id": 1759,
+"en": "Sep"
+},
+{
+"id": 1760,
+"en": "PAL"
+},
+{
+"id": 1761,
+"en": "XVCSIF"
+},
+{
+"id": 1762,
+"en": "VCDVD"
+},
+{
+"id": 1763,
+"en": "VCKEYBOARD"
+},
+{
+"id": 1764,
+"en": "XPHASE Starting"
+},
+{
+"id": 1765,
+"en": "Dialing"
+},
+{
+"id": 1766,
+"en": "PHASE LCP"
+},
+{
+"id": 1767,
+"en": "PHASE Auth"
+},
+{
+"id": 1768,
+"en": "Authentication failed"
+},
+{
+"id": 1769,
+"en": "PHASE IPCP"
+},
+{
+"id": 1770,
+"en": "Connecting"
+},
+{
+"id": 1771,
+"en": "DUALSHOCK"
+},
+{
+"id": 1772,
+"en": "DIGITAL"
+},
+{
+"id": 1773,
+"en": "NEGCON"
+},
+{
+"id": 1774,
+"en": "UNKNOWN"
+},
+{
+"id": 1775,
+"en": "MEMORY CARD slot 2"
+},
+{
+"id": 1776,
+"en": "MEMORY CARD slot 1-A"
+},
+{
+"id": 1777,
+"en": "MEMORY CARD slot 1-B"
+},
+{
+"id": 1778,
+"en": "MEMORY CARD slot 1-C"
+},
+{
+"id": 1779,
+"en": "MEMORY CARD slot 1-D"
+},
+{
+"id": 1780,
+"en": "MEMORY CARD slot 2-A"
+},
+{
+"id": 1781,
+"en": "MEMORY CARD slot 2-B"
+},
+{
+"id": 1782,
+"en": "MEMORY CARD slot 2-C"
+},
+{
+"id": 1783,
+"en": "MEMORY CARD slot 2-D"
+},
+{
+"id": 1784,
+"en": "VCDEBUGOVERSIF"
+}
+]

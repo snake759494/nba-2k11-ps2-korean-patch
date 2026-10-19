@@ -1,0 +1,1002 @@
+[
+{
+"id": 750,
+"en": "Only If We Learn"
+},
+{
+"id": 751,
+"en": "Fail Safe"
+},
+{
+"id": 752,
+"en": "Downtime"
+},
+{
+"id": 753,
+"en": "Kidz in Space"
+},
+{
+"id": 754,
+"en": "Skeleton Dance"
+},
+{
+"id": 755,
+"en": "Children Collide"
+},
+{
+"id": 756,
+"en": "Little By Little"
+},
+{
+"id": 757,
+"en": "The Chicharones"
+},
+{
+"id": 758,
+"en": "It's Not Over Yet"
+},
+{
+"id": 759,
+"en": "Middleman"
+},
+{
+"id": 760,
+"en": "Champion"
+},
+{
+"id": 761,
+"en": "Ron Artest"
+},
+{
+"id": 762,
+"en": "We're Here To Save The Day"
+},
+{
+"id": 763,
+"en": "Constellations Feat. Asher Roth"
+},
+{
+"id": 764,
+"en": "Crown Of Thorns"
+},
+{
+"id": 765,
+"en": "Rakaa Featuring Aloe Blacc"
+},
+{
+"id": 766,
+"en": "I Can Talk"
+},
+{
+"id": 767,
+"en": "Two Door Cinema Club"
+},
+{
+"id": 768,
+"en": "Precious Metals"
+},
+{
+"id": 769,
+"en": "The Russian Futurists"
+},
+{
+"id": 770,
+"en": "Home Of The Brave"
+},
+{
+"id": 771,
+"en": "Hollywood"
+},
+{
+"id": 772,
+"en": "Art vs Science"
+},
+{
+"id": 773,
+"en": "Rocketship"
+},
+{
+"id": 774,
+"en": "Big Rock Candy Mountain"
+},
+{
+"id": 775,
+"en": "Cassidy"
+},
+{
+"id": 776,
+"en": "Bow Down (To No Man)"
+},
+{
+"id": 777,
+"en": "Hogni"
+},
+{
+"id": 778,
+"en": "Rise"
+},
+{
+"id": 779,
+"en": "Sonny Bones"
+},
+{
+"id": 780,
+"en": "So Far"
+},
+{
+"id": 781,
+"en": "The Redland"
+},
+{
+"id": 782,
+"en": "Paul Simon"
+},
+{
+"id": 783,
+"en": "Pourin' It On"
+},
+{
+"id": 784,
+"en": "Dux Jones"
+},
+{
+"id": 785,
+"en": "Symphonies (Remix)"
+},
+{
+"id": 786,
+"en": "Dan Black Featuring Kid Cudi"
+},
+{
+"id": 787,
+"en": "Deli"
+},
+{
+"id": 788,
+"en": "Delorean"
+},
+{
+"id": 789,
+"en": "Go Hard Or Go Home"
+},
+{
+"id": 790,
+"en": "Yung Automatik & Bayroot Productions"
+},
+{
+"id": 791,
+"en": "The Alan Parsons Project"
+},
+{
+"id": 792,
+"en": "Better Than You"
+},
+{
+"id": 793,
+"en": "Buckshot, Skyzoo, Promise, Sean Price"
+},
+{
+"id": 794,
+"en": "Red Rollerskates"
+},
+{
+"id": 795,
+"en": "The Brunettes"
+},
+{
+"id": 796,
+"en": "Frontend"
+},
+{
+"id": 797,
+"en": "< unavailable soundtrack >"
+},
+{
+"id": 798,
+"en": "< unavailable song >"
+},
+{
+"id": 799,
+"en": "Ok, no more module warnings"
+},
+{
+"id": 800,
+"en": "Ok, no more roster warnings"
+},
+{
+"id": 801,
+"en": "Restoring Default Rosters"
+},
+{
+"id": 802,
+"en": "%d lbs."
+},
+{
+"id": 803,
+"en": "'%s'\n This name was matched in the database and the database entry will be used."
+},
+{
+"id": 804,
+"en": "CITY"
+},
+{
+"id": 805,
+"en": "Sunday"
+},
+{
+"id": 806,
+"en": "Monday"
+},
+{
+"id": 807,
+"en": "Tuesday"
+},
+{
+"id": 808,
+"en": "Wednesday"
+},
+{
+"id": 809,
+"en": "Thursday"
+},
+{
+"id": 810,
+"en": "Friday"
+},
+{
+"id": 811,
+"en": "Saturday"
+},
+{
+"id": 812,
+"en": "Mon"
+},
+{
+"id": 813,
+"en": "Tue"
+},
+{
+"id": 814,
+"en": "Wed"
+},
+{
+"id": 815,
+"en": "Thu"
+},
+{
+"id": 816,
+"en": "Fri"
+},
+{
+"id": 817,
+"en": "Sat"
+},
+{
+"id": 818,
+"en": "NULL"
+},
+{
+"id": 819,
+"en": "Opp %d"
+},
+{
+"id": 820,
+"en": "Own %d"
+},
+{
+"id": 821,
+"en": "Ambient: Menu Dec Item"
+},
+{
+"id": 822,
+"en": "CROSS"
+},
+{
+"id": 823,
+"en": "TRIANGLE"
+},
+{
+"id": 824,
+"en": "SQUARE"
+},
+{
+"id": 825,
+"en": "CIRCLE"
+},
+{
+"id": 826,
+"en": "START"
+},
+{
+"id": 827,
+"en": "SELECT"
+},
+{
+"id": 828,
+"en": "ANALOG"
+},
+{
+"id": 829,
+"en": "WARNING"
+},
+{
+"id": 830,
+"en": "DPAD"
+},
+{
+"id": 831,
+"en": "RANALOG"
+},
+{
+"id": 832,
+"en": "LANALOGUP"
+},
+{
+"id": 833,
+"en": "LANALOGDOWN"
+},
+{
+"id": 834,
+"en": "LANALOGLEFT"
+},
+{
+"id": 835,
+"en": "LANALOGRIGHT"
+},
+{
+"id": 836,
+"en": "RANALOGUP"
+},
+{
+"id": 837,
+"en": "RANALOGDOWN"
+},
+{
+"id": 838,
+"en": "RANALOGLEFT"
+},
+{
+"id": 839,
+"en": "RANALOGRIGHT"
+},
+{
+"id": 840,
+"en": "RANALOGUPLEFT"
+},
+{
+"id": 841,
+"en": "RANALOGUPRIGHT"
+},
+{
+"id": 842,
+"en": "RANALOGDOWNLEFT"
+},
+{
+"id": 843,
+"en": "RANALOGDOWNRIGHT"
+},
+{
+"id": 844,
+"en": "DPADUP"
+},
+{
+"id": 845,
+"en": "DPADDOWN"
+},
+{
+"id": 846,
+"en": "DPADLEFT"
+},
+{
+"id": 847,
+"en": "DPADRIGHT"
+},
+{
+"id": 848,
+"en": "COMBRED"
+},
+{
+"id": 849,
+"en": "COMBGREEN"
+},
+{
+"id": 850,
+"en": "COMBYELLOW"
+},
+{
+"id": 851,
+"en": "DRAFTUP"
+},
+{
+"id": 852,
+"en": "DRAFTRIGHT"
+},
+{
+"id": 853,
+"en": "DRAFTLEFT"
+},
+{
+"id": 854,
+"en": "DRAFTDOWN"
+},
+{
+"id": 855,
+"en": "REG"
+},
+{
+"id": 856,
+"en": "COPYRIGHT"
+},
+{
+"id": 857,
+"en": "PIPE"
+},
+{
+"id": 858,
+"en": "BULLET"
+},
+{
+"id": 859,
+"en": "BOX"
+},
+{
+"id": 860,
+"en": "STAR"
+},
+{
+"id": 861,
+"en": "SSUP"
+},
+{
+"id": 862,
+"en": "SSDOWN"
+},
+{
+"id": 863,
+"en": "LARROW"
+},
+{
+"id": 864,
+"en": "RARROW"
+},
+{
+"id": 865,
+"en": "Ambient: Type Key"
+},
+{
+"id": 866,
+"en": "NBA 2K11"
+},
+{
+"id": 867,
+"en": "Press|CROSS|To Continue"
+},
+{
+"id": 868,
+"en": "Lesson Failed"
+},
+{
+"id": 869,
+"en": "TEXT NOT FOUND"
+},
+{
+"id": 870,
+"en": "LOC"
+},
+{
+"id": 871,
+"en": "Ambient: ESPN Ticker"
+},
+{
+"id": 872,
+"en": "Enter your name"
+},
+{
+"id": 873,
+"en": "Your VIP name cannot be empty"
+},
+{
+"id": 874,
+"en": "Enter VIP Name"
+},
+{
+"id": 875,
+"en": "VIP Created. This feature allows you to save information regarding how you and your friends play the game.  You can view this information or even play against it!  Save your VIP now?"
+},
+{
+"id": 876,
+"en": "Perform which action?"
+},
+{
+"id": 877,
+"en": "Caution: A new VIP Record will be loaded over VIP Record %s.  Any previously unsaved data will be lost.  Continue?"
+},
+{
+"id": 878,
+"en": "Caution: A new VIP Record will be created over VIP Record %s.  Any previously unsaved data will be lost.  Continue?"
+},
+{
+"id": 879,
+"en": "Active VIP: %s"
+},
+{
+"id": 880,
+"en": "Set as Active VIP"
+},
+{
+"id": 881,
+"en": "Action replays aren't available until after the play is complete."
+},
+{
+"id": 882,
+"en": "Failed to communicate with the server.  Please try again shortly."
+},
+{
+"id": 883,
+"en": "Authenticating DNAS data.  Please wait."
+},
+{
+"id": 884,
+"en": "DNAS logotype is a trademark of Sony Computer Entertainment Inc."
+},
+{
+"id": 885,
+"en": "Retry"
+},
+{
+"id": 886,
+"en": "Network Error (-601). Network connection has been aborted."
+},
+{
+"id": 887,
+"en": "Network Error (-602). Error in proxy setting."
+},
+{
+"id": 888,
+"en": "Network Error (-603). Connection timed out. Please try connecting again at a later time."
+},
+{
+"id": 889,
+"en": "Network Error (-610). Connection to the DNAS server failed."
+},
+{
+"id": 890,
+"en": "Network Error (-611). There was an error in the response from the DNS server. Please check your network configuration."
+},
+{
+"id": 891,
+"en": "Network Error (-612). There was no response from the DNS server. Please check your network configuration."
+},
+{
+"id": 892,
+"en": "Network Error (-613). There was an error in the response from the DNS server. Please check your network configuration."
+},
+{
+"id": 893,
+"en": "Network Error (-614). There was an error in the response from the DNS server. Please check your network configuration."
+},
+{
+"id": 894,
+"en": "DNAS Error (-110). The network authentication server is busy. Please try again later."
+},
+{
+"id": 895,
+"en": "Network Error (-615). There was a DNS error. Please check your network configuration."
+},
+{
+"id": 896,
+"en": "Network Error (-616). Connection to the DNAS server failed."
+},
+{
+"id": 897,
+"en": "Network Error (-617). Connection timed out. Please try connecting again at a later time."
+},
+{
+"id": 898,
+"en": "Network Error (-618). Connection to the DNAS server failed."
+},
+{
+"id": 899,
+"en": "Network Error (-619). Connection to the DNAS server failed."
+},
+{
+"id": 900,
+"en": "Network Error (-620). Connection to the DNAS server failed."
+},
+{
+"id": 901,
+"en": "Network Error (-621). There was a connection error."
+},
+{
+"id": 902,
+"en": "Network Error (-622). There was a connection error."
+},
+{
+"id": 903,
+"en": "Network Error (-623). There was a connection error."
+},
+{
+"id": 904,
+"en": "Network Error (-624). There was a connection error."
+},
+{
+"id": 905,
+"en": "Network Error (-625). There was a connection error."
+},
+{
+"id": 906,
+"en": "Network Error (-626). Connection to the DNAS server failed."
+},
+{
+"id": 907,
+"en": "DNAS Error (-101). The network authentication server is busy. Please try again later."
+},
+{
+"id": 908,
+"en": "DNAS Error (-102). This software title is not in service.\nPlease write down the error code number, and contact SCEA at 1-866-466-5333, or via SCEA's website, www.us.playstation.com."
+},
+{
+"id": 909,
+"en": "DNAS Error (-103). This software title is not in service.\nPlease write down the error code number, and contact SCEA at 1-866-466-5333, or via SCEA's website, www.us.playstation.com."
+},
+{
+"id": 910,
+"en": "DNAS Error (-104). The network authentication server is not in service.\nPlease write down the error code number, and contact SCEA at 1-866-466-5333, or via SCEA's website, www.us.playstation.com."
+},
+{
+"id": 911,
+"en": "DNAS Error (-105). Connection to the network authentication server has timed out. Please try again later."
+},
+{
+"id": 912,
+"en": "DNAS Error (-106). A network authentication system error has occurred.\nPlease write down the error code number, and contact SCEA at 1-866-466-5333, or via SCEA's website, www.us.playstation.com."
+},
+{
+"id": 913,
+"en": "DNAS Error (-107). A network authentication system error has occurred.\nPlease write down the error code number, and contact SCEA at 1-866-466-5333, or via SCEA's website, www.us.playstation.com."
+},
+{
+"id": 914,
+"en": "DNAS Error (-108). A network authentication system error has occurred.\nPlease write down the error code number, and contact SCEA at 1-866-466-5333, or via SCEA's website, www.us.playstation.com."
+},
+{
+"id": 915,
+"en": "DNAS Error (%i). A software category error has occurred.\n%s"
+},
+{
+"id": 916,
+"en": "DNAS Error (%d). An authentication error has occurred.\nPlease write down the error code number, and contact SCEA at 1-866-466-5333, or via SCEA's website, www.us.playstation.com."
+},
+{
+"id": 917,
+"en": "Intentional Foul"
+},
+{
+"id": 918,
+"en": "Good Release (early)"
+},
+{
+"id": 919,
+"en": "Good Release (late)"
+},
+{
+"id": 920,
+"en": "Bad Release (very late)"
+},
+{
+"id": 921,
+"en": "Dwyane Wade Shots"
+},
+{
+"id": 922,
+"en": "Shaq Shots"
+},
+{
+"id": 923,
+"en": "Generic shot pool"
+},
+{
+"id": 924,
+"en": "DPC postup"
+},
+{
+"id": 925,
+"en": "Likes to work the low block"
+},
+{
+"id": 926,
+"en": "Shoots in low blocks often"
+},
+{
+"id": 927,
+"en": "Shoots elbow jumpers often"
+},
+{
+"id": 928,
+"en": "Operates near right elbow"
+},
+{
+"id": 929,
+"en": "Shoots from left wing often"
+},
+{
+"id": 930,
+"en": "Likes right wing jumpshots"
+},
+{
+"id": 931,
+"en": "Likes mid-baseline jumpers"
+},
+{
+"id": 932,
+"en": "Shoots baseline J's often"
+},
+{
+"id": 933,
+"en": "Tough from the baseline"
+},
+{
+"id": 934,
+"en": "Likes close baseline shots"
+},
+{
+"id": 935,
+"en": "Shoots from top of the key"
+},
+{
+"id": 936,
+"en": "Shoots 3's from top of arc"
+},
+{
+"id": 937,
+"en": "Scores primarily in paint"
+},
+{
+"id": 938,
+"en": "Varies shot distribution well"
+},
+{
+"id": 939,
+"en": "HOF"
+},
+{
+"id": 940,
+"en": "USER"
+},
+{
+"id": 941,
+"en": "Current VIP: %s"
+},
+{
+"id": 942,
+"en": "SELECTION"
+},
+{
+"id": 943,
+"en": "RELEASE"
+},
+{
+"id": 944,
+"en": "SPREAD"
+},
+{
+"id": 945,
+"en": "MOVES AND TEMPO"
+},
+{
+"id": 946,
+"en": "Usage: %s"
+},
+{
+"id": 947,
+"en": "STEALING AND BLOCKING"
+},
+{
+"id": 948,
+"en": "STEAL ATTEMPTS"
+},
+{
+"id": 949,
+"en": "BLOCK ATTEMPTS"
+},
+{
+"id": 950,
+"en": "STEAL SUCCESS"
+},
+{
+"id": 951,
+"en": "BLOCK SUCCESS"
+},
+{
+"id": 952,
+"en": "%s is now the active VIP."
+},
+{
+"id": 953,
+"en": "Caution: Any unsaved data for VIP Record %s will be lost. Continue?"
+},
+{
+"id": 954,
+"en": "Remove VIP"
+},
+{
+"id": 955,
+"en": "Select a VIP profile for playback"
+},
+{
+"id": 956,
+"en": "You cannot assign an empty VIP for playback"
+},
+{
+"id": 957,
+"en": "You cannot assign a VIP with 0 games played for playback"
+},
+{
+"id": 958,
+"en": "Cannot use %s VIP for playback while assigned to a controller"
+},
+{
+"id": 959,
+"en": "Cancel VIP Playback Assignment?"
+},
+{
+"id": 960,
+"en": "%s (Playback Enabled)"
+},
+{
+"id": 961,
+"en": "No VIP Playback Assigned"
+},
+{
+"id": 962,
+"en": "%d Wins - %d Losses"
+},
+{
+"id": 963,
+"en": "(CPU Controlled)"
+},
+{
+"id": 964,
+"en": "Scouting Report"
+},
+{
+"id": 965,
+"en": "Per Game Stats"
+},
+{
+"id": 966,
+"en": "Cancel VIP Avatar Assignment?"
+},
+{
+"id": 967,
+"en": "Your team lineups have been altered due to recent trading."
+},
+{
+"id": 968,
+"en": "Your lineup has changed. Would you like to save these changes?"
+},
+{
+"id": 969,
+"en": "Ambient: Scorebug Top Bar In"
+},
+{
+"id": 970,
+"en": "Ambient: Scorebug Top Bar Out"
+},
+{
+"id": 971,
+"en": "MPB"
+},
+{
+"id": 972,
+"en": "Low"
+},
+{
+"id": 973,
+"en": "Minimal"
+},
+{
+"id": 974,
+"en": "%.1f min"
+},
+{
+"id": 975,
+"en": "Minimum of %d games required"
+},
+{
+"id": 976,
+"en": "Baseline One"
+},
+{
+"id": 977,
+"en": "Baseline Two"
+},
+{
+"id": 978,
+"en": "Box"
+},
+{
+"id": 979,
+"en": "Flex One"
+},
+{
+"id": 980,
+"en": "Flex Two"
+},
+{
+"id": 981,
+"en": "Flex Three"
+},
+{
+"id": 982,
+"en": "Flex Four"
+},
+{
+"id": 983,
+"en": "Motion One"
+},
+{
+"id": 984,
+"en": "Motion Two"
+},
+{
+"id": 985,
+"en": "Motion Three"
+},
+{
+"id": 986,
+"en": "Motion Four"
+},
+{
+"id": 987,
+"en": "Motion Five"
+},
+{
+"id": 988,
+"en": "Triangle One"
+},
+{
+"id": 989,
+"en": "Triangle Two"
+},
+{
+"id": 990,
+"en": "Triangle Three"
+},
+{
+"id": 991,
+"en": "Triangle Four"
+},
+{
+"id": 992,
+"en": "Triangle Five"
+},
+{
+"id": 993,
+"en": "Triangle Six"
+},
+{
+"id": 994,
+"en": "Triangle Seven"
+},
+{
+"id": 995,
+"en": "STADIUM"
+},
+{
+"id": 996,
+"en": "HEAD"
+},
+{
+"id": 997,
+"en": "COACHHOME"
+},
+{
+"id": 998,
+"en": "COACHAWAY"
+},
+{
+"id": 999,
+"en": "GAMEDATAEXTRA"
+}
+]

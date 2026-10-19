@@ -1,0 +1,602 @@
+[
+{
+"id": 1650,
+"en": "Orange"
+},
+{
+"id": 1651,
+"en": "TROPHIES:"
+},
+{
+"id": 1652,
+"en": "1-3-1 Zone"
+},
+{
+"id": 1653,
+"en": "All-Rookie First Team"
+},
+{
+"id": 1654,
+"en": "WES"
+},
+{
+"id": 1655,
+"en": "My NBA"
+},
+{
+"id": 1656,
+"en": "CBEditor"
+},
+{
+"id": 1657,
+"en": "On Ball Steal"
+},
+{
+"id": 1658,
+"en": "Street Modes"
+},
+{
+"id": 1659,
+"en": "BENCH POINTS"
+},
+{
+"id": 1660,
+"en": "Select Favorite Team"
+},
+{
+"id": 1661,
+"en": "to advance"
+},
+{
+"id": 1662,
+"en": "Clippers Jersey"
+},
+{
+"id": 1663,
+"en": "Nets Tote"
+},
+{
+"id": 1664,
+"en": "Spurs Fisherman"
+},
+{
+"id": 1665,
+"en": "Close Shot Success"
+},
+{
+"id": 1666,
+"en": "2K Beats Playlist"
+},
+{
+"id": 1667,
+"en": "White Wristband"
+},
+{
+"id": 1668,
+"en": "Overall"
+},
+{
+"id": 1669,
+"en": "50 or better"
+},
+{
+"id": 1670,
+"en": "Round Interval"
+},
+{
+"id": 1671,
+"en": "to view other teams"
+},
+{
+"id": 1672,
+"en": "Fantasy Draft Roster"
+},
+{
+"id": 1673,
+"en": "Progression"
+},
+{
+"id": 1674,
+"en": "You've unlocked the VC squad!  These guys think they can ball.  You be the judge."
+},
+{
+"id": 1675,
+"en": "Nigeria"
+},
+{
+"id": 1676,
+"en": "Sign"
+},
+{
+"id": 1677,
+"en": "3-Point"
+},
+{
+"id": 1678,
+"en": "to delete notification"
+},
+{
+"id": 1679,
+"en": "Best of 3"
+},
+{
+"id": 1680,
+"en": "Dbl Wristband Team 2"
+},
+{
+"id": 1681,
+"en": "Nets Fisherman"
+},
+{
+"id": 1682,
+"en": "June"
+},
+{
+"id": 1683,
+"en": "Scout"
+},
+{
+"id": 1684,
+"en": "TYPE"
+},
+{
+"id": 1685,
+"en": "Blazers Backpack"
+},
+{
+"id": 1686,
+"en": "SAVE"
+},
+{
+"id": 1687,
+"en": "YEARS"
+},
+{
+"id": 1688,
+"en": "3RD"
+},
+{
+"id": 1689,
+"en": "Total Steals"
+},
+{
+"id": 1690,
+"en": "LUXURY TAX"
+},
+{
+"id": 1691,
+"en": "Save VIP"
+},
+{
+"id": 1692,
+"en": "Shade Sport Glasses"
+},
+{
+"id": 1693,
+"en": "Position"
+},
+{
+"id": 1694,
+"en": "Wristband White"
+},
+{
+"id": 1695,
+"en": "Record Message"
+},
+{
+"id": 1696,
+"en": "Midrange"
+},
+{
+"id": 1697,
+"en": "The Cage - NYC"
+},
+{
+"id": 1698,
+"en": "Prospect Debug"
+},
+{
+"id": 1699,
+"en": "-|SHOT_REG|"
+},
+{
+"id": 1700,
+"en": "PF:"
+},
+{
+"id": 1701,
+"en": "Download in progress:  %d%% Complete"
+},
+{
+"id": 1702,
+"en": "Soundtrack: %s\nðPreviewing:%s (%d:%02d)"
+},
+{
+"id": 1703,
+"en": "My Leagues"
+},
+{
+"id": 1704,
+"en": "FASTBREAK"
+},
+{
+"id": 1705,
+"en": "Number of Evaluations"
+},
+{
+"id": 1706,
+"en": "WESTERN Warmup"
+},
+{
+"id": 1707,
+"en": "Franchise Rating"
+},
+{
+"id": 1708,
+"en": "Attributes"
+},
+{
+"id": 1709,
+"en": "Save it for later"
+},
+{
+"id": 1710,
+"en": "70W"
+},
+{
+"id": 1711,
+"en": "to edit workout"
+},
+{
+"id": 1712,
+"en": "Camo Fisherman"
+},
+{
+"id": 1713,
+"en": "J. Worthy Jersey"
+},
+{
+"id": 1714,
+"en": "Congratulations!  The {0} have completed the goal, \"ðCoach the Defensive Player of the Year.\"ð  15 Reward Points have been added to their total."
+},
+{
+"id": 1715,
+"en": "Savage Arena"
+},
+{
+"id": 1716,
+"en": "-Rarely looks for offensive rebounds"
+},
+{
+"id": 1717,
+"en": "Bird Jersey"
+},
+{
+"id": 1718,
+"en": "HUSTLE"
+},
+{
+"id": 1719,
+"en": "Auto Sign In"
+},
+{
+"id": 1720,
+"en": "STAFF SALARIES"
+},
+{
+"id": 1721,
+"en": "TShM"
+},
+{
+"id": 1722,
+"en": "Hire NBA Scout"
+},
+{
+"id": 1723,
+"en": "C-"
+},
+{
+"id": 1724,
+"en": "You've unlocked the NBA Green uniforms for the Bobcats, Bulls and Nuggets!  Note that these are only available as the away team."
+},
+{
+"id": 1725,
+"en": "Off Clutch"
+},
+{
+"id": 1726,
+"en": "%s: %s TEAM LEADERS %s"
+},
+{
+"id": 1727,
+"en": "Slamson Mascot"
+},
+{
+"id": 1728,
+"en": "Warriors Jersey"
+},
+{
+"id": 1729,
+"en": "4 Minutes"
+},
+{
+"id": 1730,
+"en": "The sideline and halfcourt line are used to pressure the ballhandler as he crosses the halfcourt line. This increased pressure may create turnovers and slow the offense from setting up."
+},
+{
+"id": 1731,
+"en": "OFFENSIVE AWARENESS"
+},
+{
+"id": 1732,
+"en": "Congratulations!  The {0} have completed the goal, \"ðOne player named to the All-Rookie First Team.\"ð  10 Reward Points have been added to their total."
+},
+{
+"id": 1733,
+"en": "Build"
+},
+{
+"id": 1734,
+"en": "FREE THROWS"
+},
+{
+"id": 1735,
+"en": "8"
+},
+{
+"id": 1736,
+"en": "5"
+},
+{
+"id": 1737,
+"en": "All NBA Fisherman"
+},
+{
+"id": 1738,
+"en": "Grizzlies Jersey"
+},
+{
+"id": 1739,
+"en": "Official B-Ball Shoe 2"
+},
+{
+"id": 1740,
+"en": "Auto Login"
+},
+{
+"id": 1741,
+"en": "View Trade"
+},
+{
+"id": 1742,
+"en": "sub"
+},
+{
+"id": 1743,
+"en": "Coach First Name"
+},
+{
+"id": 1744,
+"en": "%s HAS A STRAINED ACHILLES AND CAN'T RETURN"
+},
+{
+"id": 1745,
+"en": "Foul Out"
+},
+{
+"id": 1746,
+"en": "Clean Rebound!"
+},
+{
+"id": 1747,
+"en": "%02d'-%02d'"
+},
+{
+"id": 1748,
+"en": "White Fisherman"
+},
+{
+"id": 1749,
+"en": "Fresh"
+},
+{
+"id": 1750,
+"en": "NAME"
+},
+{
+"id": 1751,
+"en": "-Strong perimeter offense"
+},
+{
+"id": 1752,
+"en": "12 Min"
+},
+{
+"id": 1753,
+"en": "Turnover Ratio"
+},
+{
+"id": 1754,
+"en": "3 Point %"
+},
+{
+"id": 1755,
+"en": "DRPG"
+},
+{
+"id": 1756,
+"en": "Red specs"
+},
+{
+"id": 1757,
+"en": "2-Hundred Level"
+},
+{
+"id": 1758,
+"en": "Playoff Tree Setup"
+},
+{
+"id": 1759,
+"en": "Draft your players just like in a Fantasy Basketball League.\nð\nðEach player you pick replaces your team's regular player. You'll pick the first ten players on the team, and the CPU will pick the last two."
+},
+{
+"id": 1760,
+"en": "Sharpshooter"
+},
+{
+"id": 1761,
+"en": "Baseline Exchange"
+},
+{
+"id": 1762,
+"en": "Urban Camo Bandana"
+},
+{
+"id": 1763,
+"en": "Pure Point"
+},
+{
+"id": 1764,
+"en": "Big Swat"
+},
+{
+"id": 1765,
+"en": "Play Editor"
+},
+{
+"id": 1766,
+"en": "Bobcats Warmup"
+},
+{
+"id": 1767,
+"en": "Camo Wristband"
+},
+{
+"id": 1768,
+"en": "Pontiac Registration"
+},
+{
+"id": 1769,
+"en": "Total Fouls"
+},
+{
+"id": 1770,
+"en": "2-3 Zone"
+},
+{
+"id": 1771,
+"en": "Snowboard Backpack"
+},
+{
+"id": 1772,
+"en": "News"
+},
+{
+"id": 1773,
+"en": "DIVISION RANK"
+},
+{
+"id": 1774,
+"en": "Glasses on Forehead"
+},
+{
+"id": 1775,
+"en": "One player named to All-Rookie Second Team"
+},
+{
+"id": 1776,
+"en": "Slightly Late:"
+},
+{
+"id": 1777,
+"en": "Yugoslavia"
+},
+{
+"id": 1778,
+"en": "Custom Match"
+},
+{
+"id": 1779,
+"en": "Hookshot"
+},
+{
+"id": 1780,
+"en": "3pt"
+},
+{
+"id": 1781,
+"en": "VC Jersey"
+},
+{
+"id": 1782,
+"en": "%s STAT LINE %s"
+},
+{
+"id": 1783,
+"en": "No Through Simulation"
+},
+{
+"id": 1784,
+"en": "YEAR"
+},
+{
+"id": 1785,
+"en": "Centers DEBUG"
+},
+{
+"id": 1786,
+"en": "-Jump passes to open man often"
+},
+{
+"id": 1787,
+"en": "This drill focuses exclusively on your Def. Rebounding attribute."
+},
+{
+"id": 1788,
+"en": "15"
+},
+{
+"id": 1789,
+"en": "18"
+},
+{
+"id": 1790,
+"en": "EBC Tournament"
+},
+{
+"id": 1791,
+"en": "Off Rebounds"
+},
+{
+"id": 1792,
+"en": "Font Test"
+},
+{
+"id": 1793,
+"en": "YOUR CAP FIGURE:"
+},
+{
+"id": 1794,
+"en": "%d:%02d"
+},
+{
+"id": 1795,
+"en": "Contested Shot Tend"
+},
+{
+"id": 1796,
+"en": "Build your confidence at the line by sinking as many free throws as you can."
+},
+{
+"id": 1797,
+"en": "Coach of the Year"
+},
+{
+"id": 1798,
+"en": "4 Man Roll 2-4"
+},
+{
+"id": 1799,
+"en": "Sonics"
+}
+]

@@ -1,0 +1,602 @@
+[
+{
+"id": 3300,
+"en": "You've unlocked the 2010 All-Star uniforms!"
+},
+{
+"id": 3301,
+"en": "Charging Foul"
+},
+{
+"id": 3302,
+"en": "-Tends to overuse the pumpfake"
+},
+{
+"id": 3303,
+"en": "Min"
+},
+{
+"id": 3304,
+"en": "Salary"
+},
+{
+"id": 3305,
+"en": "\nðChoose Option"
+},
+{
+"id": 3306,
+"en": "steal"
+},
+{
+"id": 3307,
+"en": "Street Scrimmage"
+},
+{
+"id": 3308,
+"en": "Loose"
+},
+{
+"id": 3309,
+"en": "Black Cell Phone"
+},
+{
+"id": 3310,
+"en": "Retro 3"
+},
+{
+"id": 3311,
+"en": "B-Ball Head"
+},
+{
+"id": 3312,
+"en": "AWY"
+},
+{
+"id": 3313,
+"en": "Exit Game"
+},
+{
+"id": 3314,
+"en": "View Profile"
+},
+{
+"id": 3315,
+"en": "Prospect Card"
+},
+{
+"id": 3316,
+"en": "-Hacks a lot on defense"
+},
+{
+"id": 3317,
+"en": "Gold Hi-tops"
+},
+{
+"id": 3318,
+"en": "Online FAQ"
+},
+{
+"id": 3319,
+"en": "OPost"
+},
+{
+"id": 3320,
+"en": "Quitting the current game will cause all accumulated stats and milestones for all active VIP records to be lost!\nðContinue?"
+},
+{
+"id": 3321,
+"en": "Shorts Length"
+},
+{
+"id": 3322,
+"en": "Def Awareness"
+},
+{
+"id": 3323,
+"en": "Tournament Lobby"
+},
+{
+"id": 3324,
+"en": "This defense will double-team or 'trap' the ballhandler as he crosses the halfcourt line. The other 3 defenders will try to clog the passing lanes, hopefully resulting in a turnover."
+},
+{
+"id": 3325,
+"en": "SELECT ALL"
+},
+{
+"id": 3326,
+"en": " and"
+},
+{
+"id": 3327,
+"en": "Deleting '{0}' from {1} failed.\nð Press |CROSS| to continue."
+},
+{
+"id": 3328,
+"en": "Jab Step"
+},
+{
+"id": 3329,
+"en": "FOULED OUT"
+},
+{
+"id": 3330,
+"en": "High"
+},
+{
+"id": 3331,
+"en": "INTEREST"
+},
+{
+"id": 3332,
+"en": "Celtics Tote"
+},
+{
+"id": 3333,
+"en": "Return PG-C"
+},
+{
+"id": 3334,
+"en": "Draft Class '03"
+},
+{
+"id": 3335,
+"en": "Hire Scout"
+},
+{
+"id": 3336,
+"en": "-Waits for open looks"
+},
+{
+"id": 3337,
+"en": "You are about to advance past the team option period.  If you continue, any options not yet exercised will be declined.  Continue?"
+},
+{
+"id": 3338,
+"en": "Blaze Mascot"
+},
+{
+"id": 3339,
+"en": "Debug Menu"
+},
+{
+"id": 3340,
+"en": "-Harasses ballhandlers effectively"
+},
+{
+"id": 3341,
+"en": "Retro Supersonics"
+},
+{
+"id": 3342,
+"en": "-Good at putbacks and tip-ins"
+},
+{
+"id": 3343,
+"en": "Rbk Unheralded Mid"
+},
+{
+"id": 3344,
+"en": "Congratulations! The {0} have won the tournament."
+},
+{
+"id": 3345,
+"en": "Clippers Tote"
+},
+{
+"id": 3346,
+"en": "Send your team to Free Throw Camp and all players on the team will gain 1 point in the following category:  Free Throws."
+},
+{
+"id": 3347,
+"en": "Total Losses"
+},
+{
+"id": 3348,
+"en": "2dviewer"
+},
+{
+"id": 3349,
+"en": "OVR"
+},
+{
+"id": 3350,
+"en": "Offer Status Menu"
+},
+{
+"id": 3351,
+"en": "-May force ill-advised shots"
+},
+{
+"id": 3352,
+"en": "\"ð%s\"ð is not a VIP Record and cannot be loaded here."
+},
+{
+"id": 3353,
+"en": "This drill will improve your Shot Close, Shot Medium, Shot 3PT, and Ball Handling skills."
+},
+{
+"id": 3354,
+"en": "View Player Card"
+},
+{
+"id": 3355,
+"en": "Bucks Fisherman"
+},
+{
+"id": 3356,
+"en": "Layup Ability"
+},
+{
+"id": 3357,
+"en": "Notifications"
+},
+{
+"id": 3358,
+"en": "Timeout called - %s"
+},
+{
+"id": 3359,
+"en": "to select drill"
+},
+{
+"id": 3360,
+"en": "Double Block Option"
+},
+{
+"id": 3361,
+"en": "|M_BACK| Close"
+},
+{
+"id": 3362,
+"en": "TENDENCIES"
+},
+{
+"id": 3363,
+"en": "Congratulations!  The {0} have completed the goal, \"ðOne player named to the All-NBA Third Team.\"ð  10 Reward Points have been added to their total."
+},
+{
+"id": 3364,
+"en": "Motorcycle Helmet"
+},
+{
+"id": 3365,
+"en": "NBA Stars"
+},
+{
+"id": 3366,
+"en": "TUE"
+},
+{
+"id": 3367,
+"en": "Total Turnovers"
+},
+{
+"id": 3368,
+"en": "Quick Isolation"
+},
+{
+"id": 3369,
+"en": "Reset Roster"
+},
+{
+"id": 3370,
+"en": "Debug - Battle Map"
+},
+{
+"id": 3371,
+"en": "Nice Shot"
+},
+{
+"id": 3372,
+"en": "Select a prospect to go 1-on-1 with a free agent or a player on your roster and see if he is up to your standards.  You may only perform this workout twice during the scouting period."
+},
+{
+"id": 3373,
+"en": "Get Back"
+},
+{
+"id": 3374,
+"en": "Platinum Link"
+},
+{
+"id": 3375,
+"en": "Tournament Setup"
+},
+{
+"id": 3376,
+"en": "to edit a coaching position"
+},
+{
+"id": 3377,
+"en": "Air Jordan Retro 8"
+},
+{
+"id": 3378,
+"en": "TEAMCHEMISTRY"
+},
+{
+"id": 3379,
+"en": "Simulation"
+},
+{
+"id": 3380,
+"en": "-Will vary defensive sets"
+},
+{
+"id": 3381,
+"en": "Finished customizing playoffs?"
+},
+{
+"id": 3382,
+"en": "Appearance 4"
+},
+{
+"id": 3383,
+"en": "sprained toe"
+},
+{
+"id": 3384,
+"en": "-Plays loose on role players"
+},
+{
+"id": 3385,
+"en": "Dynamo Arena"
+},
+{
+"id": 3386,
+"en": "|M_PREVSUBPAGE|   |M_NEXTSUBPAGE|"
+},
+{
+"id": 3387,
+"en": "You have already completed a workout for this day."
+},
+{
+"id": 3388,
+"en": "Camera Select"
+},
+{
+"id": 3389,
+"en": "Slippers"
+},
+{
+"id": 3390,
+"en": "Never"
+},
+{
+"id": 3391,
+"en": "To Dismiss Play Panel"
+},
+{
+"id": 3392,
+"en": "-Looks for the open man"
+},
+{
+"id": 3393,
+"en": "Press |M_ADVANCE| to Skip"
+},
+{
+"id": 3394,
+"en": "2000 Draft Arena"
+},
+{
+"id": 3395,
+"en": "Fast Messages"
+},
+{
+"id": 3396,
+"en": " Layup "
+},
+{
+"id": 3397,
+"en": "Athleticism Camp"
+},
+{
+"id": 3398,
+"en": "Tournament Desk"
+},
+{
+"id": 3399,
+"en": "%d.%d"
+},
+{
+"id": 3400,
+"en": "In the news"
+},
+{
+"id": 3401,
+"en": "RATING"
+},
+{
+"id": 3402,
+"en": "To Select Option"
+},
+{
+"id": 3403,
+"en": "NBA 2K Team"
+},
+{
+"id": 3404,
+"en": "THIS QTR"
+},
+{
+"id": 3405,
+"en": "Qtr. Length"
+},
+{
+"id": 3406,
+"en": "/{0}"
+},
+{
+"id": 3407,
+"en": "Retrieving data: {0}% Complete"
+},
+{
+"id": 3408,
+"en": "Lobbies"
+},
+{
+"id": 3409,
+"en": "3 POINT SHOTS"
+},
+{
+"id": 3410,
+"en": "Czech Republic"
+},
+{
+"id": 3411,
+"en": "Number of Votes"
+},
+{
+"id": 3412,
+"en": "Retro 5"
+},
+{
+"id": 3413,
+"en": "Grizzlies Shorts"
+},
+{
+"id": 3414,
+"en": "VERTICAL"
+},
+{
+"id": 3415,
+"en": "Birdseye"
+},
+{
+"id": 3416,
+"en": "Sign Players"
+},
+{
+"id": 3417,
+"en": "Road to the EBC"
+},
+{
+"id": 3418,
+"en": "CENTRAL DIVISION"
+},
+{
+"id": 3419,
+"en": "Warriors"
+},
+{
+"id": 3420,
+"en": "F6"
+},
+{
+"id": 3421,
+"en": "4 Man Roll 2-3"
+},
+{
+"id": 3422,
+"en": "58 Games"
+},
+{
+"id": 3423,
+"en": "Block Exchange"
+},
+{
+"id": 3424,
+"en": "Workouts"
+},
+{
+"id": 3425,
+"en": "3PT %"
+},
+{
+"id": 3426,
+"en": "Warriors Shorts"
+},
+{
+"id": 3427,
+"en": "4 Man Roll 3-1"
+},
+{
+"id": 3428,
+"en": "Choose Favorite Team"
+},
+{
+"id": 3429,
+"en": "to Attempt Trade"
+},
+{
+"id": 3430,
+"en": "Extend Contract"
+},
+{
+"id": 3431,
+"en": "-Calls for pick |PCT_CALL_PICK| of the time"
+},
+{
+"id": 3432,
+"en": "VS"
+},
+{
+"id": 3433,
+"en": "Spurs Backpack"
+},
+{
+"id": 3434,
+"en": "Retro Lakers"
+},
+{
+"id": 3435,
+"en": "Wizards Warmup"
+},
+{
+"id": 3436,
+"en": "NBA"
+},
+{
+"id": 3437,
+"en": "Drive Tend"
+},
+{
+"id": 3438,
+"en": "-Usually avoids jump passing"
+},
+{
+"id": 3439,
+"en": "Export AI [DEBUG]"
+},
+{
+"id": 3440,
+"en": "Dunk Success"
+},
+{
+"id": 3441,
+"en": "Keep Away Passing"
+},
+{
+"id": 3442,
+"en": "You've unlocked 7 Hardwood Classics uniforms for the Cavaliers, Jazz, Magic, Raptors, Timberwolves, Trail Blazers and Warriors!"
+},
+{
+"id": 3443,
+"en": "shot close, made"
+},
+{
+"id": 3444,
+"en": "CHEM"
+},
+{
+"id": 3445,
+"en": "Adidas"
+},
+{
+"id": 3446,
+"en": "Gms.Back"
+},
+{
+"id": 3447,
+"en": "Team Progression"
+},
+{
+"id": 3448,
+"en": "Stam"
+},
+{
+"id": 3449,
+"en": "Work on your defensive rebounding.  Box out the offensive rebounder and pull down the board."
+}
+]

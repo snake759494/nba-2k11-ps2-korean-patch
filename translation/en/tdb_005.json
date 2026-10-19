@@ -1,0 +1,602 @@
+[
+{
+"id": 750,
+"en": "4TH"
+},
+{
+"id": 751,
+"en": "Trade Override"
+},
+{
+"id": 752,
+"en": "CURRENT STAFF"
+},
+{
+"id": 753,
+"en": "It is too late to replace banned players. Are you sure that you want to ban %s?"
+},
+{
+"id": 754,
+"en": "Last Game's Box Score"
+},
+{
+"id": 755,
+"en": "Hawks"
+},
+{
+"id": 756,
+"en": "to Add / Edit a Player"
+},
+{
+"id": 757,
+"en": "The {0} ({1}) {2} has retired. They need to hire a new {4}."
+},
+{
+"id": 758,
+"en": "F3"
+},
+{
+"id": 759,
+"en": "Kings Tote"
+},
+{
+"id": 760,
+"en": "Cavaliers"
+},
+{
+"id": 761,
+"en": "Kings Warmup"
+},
+{
+"id": 762,
+"en": "GOAL"
+},
+{
+"id": 763,
+"en": "-Plays run n' gun basketball"
+},
+{
+"id": 764,
+"en": "TEAM"
+},
+{
+"id": 765,
+"en": "Load Historic Team"
+},
+{
+"id": 766,
+"en": "Post D"
+},
+{
+"id": 767,
+"en": "Not Important"
+},
+{
+"id": 768,
+"en": "Would you like a scouting report on {0}?"
+},
+{
+"id": 769,
+"en": "-Doesn't set double teams in menu"
+},
+{
+"id": 770,
+"en": "Republic of Georgia"
+},
+{
+"id": 771,
+"en": "Play with Finesse"
+},
+{
+"id": 772,
+"en": "to view player stats"
+},
+{
+"id": 773,
+"en": "Injury Status"
+},
+{
+"id": 774,
+"en": "-Tends to force bad shots"
+},
+{
+"id": 775,
+"en": "Big Man Offense Camp"
+},
+{
+"id": 776,
+"en": "Superstars"
+},
+{
+"id": 777,
+"en": "Presentation Settings"
+},
+{
+"id": 778,
+"en": "Msg"
+},
+{
+"id": 779,
+"en": "to leave Playoff Tree"
+},
+{
+"id": 780,
+"en": "Fantasy Basketball"
+},
+{
+"id": 781,
+"en": "Hair Color"
+},
+{
+"id": 782,
+"en": "to Start Drill"
+},
+{
+"id": 783,
+"en": "FT PERCENTAGE"
+},
+{
+"id": 784,
+"en": "negative"
+},
+{
+"id": 785,
+"en": "The {0} must keep TEAMDATA_MIN_NUMBER_OF_PLAYERS_PER_TEAM players on the team."
+},
+{
+"id": 786,
+"en": "Armband White"
+},
+{
+"id": 787,
+"en": "to edit Player"
+},
+{
+"id": 788,
+"en": "Win the NBA Championship"
+},
+{
+"id": 789,
+"en": "REWARD POINTS AVAILABLE:"
+},
+{
+"id": 790,
+"en": "Possession"
+},
+{
+"id": 791,
+"en": "to return to selecting start point"
+},
+{
+"id": 792,
+"en": "Propose a Trade"
+},
+{
+"id": 793,
+"en": "Shooting (Med.)"
+},
+{
+"id": 794,
+"en": "3pt SG Spotup"
+},
+{
+"id": 795,
+"en": "Box Out"
+},
+{
+"id": 796,
+"en": "OReb"
+},
+{
+"id": 797,
+"en": "Close"
+},
+{
+"id": 798,
+"en": "to adjust offensive lineup"
+},
+{
+"id": 799,
+"en": "%ist%s"
+},
+{
+"id": 800,
+"en": "SALARY"
+},
+{
+"id": 801,
+"en": "-Physical defender"
+},
+{
+"id": 802,
+"en": "Cut Scene"
+},
+{
+"id": 803,
+"en": "Right Elbow Pad"
+},
+{
+"id": 804,
+"en": "Seed"
+},
+{
+"id": 805,
+"en": "|M_SECONDARY| WHAT ARE REWARD POINTS?"
+},
+{
+"id": 806,
+"en": "Offensive Rebounds Per Game"
+},
+{
+"id": 807,
+"en": "Squared-up J"
+},
+{
+"id": 808,
+"en": "Defense Clutch"
+},
+{
+"id": 809,
+"en": "SHOOT OFF DRIBBLE"
+},
+{
+"id": 810,
+"en": "Wild 2-way"
+},
+{
+"id": 811,
+"en": "Standing Dunk"
+},
+{
+"id": 812,
+"en": "FT"
+},
+{
+"id": 813,
+"en": "STEALS PER GAME"
+},
+{
+"id": 814,
+"en": "CAREER"
+},
+{
+"id": 815,
+"en": "-Calls various defensive sets"
+},
+{
+"id": 816,
+"en": "We just received a fax here at the league office from the [1] who have just waived [2] [3] ([4], [5])."
+},
+{
+"id": 817,
+"en": "Checking MEMORY CARD slots.%s"
+},
+{
+"id": 818,
+"en": "EASTERN"
+},
+{
+"id": 819,
+"en": "League Leaders"
+},
+{
+"id": 820,
+"en": "FTV"
+},
+{
+"id": 821,
+"en": "Putback"
+},
+{
+"id": 822,
+"en": "To shoot, move and hold |RANALOG| directly down and time your release to the forward movement of the ball.\nð\nðTo intentionally miss to a side, move |RANALOG| to that side and time the shot.\nð\nðBetter Free Throw shooters have a wider window of opportunity for the release point."
+},
+{
+"id": 823,
+"en": "Points Allowed Per Game"
+},
+{
+"id": 824,
+"en": "Nuggets Cap"
+},
+{
+"id": 825,
+"en": "Retro Mavericks"
+},
+{
+"id": 826,
+"en": " Speed "
+},
+{
+"id": 827,
+"en": "-Sees passing lanes well"
+},
+{
+"id": 828,
+"en": "Admin Options"
+},
+{
+"id": 829,
+"en": "There is less than %d KB available on %s. This save requires %d KB, you need an additional %u KB.\nðPress |CROSS| to continue."
+},
+{
+"id": 830,
+"en": "A flexible schedule has been generated for this league. You can play your league games in any order you want. You do not have to wait for the admin to advance the schedule before you can play your next game. Instead of a normal schedule you simply have a list of opponents that you have to play. Keep in mind that everyone does have to finish all their games before the league can advance to the playoffs."
+},
+{
+"id": 831,
+"en": "Multiple user teams have players whose contracts have expired but have a Team Option clause.  Select whether to Accept or Decline the Team Options."
+},
+{
+"id": 832,
+"en": "-Will change shot often"
+},
+{
+"id": 833,
+"en": "Bulls Warmup"
+},
+{
+"id": 834,
+"en": "SG:"
+},
+{
+"id": 835,
+"en": "Coaching"
+},
+{
+"id": 836,
+"en": "Southwest Division"
+},
+{
+"id": 837,
+"en": "\nðDo you want to stop the simulation?"
+},
+{
+"id": 838,
+"en": "Assisted"
+},
+{
+"id": 839,
+"en": "Team Name"
+},
+{
+"id": 840,
+"en": "Send your player to Rebounding Camp and he will gain 5 points in the following categories: Defensive Rebounding and Offensive Rebounding."
+},
+{
+"id": 841,
+"en": "Cousy Jersey"
+},
+{
+"id": 842,
+"en": "Possession Start"
+},
+{
+"id": 843,
+"en": "Mid/Long Range"
+},
+{
+"id": 844,
+"en": "[1] [2] was injured in our last game: [3].  I've spoken to him at length about his injury and he feels he can still get out there on the court and make a contribution, albeit not what he normally might be able to make.  I would recommend limiting his minutes for the next [4] days while he heals."
+},
+{
+"id": 845,
+"en": "Skills"
+},
+{
+"id": 846,
+"en": "TRAVELING"
+},
+{
+"id": 847,
+"en": "1 Year "
+},
+{
+"id": 848,
+"en": "Offensive Low Post"
+},
+{
+"id": 849,
+"en": "Effective FG %"
+},
+{
+"id": 850,
+"en": "TB"
+},
+{
+"id": 851,
+"en": "Black Wristband"
+},
+{
+"id": 852,
+"en": "Field Goal %"
+},
+{
+"id": 853,
+"en": "No Scout"
+},
+{
+"id": 854,
+"en": "Two players named to the All-Star team"
+},
+{
+"id": 855,
+"en": "MISSED:"
+},
+{
+"id": 856,
+"en": "Are you sure you want to advance to next day?"
+},
+{
+"id": 857,
+"en": "Headband"
+},
+{
+"id": 858,
+"en": "One player named to All-Rookie First Team"
+},
+{
+"id": 859,
+"en": "Minutes Per Game"
+},
+{
+"id": 860,
+"en": "70E"
+},
+{
+"id": 861,
+"en": "|M_NEXTPAGE|"
+},
+{
+"id": 862,
+"en": "Edit Player"
+},
+{
+"id": 863,
+"en": "ON BALL DEFENSE"
+},
+{
+"id": 864,
+"en": "for Daily View"
+},
+{
+"id": 865,
+"en": "Save Settings"
+},
+{
+"id": 866,
+"en": "Light Editor"
+},
+{
+"id": 867,
+"en": "Steals Per Game"
+},
+{
+"id": 868,
+"en": "Wristband Team 1"
+},
+{
+"id": 869,
+"en": "for Reward Points"
+},
+{
+"id": 870,
+"en": "2007"
+},
+{
+"id": 871,
+"en": "Speed"
+},
+{
+"id": 872,
+"en": "Rebounding Icon"
+},
+{
+"id": 873,
+"en": "FG%"
+},
+{
+"id": 874,
+"en": "Had better, had worse"
+},
+{
+"id": 875,
+"en": "Shades 7"
+},
+{
+"id": 876,
+"en": "Official Sneakers 3"
+},
+{
+"id": 877,
+"en": "FT Made"
+},
+{
+"id": 878,
+"en": "What would you like to do with this VIP?"
+},
+{
+"id": 879,
+"en": "LOW POST DEFENSE"
+},
+{
+"id": 880,
+"en": "Racing"
+},
+{
+"id": 881,
+"en": "Date"
+},
+{
+"id": 882,
+"en": "to accept settings."
+},
+{
+"id": 883,
+"en": "-Poor at picking off passes"
+},
+{
+"id": 884,
+"en": "NORTHWEST DIVISION"
+},
+{
+"id": 885,
+"en": "-Likes to shoot off screens"
+},
+{
+"id": 886,
+"en": "CONSECUTIVE FG MADE"
+},
+{
+"id": 887,
+"en": "Power Rankings"
+},
+{
+"id": 888,
+"en": "to view Player Card"
+},
+{
+"id": 889,
+"en": "31"
+},
+{
+"id": 890,
+"en": "ISOMOTION"
+},
+{
+"id": 891,
+"en": "Snapshot"
+},
+{
+"id": 892,
+"en": "Knicks Jersey"
+},
+{
+"id": 893,
+"en": "Jazz Cap"
+},
+{
+"id": 894,
+"en": " QTR2"
+},
+{
+"id": 895,
+"en": "Free Agents"
+},
+{
+"id": 896,
+"en": "Rip Success"
+},
+{
+"id": 897,
+"en": "All-NBA Third Team"
+},
+{
+"id": 898,
+"en": "LOW POST"
+},
+{
+"id": 899,
+"en": "{0} ({1} {2})"
+}
+]

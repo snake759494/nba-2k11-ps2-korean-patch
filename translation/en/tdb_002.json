@@ -1,0 +1,602 @@
+[
+{
+"id": 300,
+"en": "HOME"
+},
+{
+"id": 301,
+"en": "Currently Signed"
+},
+{
+"id": 302,
+"en": "SG Iso"
+},
+{
+"id": 303,
+"en": "Left Leg Items"
+},
+{
+"id": 304,
+"en": "Phone Book"
+},
+{
+"id": 305,
+"en": "B-"
+},
+{
+"id": 306,
+"en": "Standings"
+},
+{
+"id": 307,
+"en": "Injury Effect"
+},
+{
+"id": 308,
+"en": "Mock Draft"
+},
+{
+"id": 309,
+"en": "DEF"
+},
+{
+"id": 310,
+"en": "SG Option"
+},
+{
+"id": 311,
+"en": "Egg"
+},
+{
+"id": 312,
+"en": "2K Rating"
+},
+{
+"id": 313,
+"en": "Before starting the preseason, the {0} must have at least 12 players ready to suit up. You may always sign a free agent to the minimum of {1}, if necessary."
+},
+{
+"id": 314,
+"en": "Small Forwards"
+},
+{
+"id": 315,
+"en": "Tickets"
+},
+{
+"id": 316,
+"en": "Player Stats"
+},
+{
+"id": 317,
+"en": "3 Team Trade"
+},
+{
+"id": 318,
+"en": "Not Centered (with slightly early release)"
+},
+{
+"id": 319,
+"en": "China"
+},
+{
+"id": 320,
+"en": "Win the Coach of the Year award"
+},
+{
+"id": 321,
+"en": "Rookie"
+},
+{
+"id": 322,
+"en": "Front"
+},
+{
+"id": 323,
+"en": "Field Goals Made"
+},
+{
+"id": 324,
+"en": "Return PG-PF"
+},
+{
+"id": 325,
+"en": "You've unlocked Valentine's Day uniforms for the Sonics and Cavaliers ."
+},
+{
+"id": 326,
+"en": "The {0} must sign an {1} before starting the next period."
+},
+{
+"id": 327,
+"en": "NBA Rules"
+},
+{
+"id": 328,
+"en": "W"
+},
+{
+"id": 329,
+"en": "Point Guard"
+},
+{
+"id": 330,
+"en": "PF Post"
+},
+{
+"id": 331,
+"en": "Halo"
+},
+{
+"id": 332,
+"en": "Post Defense"
+},
+{
+"id": 333,
+"en": "FGM"
+},
+{
+"id": 334,
+"en": "Coach Settings"
+},
+{
+"id": 335,
+"en": "Blazers Tote"
+},
+{
+"id": 336,
+"en": "|RANALOG|"
+},
+{
+"id": 337,
+"en": "|M_DPAD|"
+},
+{
+"id": 338,
+"en": "Undrafted"
+},
+{
+"id": 339,
+"en": "FGA"
+},
+{
+"id": 340,
+"en": "Shooting Guards"
+},
+{
+"id": 341,
+"en": "Master"
+},
+{
+"id": 342,
+"en": "DAwr"
+},
+{
+"id": 343,
+"en": "-Changes shot when contested"
+},
+{
+"id": 344,
+"en": "PAPG"
+},
+{
+"id": 345,
+"en": "Heat Jersey"
+},
+{
+"id": 346,
+"en": "Online Account Creation"
+},
+{
+"id": 347,
+"en": "Buff"
+},
+{
+"id": 348,
+"en": "5% Back"
+},
+{
+"id": 349,
+"en": "HELP"
+},
+{
+"id": 350,
+"en": "STAMINA"
+},
+{
+"id": 351,
+"en": "FA"
+},
+{
+"id": 352,
+"en": "Send your player to Athleticism Camp and he will gain 5 points in the following categories: Vertical and Speed."
+},
+{
+"id": 353,
+"en": "Most Pts in a Game"
+},
+{
+"id": 354,
+"en": "SHOT MEDIUM"
+},
+{
+"id": 355,
+"en": "%s Personal, PENALTY"
+},
+{
+"id": 356,
+"en": "Substitutions"
+},
+{
+"id": 357,
+"en": "<%s:> %s <(%s)>"
+},
+{
+"id": 358,
+"en": "Metric Stats"
+},
+{
+"id": 359,
+"en": "DUNK"
+},
+{
+"id": 360,
+"en": "WEIGHT"
+},
+{
+"id": 361,
+"en": "Prospects - {0}"
+},
+{
+"id": 362,
+"en": "%d"
+},
+{
+"id": 363,
+"en": "PA"
+},
+{
+"id": 364,
+"en": "\"ð%s\"ð is not an Online Settings file and cannot be loaded here."
+},
+{
+"id": 365,
+"en": "Fadeaway"
+},
+{
+"id": 366,
+"en": "Load 24/7 Player"
+},
+{
+"id": 367,
+"en": "Lakers Jersey"
+},
+{
+"id": 368,
+"en": "8 Teams"
+},
+{
+"id": 369,
+"en": "Full Court Iso"
+},
+{
+"id": 370,
+"en": "Home"
+},
+{
+"id": 371,
+"en": "Shot Med Tendency"
+},
+{
+"id": 372,
+"en": "REB"
+},
+{
+"id": 373,
+"en": "Load Online VIP"
+},
+{
+"id": 374,
+"en": "Efficiency"
+},
+{
+"id": 375,
+"en": "SPEED"
+},
+{
+"id": 376,
+"en": "F12"
+},
+{
+"id": 377,
+"en": "Free Agent"
+},
+{
+"id": 378,
+"en": "Timeouts Remaining"
+},
+{
+"id": 379,
+"en": "Bulls Backpack"
+},
+{
+"id": 380,
+"en": "{0}"
+},
+{
+"id": 381,
+"en": "All Star"
+},
+{
+"id": 382,
+"en": "Untapped Potential"
+},
+{
+"id": 383,
+"en": "All Positions"
+},
+{
+"id": 384,
+"en": "Select Players"
+},
+{
+"id": 385,
+"en": "Rebounding"
+},
+{
+"id": 386,
+"en": "Team Rosters"
+},
+{
+"id": 387,
+"en": "BLK"
+},
+{
+"id": 388,
+"en": "Jordan Team Strong Premiere"
+},
+{
+"id": 389,
+"en": "Rbk Voyage Mid"
+},
+{
+"id": 390,
+"en": "Manage"
+},
+{
+"id": 391,
+"en": "Let's play another game."
+},
+{
+"id": 392,
+"en": "Offensive Rebound"
+},
+{
+"id": 393,
+"en": "Single Double PG-SG"
+},
+{
+"id": 394,
+"en": "Sixth Man of the Year"
+},
+{
+"id": 395,
+"en": "Trading Block"
+},
+{
+"id": 396,
+"en": "Arena Music"
+},
+{
+"id": 397,
+"en": "Shot Chart"
+},
+{
+"id": 398,
+"en": "pts"
+},
+{
+"id": 399,
+"en": " "
+},
+{
+"id": 400,
+"en": "Manage Roster"
+},
+{
+"id": 401,
+"en": "Orange Beanie"
+},
+{
+"id": 402,
+"en": "Track"
+},
+{
+"id": 403,
+"en": "F4"
+},
+{
+"id": 404,
+"en": "Rebound!"
+},
+{
+"id": 405,
+"en": "-Takes high percentage shots"
+},
+{
+"id": 406,
+"en": "2003 Draft Arena"
+},
+{
+"id": 407,
+"en": "Air Force 25"
+},
+{
+"id": 408,
+"en": "Total Rebounds"
+},
+{
+"id": 409,
+"en": "Spurs Tote"
+},
+{
+"id": 410,
+"en": "Load / Save"
+},
+{
+"id": 411,
+"en": "Broadcast"
+},
+{
+"id": 412,
+"en": "for Nike ID Customization"
+},
+{
+"id": 413,
+"en": "%u %s"
+},
+{
+"id": 414,
+"en": "<%s LEADING SCORERS %s>"
+},
+{
+"id": 415,
+"en": "|M_ADVANCE| to Accept"
+},
+{
+"id": 416,
+"en": "CITY AND NAME"
+},
+{
+"id": 417,
+"en": "Normal"
+},
+{
+"id": 418,
+"en": "WT"
+},
+{
+"id": 419,
+"en": "Retirements"
+},
+{
+"id": 420,
+"en": "Shot Medium"
+},
+{
+"id": 421,
+"en": "DESCRIPTION:"
+},
+{
+"id": 422,
+"en": "Bench Depth"
+},
+{
+"id": 423,
+"en": "NBA Scout"
+},
+{
+"id": 424,
+"en": "Customize League"
+},
+{
+"id": 425,
+"en": "SECOND CHANCE POINTS"
+},
+{
+"id": 426,
+"en": "Users"
+},
+{
+"id": 427,
+"en": "Block"
+},
+{
+"id": 428,
+"en": "Defensive Focus"
+},
+{
+"id": 429,
+"en": "CALENDAR"
+},
+{
+"id": 430,
+"en": "Grizz Mascot"
+},
+{
+"id": 431,
+"en": "-Runs a high tempo offense"
+},
+{
+"id": 432,
+"en": "Sluggish"
+},
+{
+"id": 433,
+"en": "-Doesn't dish while shooting"
+},
+{
+"id": 434,
+"en": "Halftime Report"
+},
+{
+"id": 435,
+"en": "Out"
+},
+{
+"id": 436,
+"en": "Main"
+},
+{
+"id": 437,
+"en": "\"ð%s\"ð already exists on %s, Save Failed.\nðPress |CROSS| to continue."
+},
+{
+"id": 438,
+"en": "Good Attitude"
+},
+{
+"id": 439,
+"en": "PPG"
+},
+{
+"id": 440,
+"en": "Mexico"
+},
+{
+"id": 441,
+"en": "Shoot off Dribble"
+},
+{
+"id": 442,
+"en": "Wheel Double Option"
+},
+{
+"id": 443,
+"en": "Opponents Field Goal %"
+},
+{
+"id": 444,
+"en": "Dribble and Shoot"
+},
+{
+"id": 445,
+"en": "Sign Rookies"
+},
+{
+"id": 446,
+"en": "Sixers"
+},
+{
+"id": 447,
+"en": "Jumpball"
+},
+{
+"id": 448,
+"en": "Shooting Guards DEBUG"
+},
+{
+"id": 449,
+"en": "|M_SECONDARY| to Decline"
+}
+]

@@ -1,0 +1,602 @@
+[
+{
+"id": 900,
+"en": "to Select/Deselect"
+},
+{
+"id": 901,
+"en": "2nd Team Sleeve"
+},
+{
+"id": 902,
+"en": "Slicked Back Tail"
+},
+{
+"id": 903,
+"en": "-Commits shooting fouls often"
+},
+{
+"id": 904,
+"en": "October"
+},
+{
+"id": 905,
+"en": "Weight Camp"
+},
+{
+"id": 906,
+"en": "Option Year"
+},
+{
+"id": 907,
+"en": "TWolves Shorts"
+},
+{
+"id": 908,
+"en": "<%s:> %s (%s)"
+},
+{
+"id": 909,
+"en": "April"
+},
+{
+"id": 910,
+"en": "3-Point Made"
+},
+{
+"id": 911,
+"en": "DPst"
+},
+{
+"id": 912,
+"en": "Attack the Basket"
+},
+{
+"id": 913,
+"en": "FB PTS"
+},
+{
+"id": 914,
+"en": "When Finished"
+},
+{
+"id": 915,
+"en": "Spurs"
+},
+{
+"id": 916,
+"en": "YOUR OFFERS:"
+},
+{
+"id": 917,
+"en": "'"
+},
+{
+"id": 918,
+"en": "Rookies Of Month"
+},
+{
+"id": 919,
+"en": "High Rub SG-PF"
+},
+{
+"id": 920,
+"en": "BLOCKS PER GAME"
+},
+{
+"id": 921,
+"en": "4 Man Post 2"
+},
+{
+"id": 922,
+"en": "to use 2K Nav Scouting Submenu"
+},
+{
+"id": 923,
+"en": "SPG"
+},
+{
+"id": 924,
+"en": "Official Retro Lo 1"
+},
+{
+"id": 925,
+"en": "{0}:{1:D2}"
+},
+{
+"id": 926,
+"en": "Train_AttackBasket"
+},
+{
+"id": 927,
+"en": "League Lobby"
+},
+{
+"id": 928,
+"en": "Team Sleeve"
+},
+{
+"id": 929,
+"en": "Players"
+},
+{
+"id": 930,
+"en": "Height"
+},
+{
+"id": 931,
+"en": "SG Clearout"
+},
+{
+"id": 932,
+"en": "%s HAS A STRAINED CALF BUT CAN RETURN"
+},
+{
+"id": 933,
+"en": "To Toggle User/CPU"
+},
+{
+"id": 934,
+"en": "Per Game Stats ({0} qtrs)"
+},
+{
+"id": 935,
+"en": "MERCHANDISE"
+},
+{
+"id": 936,
+"en": "Assists"
+},
+{
+"id": 937,
+"en": "Size (KB)"
+},
+{
+"id": 938,
+"en": "Arctic Camo Bandana"
+},
+{
+"id": 939,
+"en": "Pot"
+},
+{
+"id": 940,
+"en": "Stayin' Hot!'"
+},
+{
+"id": 941,
+"en": "Checking MEMORY CARD slots."
+},
+{
+"id": 942,
+"en": "All-Star Votes"
+},
+{
+"id": 943,
+"en": "FGM:"
+},
+{
+"id": 944,
+"en": "Black Fisherman"
+},
+{
+"id": 945,
+"en": "Birth Year"
+},
+{
+"id": 946,
+"en": "Load previously created Arena Music"
+},
+{
+"id": 947,
+"en": "to Stop Simming"
+},
+{
+"id": 948,
+"en": "File"
+},
+{
+"id": 949,
+"en": "|CROSS| Select"
+},
+{
+"id": 950,
+"en": "Logo"
+},
+{
+"id": 951,
+"en": "Pacific Division"
+},
+{
+"id": 952,
+"en": "Player Select"
+},
+{
+"id": 953,
+"en": "International"
+},
+{
+"id": 954,
+"en": "Russia"
+},
+{
+"id": 955,
+"en": "Lakers Fisherman"
+},
+{
+"id": 956,
+"en": "Rebound"
+},
+{
+"id": 957,
+"en": "Injury Type"
+},
+{
+"id": 958,
+"en": "to Go Back"
+},
+{
+"id": 959,
+"en": "broken wrist"
+},
+{
+"id": 960,
+"en": "WESTERN Backpack"
+},
+{
+"id": 961,
+"en": "Superstar"
+},
+{
+"id": 962,
+"en": "Win By"
+},
+{
+"id": 963,
+"en": "3 Years"
+},
+{
+"id": 964,
+"en": "Pending Trades"
+},
+{
+"id": 965,
+"en": "W-L"
+},
+{
+"id": 966,
+"en": "%i-%i of %i users"
+},
+{
+"id": 967,
+"en": "Difficulty"
+},
+{
+"id": 968,
+"en": "Off Awareness"
+},
+{
+"id": 969,
+"en": "Contract Option"
+},
+{
+"id": 970,
+"en": "%s HAS A TWISTED ANKLE BUT CAN RETURN"
+},
+{
+"id": 971,
+"en": "SAL:"
+},
+{
+"id": 972,
+"en": "You've unlocked 5 new Latin Nights uniforms for MIA, LAL, ORL, SA, and PHX!"
+},
+{
+"id": 973,
+"en": "Practice Gym"
+},
+{
+"id": 974,
+"en": "TV Broadcast"
+},
+{
+"id": 975,
+"en": "Player Season Stats"
+},
+{
+"id": 976,
+"en": "FL"
+},
+{
+"id": 977,
+"en": "Street Match"
+},
+{
+"id": 978,
+"en": "rebound"
+},
+{
+"id": 979,
+"en": "Cavaliers Warmup"
+},
+{
+"id": 980,
+"en": "Spiked Bracelet"
+},
+{
+"id": 981,
+"en": "Hawks Warmup"
+},
+{
+"id": 982,
+"en": "70's East"
+},
+{
+"id": 983,
+"en": "Pass the ball to your partner and get open so that he can pass it back to you. Short passes will not count. Don't let the ball get stolen!"
+},
+{
+"id": 984,
+"en": "Low Post Def."
+},
+{
+"id": 985,
+"en": "Burgundy Backpack"
+},
+{
+"id": 986,
+"en": "Sound Effects Vol"
+},
+{
+"id": 987,
+"en": "Coach the Defensive Player of the Year"
+},
+{
+"id": 988,
+"en": "Gameplan"
+},
+{
+"id": 989,
+"en": "Total Points"
+},
+{
+"id": 990,
+"en": "21 Bonus Rank Points"
+},
+{
+"id": 991,
+"en": "Kings Shorts"
+},
+{
+"id": 992,
+"en": "Fouls"
+},
+{
+"id": 993,
+"en": "Free Throws"
+},
+{
+"id": 994,
+"en": "San Francisco"
+},
+{
+"id": 995,
+"en": "Rocky Mascot"
+},
+{
+"id": 996,
+"en": "Bad Release (too early)"
+},
+{
+"id": 997,
+"en": "Clippers Cap"
+},
+{
+"id": 998,
+"en": "To Advance"
+},
+{
+"id": 999,
+"en": "MIN"
+},
+{
+"id": 1000,
+"en": "INT. FOUL: "
+},
+{
+"id": 1001,
+"en": "D-"
+},
+{
+"id": 1002,
+"en": "Import AI [DEBUG]"
+},
+{
+"id": 1003,
+"en": "Setup Names"
+},
+{
+"id": 1004,
+"en": "OVR. RANK"
+},
+{
+"id": 1005,
+"en": "Total Defensive Rebounds"
+},
+{
+"id": 1006,
+"en": "to assign drill"
+},
+{
+"id": 1007,
+"en": "SF Iso"
+},
+{
+"id": 1008,
+"en": "Option Summary"
+},
+{
+"id": 1009,
+"en": "Rub-read Option"
+},
+{
+"id": 1010,
+"en": "Truck Stop"
+},
+{
+"id": 1011,
+"en": "Urban Camo Fisherman"
+},
+{
+"id": 1012,
+"en": "FT %"
+},
+{
+"id": 1013,
+"en": "B "
+},
+{
+"id": 1014,
+"en": "EFG%"
+},
+{
+"id": 1015,
+"en": "Blindfold"
+},
+{
+"id": 1016,
+"en": "Training Camps"
+},
+{
+"id": 1017,
+"en": "Playoff Tree"
+},
+{
+"id": 1018,
+"en": "Ripped"
+},
+{
+"id": 1019,
+"en": "Wide Screen"
+},
+{
+"id": 1020,
+"en": "Send your player to Perimeter Shooting Camp and he will gain 4 points in the following categories: Shot Medium, Shot 3PT, and Shoot Off Dribble."
+},
+{
+"id": 1021,
+"en": "TS"
+},
+{
+"id": 1022,
+"en": "Save Tournament Data"
+},
+{
+"id": 1023,
+"en": "-Rarely commits shooting fouls"
+},
+{
+"id": 1024,
+"en": "Muscle Tone"
+},
+{
+"id": 1025,
+"en": "Flashy Passing"
+},
+{
+"id": 1026,
+"en": "CONF"
+},
+{
+"id": 1027,
+"en": "All DUALSHOCK|REG|2 analog controllers reinserted. Press |START| to continue."
+},
+{
+"id": 1028,
+"en": "-Usually plays tight defense"
+},
+{
+"id": 1029,
+"en": "Shoe Color"
+},
+{
+"id": 1030,
+"en": "Forward Dive Option"
+},
+{
+"id": 1031,
+"en": "White Band"
+},
+{
+"id": 1032,
+"en": "ROAD"
+},
+{
+"id": 1033,
+"en": "26"
+},
+{
+"id": 1034,
+"en": "Ball Cleared"
+},
+{
+"id": 1035,
+"en": "RECORD"
+},
+{
+"id": 1036,
+"en": "Defenders will double-team or 'trap' the ballhandler once the ball is inbounded in the backcourt.  Off-ball defenders actively play the passing lanes in anticipation of an ill-advised pass."
+},
+{
+"id": 1037,
+"en": "GENERAL"
+},
+{
+"id": 1038,
+"en": "21"
+},
+{
+"id": 1039,
+"en": "Retro Warriors"
+},
+{
+"id": 1040,
+"en": "3-Point Attempts"
+},
+{
+"id": 1041,
+"en": "Combat Boots"
+},
+{
+"id": 1042,
+"en": "Dur"
+},
+{
+"id": 1043,
+"en": "All Quarters"
+},
+{
+"id": 1044,
+"en": "Dunking"
+},
+{
+"id": 1045,
+"en": "3PT Attempted"
+},
+{
+"id": 1046,
+"en": "Ranked"
+},
+{
+"id": 1047,
+"en": "Decline"
+},
+{
+"id": 1048,
+"en": "%02d"
+},
+{
+"id": 1049,
+"en": "No Scouting Reports Remaining"
+}
+]

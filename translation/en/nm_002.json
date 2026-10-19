@@ -1,0 +1,802 @@
+[
+{
+"id": 400,
+"en": "Delaware State"
+},
+{
+"id": 401,
+"en": "Delta State"
+},
+{
+"id": 402,
+"en": "Denmark"
+},
+{
+"id": 403,
+"en": "DePaul"
+},
+{
+"id": 404,
+"en": "Detroit Mercy"
+},
+{
+"id": 405,
+"en": "Dominguez (HS)"
+},
+{
+"id": 406,
+"en": "Dominican Republic"
+},
+{
+"id": 407,
+"en": "Drake"
+},
+{
+"id": 408,
+"en": "Drexel"
+},
+{
+"id": 409,
+"en": "Duke"
+},
+{
+"id": 410,
+"en": "Dunk U Very Much"
+},
+{
+"id": 411,
+"en": "Duquesne"
+},
+{
+"id": 412,
+"en": "E Kentucky"
+},
+{
+"id": 413,
+"en": "E Michigan"
+},
+{
+"id": 414,
+"en": "E St Louis (HS)"
+},
+{
+"id": 415,
+"en": "E Washington"
+},
+{
+"id": 416,
+"en": "East Illinois"
+},
+{
+"id": 417,
+"en": "East TN State"
+},
+{
+"id": 418,
+"en": "Eau Claire (HS)"
+},
+{
+"id": 419,
+"en": "ECU"
+},
+{
+"id": 420,
+"en": "Ecuador"
+},
+{
+"id": 421,
+"en": "Edinburgh"
+},
+{
+"id": 422,
+"en": "El Salvador"
+},
+{
+"id": 423,
+"en": "Elon"
+},
+{
+"id": 424,
+"en": "England"
+},
+{
+"id": 425,
+"en": "Evans (HS)"
+},
+{
+"id": 426,
+"en": "Evansville"
+},
+{
+"id": 427,
+"en": "Fairfield"
+},
+{
+"id": 428,
+"en": "Fairleigh Dickinson"
+},
+{
+"id": 429,
+"en": "Farragut Academy (HS)"
+},
+{
+"id": 430,
+"en": "Fayetteville State"
+},
+{
+"id": 431,
+"en": "Finland"
+},
+{
+"id": 432,
+"en": "Florida"
+},
+{
+"id": 433,
+"en": "Florida A&M"
+},
+{
+"id": 434,
+"en": "Florida Atlantic"
+},
+{
+"id": 435,
+"en": "Florida Int'l"
+},
+{
+"id": 436,
+"en": "Florida State"
+},
+{
+"id": 437,
+"en": "FME"
+},
+{
+"id": 438,
+"en": "Fordham"
+},
+{
+"id": 439,
+"en": "France"
+},
+{
+"id": 440,
+"en": "Fresno State"
+},
+{
+"id": 441,
+"en": "Furman"
+},
+{
+"id": 442,
+"en": "G Washington"
+},
+{
+"id": 443,
+"en": "Gardner-Webb"
+},
+{
+"id": 444,
+"en": "George Mason"
+},
+{
+"id": 445,
+"en": "Georgetown"
+},
+{
+"id": 446,
+"en": "Georgia"
+},
+{
+"id": 447,
+"en": "Georgia S"
+},
+{
+"id": 448,
+"en": "Georgia State"
+},
+{
+"id": 449,
+"en": "Georgia Tech"
+},
+{
+"id": 450,
+"en": "Germany"
+},
+{
+"id": 451,
+"en": "Glynn Academy (HS)"
+},
+{
+"id": 452,
+"en": "Golden Bear"
+},
+{
+"id": 453,
+"en": "Gonzaga"
+},
+{
+"id": 454,
+"en": "Grambling"
+},
+{
+"id": 455,
+"en": "Grand Canyon"
+},
+{
+"id": 456,
+"en": "Greece"
+},
+{
+"id": 457,
+"en": "Gulf Shores Academy (HS)"
+},
+{
+"id": 458,
+"en": "Haiti"
+},
+{
+"id": 459,
+"en": "Hampton Inst"
+},
+{
+"id": 460,
+"en": "Hard Knox"
+},
+{
+"id": 461,
+"en": "Hargrave M Academy"
+},
+{
+"id": 462,
+"en": "Hartford"
+},
+{
+"id": 463,
+"en": "Harvard"
+},
+{
+"id": 464,
+"en": "Hawaii"
+},
+{
+"id": 465,
+"en": "High Performance U"
+},
+{
+"id": 466,
+"en": "High Point"
+},
+{
+"id": 467,
+"en": "High School"
+},
+{
+"id": 468,
+"en": "Hofstra"
+},
+{
+"id": 469,
+"en": "Holy Cross"
+},
+{
+"id": 470,
+"en": "Honduras"
+},
+{
+"id": 471,
+"en": "Hong Kong"
+},
+{
+"id": 472,
+"en": "Howard"
+},
+{
+"id": 473,
+"en": "Hungary"
+},
+{
+"id": 474,
+"en": "Idaho"
+},
+{
+"id": 475,
+"en": "Idaho State"
+},
+{
+"id": 476,
+"en": "IL Institute of Art - CHI"
+},
+{
+"id": 477,
+"en": "Illinois"
+},
+{
+"id": 478,
+"en": "Illinois State"
+},
+{
+"id": 479,
+"en": "Illinois Wesleyan"
+},
+{
+"id": 480,
+"en": "Illinois-Chicago"
+},
+{
+"id": 481,
+"en": "India"
+},
+{
+"id": 482,
+"en": "Indian Hills CC"
+},
+{
+"id": 483,
+"en": "Indiana State"
+},
+{
+"id": 484,
+"en": "Indonesia"
+},
+{
+"id": 485,
+"en": "Iona"
+},
+{
+"id": 486,
+"en": "Iowa"
+},
+{
+"id": 487,
+"en": "Iowa State"
+},
+{
+"id": 488,
+"en": "IPFW"
+},
+{
+"id": 489,
+"en": "Iran"
+},
+{
+"id": 490,
+"en": "Ireland"
+},
+{
+"id": 491,
+"en": "Israel"
+},
+{
+"id": 492,
+"en": "Italy"
+},
+{
+"id": 493,
+"en": "IUPUI"
+},
+{
+"id": 494,
+"en": "Jackson State"
+},
+{
+"id": 495,
+"en": "Jacksonville"
+},
+{
+"id": 496,
+"en": "Jacksonville St"
+},
+{
+"id": 497,
+"en": "Jamaica"
+},
+{
+"id": 498,
+"en": "James Madison"
+},
+{
+"id": 499,
+"en": "Japan"
+},
+{
+"id": 500,
+"en": "Kansas"
+},
+{
+"id": 501,
+"en": "Kansas State"
+},
+{
+"id": 502,
+"en": "Kennesaw St"
+},
+{
+"id": 503,
+"en": "Kent State"
+},
+{
+"id": 504,
+"en": "Kentucky"
+},
+{
+"id": 505,
+"en": "Kenya"
+},
+{
+"id": 506,
+"en": "La Salle"
+},
+{
+"id": 507,
+"en": "Lafayette"
+},
+{
+"id": 508,
+"en": "LA-Lafayette"
+},
+{
+"id": 509,
+"en": "Lamar"
+},
+{
+"id": 510,
+"en": "Lanier (HS)"
+},
+{
+"id": 511,
+"en": "Latvia"
+},
+{
+"id": 512,
+"en": "Lehigh"
+},
+{
+"id": 513,
+"en": "Leuzinger (HS)"
+},
+{
+"id": 514,
+"en": "Liberty"
+},
+{
+"id": 515,
+"en": "Lipscomb"
+},
+{
+"id": 516,
+"en": "Lithuania"
+},
+{
+"id": 517,
+"en": "Long Beach St"
+},
+{
+"id": 518,
+"en": "Long Island"
+},
+{
+"id": 519,
+"en": "Longwood"
+},
+{
+"id": 520,
+"en": "Louisiana Tech"
+},
+{
+"id": 521,
+"en": "Louisiana-Monroe"
+},
+{
+"id": 522,
+"en": "Louisville"
+},
+{
+"id": 523,
+"en": "Lower Merion (HS)"
+},
+{
+"id": 524,
+"en": "Loyola (IL)"
+},
+{
+"id": 525,
+"en": "Loyola (MD)"
+},
+{
+"id": 526,
+"en": "Loyola Marymount"
+},
+{
+"id": 527,
+"en": "LSU"
+},
+{
+"id": 528,
+"en": "M.L. King (HS)"
+},
+{
+"id": 529,
+"en": "Maine"
+},
+{
+"id": 530,
+"en": "Malaysia"
+},
+{
+"id": 531,
+"en": "Manhattan"
+},
+{
+"id": 532,
+"en": "Marist"
+},
+{
+"id": 533,
+"en": "Marquette"
+},
+{
+"id": 534,
+"en": "Marshall"
+},
+{
+"id": 535,
+"en": "Marton 6th Form"
+},
+{
+"id": 536,
+"en": "Maryland"
+},
+{
+"id": 537,
+"en": "Maryland - B.C."
+},
+{
+"id": 538,
+"en": "Massachusetts"
+},
+{
+"id": 539,
+"en": "Master's College"
+},
+{
+"id": 540,
+"en": "McNeese State"
+},
+{
+"id": 541,
+"en": "MD - E Shore"
+},
+{
+"id": 542,
+"en": "Memphis State"
+},
+{
+"id": 543,
+"en": "Mercer"
+},
+{
+"id": 544,
+"en": "Meridian CC"
+},
+{
+"id": 545,
+"en": "Merritt College"
+},
+{
+"id": 546,
+"en": "Mexico"
+},
+{
+"id": 547,
+"en": "Miami (OH)"
+},
+{
+"id": 548,
+"en": "Michigan"
+},
+{
+"id": 549,
+"en": "Michigan State"
+},
+{
+"id": 550,
+"en": "Midwood (HS)"
+},
+{
+"id": 551,
+"en": "Mississippi"
+},
+{
+"id": 552,
+"en": "Mississippi St"
+},
+{
+"id": 553,
+"en": "Missouri"
+},
+{
+"id": 554,
+"en": "Missouri - K.C."
+},
+{
+"id": 555,
+"en": "MIT"
+},
+{
+"id": 556,
+"en": "Monmouth"
+},
+{
+"id": 557,
+"en": "Montana"
+},
+{
+"id": 558,
+"en": "Montana State"
+},
+{
+"id": 559,
+"en": "Morehead St"
+},
+{
+"id": 560,
+"en": "Morgan State"
+},
+{
+"id": 561,
+"en": "Morris Brown"
+},
+{
+"id": 562,
+"en": "Mount St Mary's"
+},
+{
+"id": 563,
+"en": "MS Valley St"
+},
+{
+"id": 564,
+"en": "Mt. Zion C.A. (HS)"
+},
+{
+"id": 565,
+"en": "MTSU"
+},
+{
+"id": 566,
+"en": "Murray State"
+},
+{
+"id": 567,
+"en": "My Nephew U"
+},
+{
+"id": 568,
+"en": "NASA"
+},
+{
+"id": 569,
+"en": "Navy"
+},
+{
+"id": 570,
+"en": "NC A&T"
+},
+{
+"id": 571,
+"en": "NC State"
+},
+{
+"id": 572,
+"en": "NE Mississippi CC"
+},
+{
+"id": 573,
+"en": "Nebraska"
+},
+{
+"id": 574,
+"en": "Netherlands"
+},
+{
+"id": 575,
+"en": "Nevada"
+},
+{
+"id": 576,
+"en": "New Hampshire"
+},
+{
+"id": 577,
+"en": "New Jersey IT"
+},
+{
+"id": 578,
+"en": "New Mexico"
+},
+{
+"id": 579,
+"en": "New Mexico St"
+},
+{
+"id": 580,
+"en": "New Zealand"
+},
+{
+"id": 581,
+"en": "Niagara"
+},
+{
+"id": 582,
+"en": "Nicholls State"
+},
+{
+"id": 583,
+"en": "Nigeria"
+},
+{
+"id": 584,
+"en": "None"
+},
+{
+"id": 585,
+"en": "Norfolk State"
+},
+{
+"id": 586,
+"en": "North Arizona"
+},
+{
+"id": 587,
+"en": "North Carolina"
+},
+{
+"id": 588,
+"en": "North Dakota"
+},
+{
+"id": 589,
+"en": "North Dakota St"
+},
+{
+"id": 590,
+"en": "North Florida"
+},
+{
+"id": 591,
+"en": "North Illinois"
+},
+{
+"id": 592,
+"en": "North Texas"
+},
+{
+"id": 593,
+"en": "Northeastern"
+},
+{
+"id": 594,
+"en": "Northern Colorado"
+},
+{
+"id": 595,
+"en": "Northern Iowa"
+},
+{
+"id": 596,
+"en": "Northwestern"
+},
+{
+"id": 597,
+"en": "Norway"
+},
+{
+"id": 598,
+"en": "Notre Dame"
+},
+{
+"id": 599,
+"en": "NW State"
+}
+]

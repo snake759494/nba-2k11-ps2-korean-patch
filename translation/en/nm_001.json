@@ -1,0 +1,802 @@
+[
+{
+"id": 200,
+"en": "Nuggets"
+},
+{
+"id": 201,
+"en": "pb19.iff"
+},
+{
+"id": 202,
+"en": "Pacers"
+},
+{
+"id": 203,
+"en": "pb20.iff"
+},
+{
+"id": 204,
+"en": "Pistons"
+},
+{
+"id": 205,
+"en": "pb21.iff"
+},
+{
+"id": 206,
+"en": "Raptors"
+},
+{
+"id": 207,
+"en": "pb22.iff"
+},
+{
+"id": 208,
+"en": "Rockets"
+},
+{
+"id": 209,
+"en": "pb23.iff"
+},
+{
+"id": 210,
+"en": "Spurs"
+},
+{
+"id": 211,
+"en": "pb25.iff"
+},
+{
+"id": 212,
+"en": "Suns"
+},
+{
+"id": 213,
+"en": "pb26.iff"
+},
+{
+"id": 214,
+"en": "Thunder"
+},
+{
+"id": 215,
+"en": "pb24.iff"
+},
+{
+"id": 216,
+"en": "Timberwolves"
+},
+{
+"id": 217,
+"en": "pb27.iff"
+},
+{
+"id": 218,
+"en": "Trail Blazers"
+},
+{
+"id": 219,
+"en": "pb28.iff"
+},
+{
+"id": 220,
+"en": "Warriors"
+},
+{
+"id": 221,
+"en": "pb29.iff"
+},
+{
+"id": 222,
+"en": "Wizards"
+},
+{
+"id": 223,
+"en": "pb02.iff"
+},
+{
+"id": 224,
+"en": "East"
+},
+{
+"id": 225,
+"en": "pb07.iff"
+},
+{
+"id": 226,
+"en": "West"
+},
+{
+"id": 227,
+"en": "pb30.iff"
+},
+{
+"id": 228,
+"en": "General"
+},
+{
+"id": 229,
+"en": "pbgen.iff"
+},
+{
+"id": 230,
+"en": "sixers"
+},
+{
+"id": 231,
+"en": "bobcats"
+},
+{
+"id": 232,
+"en": "bucks"
+},
+{
+"id": 233,
+"en": "bulls"
+},
+{
+"id": 234,
+"en": "cavaliers"
+},
+{
+"id": 235,
+"en": "celtics"
+},
+{
+"id": 236,
+"en": "clippers"
+},
+{
+"id": 237,
+"en": "LA Clippers"
+},
+{
+"id": 238,
+"en": "grizzlies"
+},
+{
+"id": 239,
+"en": "hawks"
+},
+{
+"id": 240,
+"en": "heat"
+},
+{
+"id": 241,
+"en": "hornets"
+},
+{
+"id": 242,
+"en": "jazz"
+},
+{
+"id": 243,
+"en": "Utah"
+},
+{
+"id": 244,
+"en": "kings"
+},
+{
+"id": 245,
+"en": "knicks"
+},
+{
+"id": 246,
+"en": "lakers"
+},
+{
+"id": 247,
+"en": "LA Lakers"
+},
+{
+"id": 248,
+"en": "magic"
+},
+{
+"id": 249,
+"en": "mavericks"
+},
+{
+"id": 250,
+"en": "nets"
+},
+{
+"id": 251,
+"en": "New Jersey"
+},
+{
+"id": 252,
+"en": "nuggets"
+},
+{
+"id": 253,
+"en": "pacers"
+},
+{
+"id": 254,
+"en": "Indiana"
+},
+{
+"id": 255,
+"en": "pistons"
+},
+{
+"id": 256,
+"en": "Detroit"
+},
+{
+"id": 257,
+"en": "raptors"
+},
+{
+"id": 258,
+"en": "rockets"
+},
+{
+"id": 259,
+"en": "spurs"
+},
+{
+"id": 260,
+"en": "suns"
+},
+{
+"id": 261,
+"en": "thunder"
+},
+{
+"id": 262,
+"en": "timberwolves"
+},
+{
+"id": 263,
+"en": "Minnesota"
+},
+{
+"id": 264,
+"en": "blazers"
+},
+{
+"id": 265,
+"en": "warriors"
+},
+{
+"id": 266,
+"en": "Golden State"
+},
+{
+"id": 267,
+"en": "wizards"
+},
+{
+"id": 268,
+"en": "Washington"
+},
+{
+"id": 269,
+"en": "East All-Stars"
+},
+{
+"id": 270,
+"en": "West All-Stars"
+},
+{
+"id": 271,
+"en": "WES"
+},
+{
+"id": 272,
+"en": "50's/60's"
+},
+{
+"id": 273,
+"en": "50s/60s"
+},
+{
+"id": 274,
+"en": "70's East"
+},
+{
+"id": 275,
+"en": "70s East"
+},
+{
+"id": 276,
+"en": "70's West"
+},
+{
+"id": 277,
+"en": "70s West"
+},
+{
+"id": 278,
+"en": "80's East"
+},
+{
+"id": 279,
+"en": "80s East"
+},
+{
+"id": 280,
+"en": "80's West"
+},
+{
+"id": 281,
+"en": "80s West"
+},
+{
+"id": 282,
+"en": "90's East"
+},
+{
+"id": 283,
+"en": "90s East"
+},
+{
+"id": 284,
+"en": "90's West"
+},
+{
+"id": 285,
+"en": "90s West"
+},
+{
+"id": 286,
+"en": "Rookies"
+},
+{
+"id": 287,
+"en": "Sophomores"
+},
+{
+"id": 288,
+"en": "Team Jordan"
+},
+{
+"id": 289,
+"en": "C86"
+},
+{
+"id": 290,
+"en": "C90"
+},
+{
+"id": 291,
+"en": "C98"
+},
+{
+"id": 292,
+"en": "Home"
+},
+{
+"id": 293,
+"en": "HME"
+},
+{
+"id": 294,
+"en": "Away"
+},
+{
+"id": 295,
+"en": "AWY"
+},
+{
+"id": 296,
+"en": "Black"
+},
+{
+"id": 297,
+"en": "BLK"
+},
+{
+"id": 298,
+"en": "White"
+},
+{
+"id": 299,
+"en": "WHT"
+},
+{
+"id": 300,
+"en": "Abraham Lincoln (HS)"
+},
+{
+"id": 301,
+"en": "Acad of Art"
+},
+{
+"id": 302,
+"en": "Air Force"
+},
+{
+"id": 303,
+"en": "Akron"
+},
+{
+"id": 304,
+"en": "Alabama"
+},
+{
+"id": 305,
+"en": "Alabama A&M"
+},
+{
+"id": 306,
+"en": "Alabama State"
+},
+{
+"id": 307,
+"en": "Albany State"
+},
+{
+"id": 308,
+"en": "Alcorn State"
+},
+{
+"id": 309,
+"en": "Alief-Elsik (HS)"
+},
+{
+"id": 310,
+"en": "American Int'l"
+},
+{
+"id": 311,
+"en": "Appalachian St"
+},
+{
+"id": 312,
+"en": "AR Little Rock"
+},
+{
+"id": 313,
+"en": "Argentina"
+},
+{
+"id": 314,
+"en": "Arizona"
+},
+{
+"id": 315,
+"en": "Arizona State"
+},
+{
+"id": 316,
+"en": "Arkansas"
+},
+{
+"id": 317,
+"en": "Arkansas State"
+},
+{
+"id": 318,
+"en": "Army"
+},
+{
+"id": 319,
+"en": "AR-Pine Bluff"
+},
+{
+"id": 320,
+"en": "Art CC of Design"
+},
+{
+"id": 321,
+"en": "Art Institute Dallas"
+},
+{
+"id": 322,
+"en": "Auburn"
+},
+{
+"id": 323,
+"en": "Augsburg (MN)"
+},
+{
+"id": 324,
+"en": "Austin Peay"
+},
+{
+"id": 325,
+"en": "Australia"
+},
+{
+"id": 326,
+"en": "Bakersfield (HS)"
+},
+{
+"id": 327,
+"en": "Ball State"
+},
+{
+"id": 328,
+"en": "Barton County CC"
+},
+{
+"id": 329,
+"en": "Baylor"
+},
+{
+"id": 330,
+"en": "Belgium"
+},
+{
+"id": 331,
+"en": "Belmont"
+},
+{
+"id": 332,
+"en": "Bethune-Cookman"
+},
+{
+"id": 333,
+"en": "Binghamton"
+},
+{
+"id": 334,
+"en": "Birmingham-Southern"
+},
+{
+"id": 335,
+"en": "Blinn College (TX)"
+},
+{
+"id": 336,
+"en": "Boise State"
+},
+{
+"id": 337,
+"en": "Boston College"
+},
+{
+"id": 338,
+"en": "Boston U"
+},
+{
+"id": 339,
+"en": "Bouncin' Ball Clinic"
+},
+{
+"id": 340,
+"en": "Bowling Green"
+},
+{
+"id": 341,
+"en": "Bradley"
+},
+{
+"id": 342,
+"en": "Brazil"
+},
+{
+"id": 343,
+"en": "Brown"
+},
+{
+"id": 344,
+"en": "Bucknell"
+},
+{
+"id": 345,
+"en": "Buffalo"
+},
+{
+"id": 346,
+"en": "Butler"
+},
+{
+"id": 347,
+"en": "BYU"
+},
+{
+"id": 348,
+"en": "C Conn State"
+},
+{
+"id": 349,
+"en": "C Michigan"
+},
+{
+"id": 350,
+"en": "Cal Poly"
+},
+{
+"id": 351,
+"en": "Cal St Chico"
+},
+{
+"id": 352,
+"en": "Cal St EB"
+},
+{
+"id": 353,
+"en": "Cal St Fullerton"
+},
+{
+"id": 354,
+"en": "Cal St Northridge"
+},
+{
+"id": 355,
+"en": "California"
+},
+{
+"id": 356,
+"en": "Cambodia"
+},
+{
+"id": 357,
+"en": "Campbell"
+},
+{
+"id": 358,
+"en": "Canada"
+},
+{
+"id": 359,
+"en": "Canisius"
+},
+{
+"id": 360,
+"en": "CCSF"
+},
+{
+"id": 361,
+"en": "Centenary"
+},
+{
+"id": 362,
+"en": "Central Arkansas"
+},
+{
+"id": 363,
+"en": "Central Florida"
+},
+{
+"id": 364,
+"en": "Central Oklahoma"
+},
+{
+"id": 365,
+"en": "Charleston Southern"
+},
+{
+"id": 366,
+"en": "Chattanooga"
+},
+{
+"id": 367,
+"en": "Chemeketa CC"
+},
+{
+"id": 368,
+"en": "Chicago State"
+},
+{
+"id": 369,
+"en": "Chile"
+},
+{
+"id": 370,
+"en": "Cincinnati"
+},
+{
+"id": 371,
+"en": "City College of NY"
+},
+{
+"id": 372,
+"en": "Clark Atlanta University"
+},
+{
+"id": 373,
+"en": "Clemson"
+},
+{
+"id": 374,
+"en": "Cleveland Inst of Art"
+},
+{
+"id": 375,
+"en": "Cleveland St"
+},
+{
+"id": 376,
+"en": "Clifton J. Ozen (HS)"
+},
+{
+"id": 377,
+"en": "Coastal Carolina"
+},
+{
+"id": 378,
+"en": "Coastal Christian Acad"
+},
+{
+"id": 379,
+"en": "Colgate"
+},
+{
+"id": 380,
+"en": "Coll of Charleston"
+},
+{
+"id": 381,
+"en": "Colombia"
+},
+{
+"id": 382,
+"en": "Colorado"
+},
+{
+"id": 383,
+"en": "Colorado State"
+},
+{
+"id": 384,
+"en": "Columbia"
+},
+{
+"id": 385,
+"en": "Congo"
+},
+{
+"id": 386,
+"en": "Connecticut"
+},
+{
+"id": 387,
+"en": "Coppin State"
+},
+{
+"id": 388,
+"en": "Cornell"
+},
+{
+"id": 389,
+"en": "Costa Rica"
+},
+{
+"id": 390,
+"en": "Creighton"
+},
+{
+"id": 391,
+"en": "Croatia"
+},
+{
+"id": 392,
+"en": "Cuba"
+},
+{
+"id": 393,
+"en": "Cypress Creek (HS)"
+},
+{
+"id": 394,
+"en": "Czech Republic"
+},
+{
+"id": 395,
+"en": "Dartmouth"
+},
+{
+"id": 396,
+"en": "Davidson"
+},
+{
+"id": 397,
+"en": "Dayton"
+},
+{
+"id": 398,
+"en": "Def Jam U"
+},
+{
+"id": 399,
+"en": "Delaware "
+}
+]

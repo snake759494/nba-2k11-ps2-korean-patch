@@ -1,0 +1,582 @@
+[
+{
+"id": 4050,
+"en": "Game Statistics"
+},
+{
+"id": 4051,
+"en": "{0:D2}:{1:D02} : {2} : {3} - {4}"
+},
+{
+"id": 4052,
+"en": "3rd"
+},
+{
+"id": 4053,
+"en": "Tempo"
+},
+{
+"id": 4054,
+"en": "DRILL"
+},
+{
+"id": 4055,
+"en": "Always On"
+},
+{
+"id": 4056,
+"en": "FGPG"
+},
+{
+"id": 4057,
+"en": "-Contests every shot well"
+},
+{
+"id": 4058,
+"en": "Key Zoom"
+},
+{
+"id": 4059,
+"en": "STRENGTHS:"
+},
+{
+"id": 4060,
+"en": "Spurs Jersey"
+},
+{
+"id": 4061,
+"en": "Broken Stylish Glasses"
+},
+{
+"id": 4062,
+"en": "2 Guard High"
+},
+{
+"id": 4063,
+"en": "Official B-Ball Shoe 1"
+},
+{
+"id": 4064,
+"en": "sprained wrist"
+},
+{
+"id": 4065,
+"en": "declined"
+},
+{
+"id": 4066,
+"en": "Yellow Wristband"
+},
+{
+"id": 4067,
+"en": "to start simulation"
+},
+{
+"id": 4068,
+"en": "Gameplay Settings"
+},
+{
+"id": 4069,
+"en": "SOUTHEAST DIVISION"
+},
+{
+"id": 4070,
+"en": "Hey, Whats up?"
+},
+{
+"id": 4071,
+"en": "-Tough on-ball defender"
+},
+{
+"id": 4072,
+"en": "Pacers Warmup"
+},
+{
+"id": 4073,
+"en": "bone spurs"
+},
+{
+"id": 4074,
+"en": "The focus of this drill is post defense.  Try to stop the opposing post player from scoring on you."
+},
+{
+"id": 4075,
+"en": "Western"
+},
+{
+"id": 4076,
+"en": "AVG"
+},
+{
+"id": 4077,
+"en": "|M_NEXTPAGE||M_PREVPAGE| for Random Teams"
+},
+{
+"id": 4078,
+"en": "3pt SF SkipPass"
+},
+{
+"id": 4079,
+"en": "Use Items"
+},
+{
+"id": 4080,
+"en": "Lt Neck Tattoo"
+},
+{
+"id": 4081,
+"en": "Has potential"
+},
+{
+"id": 4082,
+"en": "Street Music Vol"
+},
+{
+"id": 4083,
+"en": "http://www.nba.com"
+},
+{
+"id": 4084,
+"en": "Shades"
+},
+{
+"id": 4085,
+"en": "DIVISION"
+},
+{
+"id": 4086,
+"en": "-Plays an up and down game"
+},
+{
+"id": 4087,
+"en": "<BALL TIED UP>"
+},
+{
+"id": 4088,
+"en": "Drive Tendencies"
+},
+{
+"id": 4089,
+"en": "2nd Team Strap"
+},
+{
+"id": 4090,
+"en": "Send your player to Offensive Fundamentals Camp and he will gain 5 points in the following categories: Layup, Dunk."
+},
+{
+"id": 4091,
+"en": "DPost"
+},
+{
+"id": 4092,
+"en": "Surround"
+},
+{
+"id": 4093,
+"en": "For"
+},
+{
+"id": 4094,
+"en": "Sept"
+},
+{
+"id": 4095,
+"en": "<%s PERSONAL, %s>"
+},
+{
+"id": 4096,
+"en": "Trades Pending Approval: %d"
+},
+{
+"id": 4097,
+"en": "Are you sure you want to report {0}'ðs voice attachment as offensive?"
+},
+{
+"id": 4098,
+"en": "InDef"
+},
+{
+"id": 4099,
+"en": "30 Bonus Rank Points"
+},
+{
+"id": 4100,
+"en": "Show Data Size"
+},
+{
+"id": 4101,
+"en": "Shuffle Rub C"
+},
+{
+"id": 4102,
+"en": "Player Chatter Vol"
+},
+{
+"id": 4103,
+"en": "Argentina"
+},
+{
+"id": 4104,
+"en": "Solid"
+},
+{
+"id": 4105,
+"en": "VIP Profile"
+},
+{
+"id": 4106,
+"en": "4 Man Post 4"
+},
+{
+"id": 4107,
+"en": "2-way"
+},
+{
+"id": 4108,
+"en": "Pref Diff Level"
+},
+{
+"id": 4109,
+"en": "3PA:"
+},
+{
+"id": 4110,
+"en": "Net Web"
+},
+{
+"id": 4111,
+"en": "Jordan Brand Arena"
+},
+{
+"id": 4112,
+"en": "Grizzlies Backpack"
+},
+{
+"id": 4113,
+"en": "Player '{0}' is on a team but also tagged as a Free Agent"
+},
+{
+"id": 4114,
+"en": "Players Of Week"
+},
+{
+"id": 4115,
+"en": "LEG"
+},
+{
+"id": 4116,
+"en": "-Tends to hack shooters"
+},
+{
+"id": 4117,
+"en": "Choose Recipients"
+},
+{
+"id": 4118,
+"en": "FG COMPARISON"
+},
+{
+"id": 4119,
+"en": "Yrs Pro:"
+},
+{
+"id": 4120,
+"en": "-Goes up strong after a board"
+},
+{
+"id": 4121,
+"en": "TOGGLE PANELS"
+},
+{
+"id": 4122,
+"en": "%s CAREER SCORING"
+},
+{
+"id": 4123,
+"en": "Text String"
+},
+{
+"id": 4124,
+"en": "Best used when behind; the team plays man-to-man defense for the entire court. The additional defensive pressure can create turnovers and make the opposing team use more time to bring the ball up court."
+},
+{
+"id": 4125,
+"en": "talent scout"
+},
+{
+"id": 4126,
+"en": "SUBS:"
+},
+{
+"id": 4127,
+"en": "VIP Playback"
+},
+{
+"id": 4128,
+"en": "to modify selected team"
+},
+{
+"id": 4129,
+"en": "flu"
+},
+{
+"id": 4130,
+"en": "Dunks in Traffic"
+},
+{
+"id": 4131,
+"en": "to call up subs and settings"
+},
+{
+"id": 4132,
+"en": "Shift"
+},
+{
+"id": 4133,
+"en": "Possessions"
+},
+{
+"id": 4134,
+"en": "Select Profile"
+},
+{
+"id": 4135,
+"en": "Save Debug Replay"
+},
+{
+"id": 4136,
+"en": "Leaderboard Rankings"
+},
+{
+"id": 4137,
+"en": "White Brace"
+},
+{
+"id": 4138,
+"en": "%d Days"
+},
+{
+"id": 4139,
+"en": "What time do you want to play our game?"
+},
+{
+"id": 4140,
+"en": "SG Option C"
+},
+{
+"id": 4141,
+"en": "Canada"
+},
+{
+"id": 4142,
+"en": "FG %"
+},
+{
+"id": 4143,
+"en": "Trail Blazers Rip City uniform"
+},
+{
+"id": 4144,
+"en": "OPst"
+},
+{
+"id": 4145,
+"en": "Defensive Rebounds Per Game"
+},
+{
+"id": 4146,
+"en": "2PA"
+},
+{
+"id": 4147,
+"en": "to select a new scout"
+},
+{
+"id": 4148,
+"en": "3pt SF SwingPass"
+},
+{
+"id": 4149,
+"en": "-Will dish out to open man"
+},
+{
+"id": 4150,
+"en": "Rockets Fisherman"
+},
+{
+"id": 4151,
+"en": "GAME"
+},
+{
+"id": 4152,
+"en": "WEST"
+},
+{
+"id": 4153,
+"en": "You must select at least one user controlled team to continue"
+},
+{
+"id": 4154,
+"en": "Creating account. Please wait.\nð\nð"
+},
+{
+"id": 4155,
+"en": "Padlock Warmup"
+},
+{
+"id": 4156,
+"en": "The schedule for \"ð%s\"ð has been generated. Visit this league's home to view your schedule, see stats and play games. Be sure and also visit online.2ksports.com to keep track of your league."
+},
+{
+"id": 4157,
+"en": "Pacers Cap"
+},
+{
+"id": 4158,
+"en": "WED"
+},
+{
+"id": 4159,
+"en": "Division Record"
+},
+{
+"id": 4160,
+"en": "Player Energy"
+},
+{
+"id": 4161,
+"en": "Mis-Matched Sneakers"
+},
+{
+"id": 4162,
+"en": "Halfcourt Trap"
+},
+{
+"id": 4163,
+"en": "torn ACL"
+},
+{
+"id": 4164,
+"en": "Greece"
+},
+{
+"id": 4165,
+"en": "Last 4 Games"
+},
+{
+"id": 4166,
+"en": "Scoreboard"
+},
+{
+"id": 4167,
+"en": "Shades 3"
+},
+{
+"id": 4168,
+"en": "Tired"
+},
+{
+"id": 4169,
+"en": "to Delete a Player"
+},
+{
+"id": 4170,
+"en": "Trade %s"
+},
+{
+"id": 4171,
+"en": "Online: %d"
+},
+{
+"id": 4172,
+"en": "STEALS:"
+},
+{
+"id": 4173,
+"en": "COST:"
+},
+{
+"id": 4174,
+"en": "L:"
+},
+{
+"id": 4175,
+"en": "User"
+},
+{
+"id": 4176,
+"en": "All Rounds"
+},
+{
+"id": 4177,
+"en": "Brown Fisherman"
+},
+{
+"id": 4178,
+"en": "Off Rebound"
+},
+{
+"id": 4179,
+"en": "Online Login"
+},
+{
+"id": 4180,
+"en": "add a pick guideline"
+},
+{
+"id": 4181,
+"en": "Rev Angle"
+},
+{
+"id": 4182,
+"en": "Cowry Bracelet"
+},
+{
+"id": 4183,
+"en": "%s is about to return to the free agent pool.  Sign him now?"
+},
+{
+"id": 4184,
+"en": "%s JUST RECORDED A DOUBLE DOUBLE!"
+},
+{
+"id": 4185,
+"en": "Entire League"
+},
+{
+"id": 4186,
+"en": "Restricted Area"
+},
+{
+"id": 4187,
+"en": "proposed"
+},
+{
+"id": 4188,
+"en": "Jordan CP3"
+},
+{
+"id": 4189,
+"en": "16 Minutes"
+},
+{
+"id": 4190,
+"en": "Leaving HoopCast will simulate the rest of the game."
+},
+{
+"id": 4191,
+"en": "OFF. REBOUND"
+},
+{
+"id": 4192,
+"en": "F1"
+},
+{
+"id": 4193,
+"en": "League"
+},
+{
+"id": 4194,
+"en": "3 Man Post 2"
+}
+]

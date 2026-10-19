@@ -1,0 +1,602 @@
+[
+{
+"id": 2700,
+"en": "The %s was removed during use. Load Failed.\nðPress |CROSS| to continue."
+},
+{
+"id": 2701,
+"en": "Appearance 3"
+},
+{
+"id": 2702,
+"en": "Offensive Fundamentals Camp"
+},
+{
+"id": 2703,
+"en": "Locked"
+},
+{
+"id": 2704,
+"en": "L10"
+},
+{
+"id": 2705,
+"en": "Nightvision"
+},
+{
+"id": 2706,
+"en": " He will be unable to play."
+},
+{
+"id": 2707,
+"en": "2004 Draft Arena"
+},
+{
+"id": 2708,
+"en": "UPTEMPO"
+},
+{
+"id": 2709,
+"en": "-Prefers man-to-man defense"
+},
+{
+"id": 2710,
+"en": "Point Shuffle SF"
+},
+{
+"id": 2711,
+"en": "Mid Tend"
+},
+{
+"id": 2712,
+"en": "to call timeout"
+},
+{
+"id": 2713,
+"en": "Teammate will get position in the low post and call for the ball."
+},
+{
+"id": 2714,
+"en": "-Plays a physical defensive game"
+},
+{
+"id": 2715,
+"en": "-Rarely uses screens"
+},
+{
+"id": 2716,
+"en": "Schedule"
+},
+{
+"id": 2717,
+"en": "Heat"
+},
+{
+"id": 2718,
+"en": "Hawks Cap"
+},
+{
+"id": 2719,
+"en": "Close Tend"
+},
+{
+"id": 2720,
+"en": "{0:D2}:{1:D02} : {2} : {3} - {4} in, {5} out"
+},
+{
+"id": 2721,
+"en": "Steel Mill"
+},
+{
+"id": 2722,
+"en": "Retro 2"
+},
+{
+"id": 2723,
+"en": "There is insufficient space on %s. You need at least %d KB of free space to save additional data. Continue?"
+},
+{
+"id": 2724,
+"en": "Merchandise"
+},
+{
+"id": 2725,
+"en": "SF Wing"
+},
+{
+"id": 2726,
+"en": "Bring a player in for some open court shooting.  You'll have the ability to dribble and shoot freely with the player."
+},
+{
+"id": 2727,
+"en": "15 Min"
+},
+{
+"id": 2728,
+"en": "OK Release (slightly early)"
+},
+{
+"id": 2729,
+"en": "Manage Schedule"
+},
+{
+"id": 2730,
+"en": "Teacher"
+},
+{
+"id": 2731,
+"en": "Space"
+},
+{
+"id": 2732,
+"en": "Pts In Paint"
+},
+{
+"id": 2733,
+"en": "SceneViewer"
+},
+{
+"id": 2734,
+"en": "Heat Shorts"
+},
+{
+"id": 2735,
+"en": "to Advance To Tournament"
+},
+{
+"id": 2736,
+"en": "Pump Fake"
+},
+{
+"id": 2737,
+"en": "-Good at picking off passes"
+},
+{
+"id": 2738,
+"en": "%s: %s"
+},
+{
+"id": 2739,
+"en": "Grizzlies"
+},
+{
+"id": 2740,
+"en": "N/A"
+},
+{
+"id": 2741,
+"en": "CPU Settings"
+},
+{
+"id": 2742,
+"en": "F+"
+},
+{
+"id": 2743,
+"en": "March"
+},
+{
+"id": 2744,
+"en": "Select VIP Favorite Team"
+},
+{
+"id": 2745,
+"en": "to cancel"
+},
+{
+"id": 2746,
+"en": "17 Minutes"
+},
+{
+"id": 2747,
+"en": "3 Man Roll 3-1"
+},
+{
+"id": 2748,
+"en": "to view help"
+},
+{
+"id": 2749,
+"en": "Four defenders play zone defense in the standard 'box'. The last defender plays man-to-man defense against the star player. Works best against a team with a good PG or perimeter player."
+},
+{
+"id": 2750,
+"en": "Won %d"
+},
+{
+"id": 2751,
+"en": "Scout Availability"
+},
+{
+"id": 2752,
+"en": "Recommendations"
+},
+{
+"id": 2753,
+"en": "24"
+},
+{
+"id": 2754,
+"en": "29"
+},
+{
+"id": 2755,
+"en": "3 Man Roll 2-3"
+},
+{
+"id": 2756,
+"en": "Nov"
+},
+{
+"id": 2757,
+"en": "strained MCL"
+},
+{
+"id": 2758,
+"en": "Poor"
+},
+{
+"id": 2759,
+"en": "|M_BACK|"
+},
+{
+"id": 2760,
+"en": "Fedora"
+},
+{
+"id": 2761,
+"en": "|M_HELP| Reply"
+},
+{
+"id": 2762,
+"en": "Rookie Of Month"
+},
+{
+"id": 2763,
+"en": "User Settings"
+},
+{
+"id": 2764,
+"en": "December"
+},
+{
+"id": 2765,
+"en": "Lob Option"
+},
+{
+"id": 2766,
+"en": "Ball Handler Text"
+},
+{
+"id": 2767,
+"en": "Nuggets"
+},
+{
+"id": 2768,
+"en": "Platinum Bracelet"
+},
+{
+"id": 2769,
+"en": "Generate Tree"
+},
+{
+"id": 2770,
+"en": " to move back to previous selection"
+},
+{
+"id": 2771,
+"en": "Halftime Update'"
+},
+{
+"id": 2772,
+"en": "Gotta go bye."
+},
+{
+"id": 2773,
+"en": "This team is a title contender.  Make it a title winner."
+},
+{
+"id": 2774,
+"en": "FINANCIAL SECURITY:"
+},
+{
+"id": 2775,
+"en": "Available"
+},
+{
+"id": 2776,
+"en": "-Takes the ball to the hole"
+},
+{
+"id": 2777,
+"en": "to return to calendar"
+},
+{
+"id": 2778,
+"en": "Nuggets Shorts"
+},
+{
+"id": 2779,
+"en": "Right Arm Band"
+},
+{
+"id": 2780,
+"en": "Brick Jersey"
+},
+{
+"id": 2781,
+"en": "shin splints"
+},
+{
+"id": 2782,
+"en": "Welcome to"
+},
+{
+"id": 2783,
+"en": "-Pumpfakes often to bait defenders"
+},
+{
+"id": 2784,
+"en": "Hornets Shorts"
+},
+{
+"id": 2785,
+"en": "WHAT ARE SCOUTING REPORTS?"
+},
+{
+"id": 2786,
+"en": "Transition"
+},
+{
+"id": 2787,
+"en": "Do you want to sign this player to the exception (up to %s)?"
+},
+{
+"id": 2788,
+"en": "Game Options"
+},
+{
+"id": 2789,
+"en": "-Good balanced attack"
+},
+{
+"id": 2790,
+"en": "Main Menu"
+},
+{
+"id": 2791,
+"en": "Offense Playcall"
+},
+{
+"id": 2792,
+"en": "TS Pro Model T-Mac"
+},
+{
+"id": 2793,
+"en": "EASTERN Jersey"
+},
+{
+"id": 2794,
+"en": "Ability Icons"
+},
+{
+"id": 2795,
+"en": "INCOME: {0}"
+},
+{
+"id": 2796,
+"en": "Player Salary"
+},
+{
+"id": 2797,
+"en": "NBA Green uniforms"
+},
+{
+"id": 2798,
+"en": "Hornets"
+},
+{
+"id": 2799,
+"en": "Clippers Fisherman"
+},
+{
+"id": 2800,
+"en": "Team Comparison"
+},
+{
+"id": 2801,
+"en": "Blazers Fisherman"
+},
+{
+"id": 2802,
+"en": "CONTRACT"
+},
+{
+"id": 2803,
+"en": "Voice Volume"
+},
+{
+"id": 2804,
+"en": "Retro Kings"
+},
+{
+"id": 2805,
+"en": "-Settles for the outside jumper"
+},
+{
+"id": 2806,
+"en": "-May force the issue on offense"
+},
+{
+"id": 2807,
+"en": "Our current goal is to improve the team and I really don't see that taking place here.  Change that or I'll change you."
+},
+{
+"id": 2808,
+"en": "Draft Round"
+},
+{
+"id": 2809,
+"en": "3rd QTR"
+},
+{
+"id": 2810,
+"en": "Heating Up"
+},
+{
+"id": 2811,
+"en": "A "
+},
+{
+"id": 2812,
+"en": "Shot IQ"
+},
+{
+"id": 2813,
+"en": "Def Rebound"
+},
+{
+"id": 2814,
+"en": "for League/Team Standings"
+},
+{
+"id": 2815,
+"en": "Blazers Jersey"
+},
+{
+"id": 2816,
+"en": "Coach the MVP"
+},
+{
+"id": 2817,
+"en": "to pause/unpause simulation"
+},
+{
+"id": 2818,
+"en": "-Will make the extra pass"
+},
+{
+"id": 2819,
+"en": "|M_HELP| Additional Options"
+},
+{
+"id": 2820,
+"en": "Barry Jersey"
+},
+{
+"id": 2821,
+"en": "Jazz Tote"
+},
+{
+"id": 2822,
+"en": "Sign Rookie"
+},
+{
+"id": 2823,
+"en": "-Protects the basket very well"
+},
+{
+"id": 2824,
+"en": "To Make Offer"
+},
+{
+"id": 2825,
+"en": "SF Screen & Roll"
+},
+{
+"id": 2826,
+"en": "DEFENSIVE PRESSURE"
+},
+{
+"id": 2827,
+"en": "-Tends to reach on defense"
+},
+{
+"id": 2828,
+"en": "Car Slippers"
+},
+{
+"id": 2829,
+"en": "CAP BEFORE:"
+},
+{
+"id": 2830,
+"en": "Avg Qtr Length"
+},
+{
+"id": 2831,
+"en": "-Doesn't like to run too much"
+},
+{
+"id": 2832,
+"en": "Bad Name"
+},
+{
+"id": 2833,
+"en": "Heat Tote"
+},
+{
+"id": 2834,
+"en": "Action Replays"
+},
+{
+"id": 2835,
+"en": " Age "
+},
+{
+"id": 2836,
+"en": "Very Loyal"
+},
+{
+"id": 2837,
+"en": "Custom Match Settings"
+},
+{
+"id": 2838,
+"en": "This drill will improve your Shot Close, Low Post Off., and Off. Awareness attributes."
+},
+{
+"id": 2839,
+"en": "11 Min"
+},
+{
+"id": 2840,
+"en": "Rock"
+},
+{
+"id": 2841,
+"en": "Ranked and league games are one on one only.  %s, please remove any unassigned Analog Controllers (DUALSHOCK|REG|2) at this time."
+},
+{
+"id": 2842,
+"en": "-Strong mid-range game"
+},
+{
+"id": 2843,
+"en": "Fewest Turnovers"
+},
+{
+"id": 2844,
+"en": "Looking for players to join my league."
+},
+{
+"id": 2845,
+"en": "Press |CROSS| to Skip Half-Time Update"
+},
+{
+"id": 2846,
+"en": "Save Roster"
+},
+{
+"id": 2847,
+"en": "Game Over"
+},
+{
+"id": 2848,
+"en": "Camo Jersey"
+},
+{
+"id": 2849,
+"en": "Celtics"
+}
+]

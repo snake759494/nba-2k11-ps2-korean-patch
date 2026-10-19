@@ -1,0 +1,802 @@
+[
+{
+"id": 800,
+"en": "Winston-Salem State"
+},
+{
+"id": 801,
+"en": "Winthrop"
+},
+{
+"id": 802,
+"en": "Wisconsin"
+},
+{
+"id": 803,
+"en": "Wisconsin - G.B."
+},
+{
+"id": 804,
+"en": "Wisconsin - MIL"
+},
+{
+"id": 805,
+"en": "Wofford"
+},
+{
+"id": 806,
+"en": "Wright State"
+},
+{
+"id": 807,
+"en": "Wyoming"
+},
+{
+"id": 808,
+"en": "Xavier (OH)"
+},
+{
+"id": 809,
+"en": "Yale"
+},
+{
+"id": 810,
+"en": "Youngstown"
+},
+{
+"id": 811,
+"en": "Yugoslavia"
+},
+{
+"id": 812,
+"en": "Holiday"
+},
+{
+"id": 813,
+"en": "Jrue"
+},
+{
+"id": 814,
+"en": "Turner"
+},
+{
+"id": 815,
+"en": "Evan"
+},
+{
+"id": 816,
+"en": "Iguodala"
+},
+{
+"id": 817,
+"en": "Andre"
+},
+{
+"id": 818,
+"en": "Brand"
+},
+{
+"id": 819,
+"en": "Elton"
+},
+{
+"id": 820,
+"en": "Hawes"
+},
+{
+"id": 821,
+"en": "Spencer"
+},
+{
+"id": 822,
+"en": "Williams"
+},
+{
+"id": 823,
+"en": "Louis"
+},
+{
+"id": 824,
+"en": "Young"
+},
+{
+"id": 825,
+"en": "Thaddeus"
+},
+{
+"id": 826,
+"en": "Speights"
+},
+{
+"id": 827,
+"en": "Marreese"
+},
+{
+"id": 828,
+"en": "Nocioni"
+},
+{
+"id": 829,
+"en": "Andres"
+},
+{
+"id": 830,
+"en": "Green"
+},
+{
+"id": 831,
+"en": "Willie"
+},
+{
+"id": 832,
+"en": "Kapono"
+},
+{
+"id": 833,
+"en": "Jason"
+},
+{
+"id": 834,
+"en": "Smith"
+},
+{
+"id": 835,
+"en": "Meeks"
+},
+{
+"id": 836,
+"en": "Jodie"
+},
+{
+"id": 837,
+"en": "Battie"
+},
+{
+"id": 838,
+"en": "Tony"
+},
+{
+"id": 839,
+"en": "Augustin"
+},
+{
+"id": 840,
+"en": "D.J."
+},
+{
+"id": 841,
+"en": "Jackson"
+},
+{
+"id": 842,
+"en": "Stephen"
+},
+{
+"id": 843,
+"en": "Wallace"
+},
+{
+"id": 844,
+"en": "Gerald"
+},
+{
+"id": 845,
+"en": "Diaw"
+},
+{
+"id": 846,
+"en": "Boris"
+},
+{
+"id": 847,
+"en": "Dampier"
+},
+{
+"id": 848,
+"en": "Erick"
+},
+{
+"id": 849,
+"en": "Thomas"
+},
+{
+"id": 850,
+"en": "Tyrus"
+},
+{
+"id": 851,
+"en": "Livingston"
+},
+{
+"id": 852,
+"en": "Shaun"
+},
+{
+"id": 853,
+"en": "Mohammed"
+},
+{
+"id": 854,
+"en": "Nazr"
+},
+{
+"id": 855,
+"en": "Henderson"
+},
+{
+"id": 856,
+"en": "Najera"
+},
+{
+"id": 857,
+"en": "Eduardo"
+},
+{
+"id": 858,
+"en": "Derrick"
+},
+{
+"id": 859,
+"en": "Diop"
+},
+{
+"id": 860,
+"en": "DeSagana"
+},
+{
+"id": 861,
+"en": "McGuire"
+},
+{
+"id": 862,
+"en": "Dominic"
+},
+{
+"id": 863,
+"en": "Carroll"
+},
+{
+"id": 864,
+"en": "Matt"
+},
+{
+"id": 865,
+"en": "Jennings"
+},
+{
+"id": 866,
+"en": "Brandon"
+},
+{
+"id": 867,
+"en": "Salmons"
+},
+{
+"id": 868,
+"en": "John"
+},
+{
+"id": 869,
+"en": "Maggette"
+},
+{
+"id": 870,
+"en": "Corey"
+},
+{
+"id": 871,
+"en": "Mbah a Moute"
+},
+{
+"id": 872,
+"en": "Luc Richard"
+},
+{
+"id": 873,
+"en": "Bogut"
+},
+{
+"id": 874,
+"en": "Andrew"
+},
+{
+"id": 875,
+"en": "Ilyasova"
+},
+{
+"id": 876,
+"en": "Ersan"
+},
+{
+"id": 877,
+"en": "Delfino"
+},
+{
+"id": 878,
+"en": "Carlos"
+},
+{
+"id": 879,
+"en": "Gooden"
+},
+{
+"id": 880,
+"en": "Drew"
+},
+{
+"id": 881,
+"en": "Dooling"
+},
+{
+"id": 882,
+"en": "Keyon"
+},
+{
+"id": 883,
+"en": "Douglas-Roberts"
+},
+{
+"id": 884,
+"en": "Chris"
+},
+{
+"id": 885,
+"en": "Brockman"
+},
+{
+"id": 886,
+"en": "Jon"
+},
+{
+"id": 887,
+"en": "Sanders"
+},
+{
+"id": 888,
+"en": "Larry"
+},
+{
+"id": 889,
+"en": "Redd"
+},
+{
+"id": 890,
+"en": "Michael"
+},
+{
+"id": 891,
+"en": "Rose"
+},
+{
+"id": 892,
+"en": "Brewer"
+},
+{
+"id": 893,
+"en": "Ronnie"
+},
+{
+"id": 894,
+"en": "Deng"
+},
+{
+"id": 895,
+"en": "Luol"
+},
+{
+"id": 896,
+"en": "Boozer"
+},
+{
+"id": 897,
+"en": "Noah"
+},
+{
+"id": 898,
+"en": "Joakim"
+},
+{
+"id": 899,
+"en": "Korver"
+},
+{
+"id": 900,
+"en": "Kyle"
+},
+{
+"id": 901,
+"en": "Gibson"
+},
+{
+"id": 902,
+"en": "Taj"
+},
+{
+"id": 903,
+"en": "Watson"
+},
+{
+"id": 904,
+"en": "C.J."
+},
+{
+"id": 905,
+"en": "Kurt"
+},
+{
+"id": 906,
+"en": "Johnson"
+},
+{
+"id": 907,
+"en": "James"
+},
+{
+"id": 908,
+"en": "Bogans"
+},
+{
+"id": 909,
+"en": "Keith"
+},
+{
+"id": 910,
+"en": "Mo"
+},
+{
+"id": 911,
+"en": "Parker"
+},
+{
+"id": 912,
+"en": "Anthony"
+},
+{
+"id": 913,
+"en": "Moon"
+},
+{
+"id": 914,
+"en": "Jamario"
+},
+{
+"id": 915,
+"en": "Jamison"
+},
+{
+"id": 916,
+"en": "Antawn"
+},
+{
+"id": 917,
+"en": "Varejao"
+},
+{
+"id": 918,
+"en": "Anderson"
+},
+{
+"id": 919,
+"en": "Sessions"
+},
+{
+"id": 920,
+"en": "Ramon"
+},
+{
+"id": 921,
+"en": "Graham"
+},
+{
+"id": 922,
+"en": "Joey"
+},
+{
+"id": 923,
+"en": "Hickson"
+},
+{
+"id": 924,
+"en": "J.J."
+},
+{
+"id": 925,
+"en": "Hollins"
+},
+{
+"id": 926,
+"en": "Ryan"
+},
+{
+"id": 927,
+"en": "Powe"
+},
+{
+"id": 928,
+"en": "Leon"
+},
+{
+"id": 929,
+"en": "Daniel"
+},
+{
+"id": 930,
+"en": "Rondo"
+},
+{
+"id": 931,
+"en": "Rajon"
+},
+{
+"id": 932,
+"en": "Allen"
+},
+{
+"id": 933,
+"en": "Ray"
+},
+{
+"id": 934,
+"en": "Pierce"
+},
+{
+"id": 935,
+"en": "Paul"
+},
+{
+"id": 936,
+"en": "Garnett"
+},
+{
+"id": 937,
+"en": "Kevin"
+},
+{
+"id": 938,
+"en": "Perkins"
+},
+{
+"id": 939,
+"en": "Kendrick"
+},
+{
+"id": 940,
+"en": "Davis"
+},
+{
+"id": 941,
+"en": "Glen"
+},
+{
+"id": 942,
+"en": "O'Neal"
+},
+{
+"id": 943,
+"en": "Jermaine"
+},
+{
+"id": 944,
+"en": "Robinson"
+},
+{
+"id": 945,
+"en": "Nate"
+},
+{
+"id": 946,
+"en": "Wafer"
+},
+{
+"id": 947,
+"en": "Von"
+},
+{
+"id": 948,
+"en": "Shaquille"
+},
+{
+"id": 949,
+"en": "Scalabrine"
+},
+{
+"id": 950,
+"en": "Brian"
+},
+{
+"id": 951,
+"en": "Daniels"
+},
+{
+"id": 952,
+"en": "Marquis"
+},
+{
+"id": 953,
+"en": "Avery"
+},
+{
+"id": 954,
+"en": "Rasheed"
+},
+{
+"id": 955,
+"en": "Baron"
+},
+{
+"id": 956,
+"en": "Gordon"
+},
+{
+"id": 957,
+"en": "Eric"
+},
+{
+"id": 958,
+"en": "Rasual"
+},
+{
+"id": 959,
+"en": "Griffin"
+},
+{
+"id": 960,
+"en": "Blake"
+},
+{
+"id": 961,
+"en": "Kaman"
+},
+{
+"id": 962,
+"en": "Gomes"
+},
+{
+"id": 963,
+"en": "Bledsoe"
+},
+{
+"id": 964,
+"en": "Jordan"
+},
+{
+"id": 965,
+"en": "DeAndre"
+},
+{
+"id": 966,
+"en": "Craig"
+},
+{
+"id": 967,
+"en": "Foye"
+},
+{
+"id": 968,
+"en": "Randy"
+},
+{
+"id": 969,
+"en": "Aminu"
+},
+{
+"id": 970,
+"en": "Al-Farouq"
+},
+{
+"id": 971,
+"en": "Cook"
+},
+{
+"id": 972,
+"en": "Conley"
+},
+{
+"id": 973,
+"en": "Mayo"
+},
+{
+"id": 974,
+"en": "O.J."
+},
+{
+"id": 975,
+"en": "Gay"
+},
+{
+"id": 976,
+"en": "Rudy"
+},
+{
+"id": 977,
+"en": "Randolph"
+},
+{
+"id": 978,
+"en": "Zach"
+},
+{
+"id": 979,
+"en": "Gasol"
+},
+{
+"id": 980,
+"en": "Marc"
+},
+{
+"id": 981,
+"en": "Arthur"
+},
+{
+"id": 982,
+"en": "Darrell"
+},
+{
+"id": 983,
+"en": "Law"
+},
+{
+"id": 984,
+"en": "Acie"
+},
+{
+"id": 985,
+"en": "Thabeet"
+},
+{
+"id": 986,
+"en": "Hasheem"
+},
+{
+"id": 987,
+"en": "Sam"
+},
+{
+"id": 988,
+"en": "DeMarre"
+},
+{
+"id": 989,
+"en": "Haddadi"
+},
+{
+"id": 990,
+"en": "Hamed"
+},
+{
+"id": 991,
+"en": "Bibby"
+},
+{
+"id": 992,
+"en": "Mike"
+},
+{
+"id": 993,
+"en": "Joe"
+},
+{
+"id": 994,
+"en": "Marvin"
+},
+{
+"id": 995,
+"en": "Josh"
+},
+{
+"id": 996,
+"en": "Horford"
+},
+{
+"id": 997,
+"en": "Al"
+},
+{
+"id": 998,
+"en": "Crawford"
+},
+{
+"id": 999,
+"en": "Jamal"
+}
+]

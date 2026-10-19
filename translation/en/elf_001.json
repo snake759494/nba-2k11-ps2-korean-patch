@@ -1,0 +1,1002 @@
+[
+{
+"id": 250,
+"en": "%d Games"
+},
+{
+"id": 251,
+"en": "%d Weeks"
+},
+{
+"id": 252,
+"en": "Do you wish to save changes?"
+},
+{
+"id": 253,
+"en": "Backing out will abandon all of your changes. Are you sure?"
+},
+{
+"id": 254,
+"en": "You are not currently in any leagues."
+},
+{
+"id": 255,
+"en": "Could not retrieve league information."
+},
+{
+"id": 256,
+"en": "Full"
+},
+{
+"id": 257,
+"en": "Finished"
+},
+{
+"id": 258,
+"en": "Round %d of %d"
+},
+{
+"id": 259,
+"en": "All Leagues"
+},
+{
+"id": 260,
+"en": "Drop from Tournament"
+},
+{
+"id": 261,
+"en": "Operation failed. Please try again later."
+},
+{
+"id": 262,
+"en": "Are you sure you want to leave?"
+},
+{
+"id": 263,
+"en": "Returning you to the main online menu."
+},
+{
+"id": 264,
+"en": "Your league roster could not be found. It will be downloaded now."
+},
+{
+"id": 265,
+"en": "Are you sure you want to leave this league?"
+},
+{
+"id": 266,
+"en": "Joining lobby."
+},
+{
+"id": 267,
+"en": "The lobby could not be joined at this time."
+},
+{
+"id": 268,
+"en": "In Playoffs"
+},
+{
+"id": 269,
+"en": "%d of %d Games Played"
+},
+{
+"id": 270,
+"en": "Could not retrieve opponent list."
+},
+{
+"id": 271,
+"en": "Retrieving user list. Please wait."
+},
+{
+"id": 272,
+"en": "The user list could not be retrieved at this time. Please try again shortly."
+},
+{
+"id": 273,
+"en": "Challenge Opponent"
+},
+{
+"id": 274,
+"en": "Request Voice Chat"
+},
+{
+"id": 275,
+"en": "End Voice Chat"
+},
+{
+"id": 276,
+"en": "Send Friend Request"
+},
+{
+"id": 277,
+"en": "Permanently Unmute User"
+},
+{
+"id": 278,
+"en": "Permanently Mute User"
+},
+{
+"id": 279,
+"en": "{0} left the lobby."
+},
+{
+"id": 280,
+"en": "This user has been sent a friend request."
+},
+{
+"id": 281,
+"en": "%d Games Remaining"
+},
+{
+"id": 282,
+"en": "Lobby"
+},
+{
+"id": 283,
+"en": "Messages"
+},
+{
+"id": 284,
+"en": "Options for %s"
+},
+{
+"id": 285,
+"en": "Compose League Message"
+},
+{
+"id": 286,
+"en": "There are no notifications to view right now."
+},
+{
+"id": 287,
+"en": "Retrieving notification. Please wait."
+},
+{
+"id": 288,
+"en": "Are you sure that you want to delete the selected notification?"
+},
+{
+"id": 289,
+"en": "There are no more notifications available."
+},
+{
+"id": 290,
+"en": "Are you sure you want to delete this notification?"
+},
+{
+"id": 291,
+"en": "Unable to retrieve the user list for this lobby - returning you to the lobby browser."
+},
+{
+"id": 292,
+"en": "Send Ranked Challenge"
+},
+{
+"id": 293,
+"en": "Add to Friends List"
+},
+{
+"id": 294,
+"en": "That lobby is full. Please select another lobby."
+},
+{
+"id": 295,
+"en": "You do not meet the requirements of this lobby.  Please try another lobby."
+},
+{
+"id": 296,
+"en": "Retrieving available lobbies. Please wait."
+},
+{
+"id": 297,
+"en": "No lobbies could be found at this time.  Please try again shortly."
+},
+{
+"id": 298,
+"en": "|LARROW| %d"
+},
+{
+"id": 299,
+"en": "%d |RARROW|"
+},
+{
+"id": 300,
+"en": "|LARROW| %d |RARROW|"
+},
+{
+"id": 301,
+"en": "%s %d Settings"
+},
+{
+"id": 302,
+"en": "Any"
+},
+{
+"id": 303,
+"en": "{0}% and up"
+},
+{
+"id": 304,
+"en": "Ambient: Random Team Select"
+},
+{
+"id": 305,
+"en": "Are you sure you want to leave this lobby?"
+},
+{
+"id": 306,
+"en": "Sorry, you are voice-banned and cannot send or receive text."
+},
+{
+"id": 307,
+"en": "Enter chat text"
+},
+{
+"id": 308,
+"en": "Voice Request"
+},
+{
+"id": 309,
+"en": "Custom Challenge"
+},
+{
+"id": 310,
+"en": "Ranked Challenge"
+},
+{
+"id": 311,
+"en": "%d Challenges"
+},
+{
+"id": 312,
+"en": "%d Voice Requests"
+},
+{
+"id": 313,
+"en": "Actions"
+},
+{
+"id": 314,
+"en": "Reset all of your fast messages?"
+},
+{
+"id": 315,
+"en": "Macros"
+},
+{
+"id": 316,
+"en": "Week %d - Play By %s"
+},
+{
+"id": 317,
+"en": "Round %d"
+},
+{
+"id": 318,
+"en": "Who should be the winner?"
+},
+{
+"id": 319,
+"en": "Determine Winner"
+},
+{
+"id": 320,
+"en": "You can only manipulate games in the current round."
+},
+{
+"id": 321,
+"en": "You can only manipulate games in the current week."
+},
+{
+"id": 322,
+"en": "This game has not yet been played.\nWhat would you like to do?"
+},
+{
+"id": 323,
+"en": "UNPLAYED"
+},
+{
+"id": 324,
+"en": "Rank:\t|LARROW| Any Rank |RARROW|"
+},
+{
+"id": 325,
+"en": "Rank:\t|LARROW| Top %i |RARROW|"
+},
+{
+"id": 326,
+"en": "Find Match Now"
+},
+{
+"id": 327,
+"en": "Enter Online Account"
+},
+{
+"id": 328,
+"en": "Load Online Account"
+},
+{
+"id": 329,
+"en": "Create Online Account"
+},
+{
+"id": 330,
+"en": "Disconnect"
+},
+{
+"id": 331,
+"en": "Do you wish to save your Online Settings?"
+},
+{
+"id": 332,
+"en": "Signing out %s."
+},
+{
+"id": 333,
+"en": "Would you like to sign in with an existing 2K Sports account or create a new one?"
+},
+{
+"id": 334,
+"en": "Disconnect from network.  Are you sure?"
+},
+{
+"id": 335,
+"en": "This will disconnect you from the network.  Sign out and return to Main Menu?"
+},
+{
+"id": 336,
+"en": "ONLINEMENUS"
+},
+{
+"id": 337,
+"en": "Downloading news items. Please wait."
+},
+{
+"id": 338,
+"en": "Please wait..."
+},
+{
+"id": 339,
+"en": "Getting 2K Rating."
+},
+{
+"id": 340,
+"en": "Your default online roster needs to be updated before you can compete in online matches."
+},
+{
+"id": 341,
+"en": "Please select one or more recipients before sending this message."
+},
+{
+"id": 342,
+"en": "Sorry, but %s is no longer a valid recipient."
+},
+{
+"id": 343,
+"en": "Sorry, but all of the recipients you selected are no longer valid. Please select again."
+},
+{
+"id": 344,
+"en": "Sending Message."
+},
+{
+"id": 345,
+"en": "Could not send the message at this time."
+},
+{
+"id": 346,
+"en": "Invalid recipient selected."
+},
+{
+"id": 347,
+"en": "Sorry, but the recipient you selected is no longer valid. Please select another."
+},
+{
+"id": 348,
+"en": "Would you like to:"
+},
+{
+"id": 349,
+"en": "Are you sure you want to discard this message?"
+},
+{
+"id": 350,
+"en": "Cancel message?"
+},
+{
+"id": 351,
+"en": "< All Friends >"
+},
+{
+"id": 352,
+"en": "< All League Members >"
+},
+{
+"id": 353,
+"en": "< No Recipients Selected >"
+},
+{
+"id": 354,
+"en": "Recipients"
+},
+{
+"id": 355,
+"en": "You haven't recorded anything yet."
+},
+{
+"id": 356,
+"en": "Your message has been sent."
+},
+{
+"id": 357,
+"en": "The voice recorder could not be initialized at this time. If the problem persists you may need to restart your console."
+},
+{
+"id": 358,
+"en": "Send"
+},
+{
+"id": 359,
+"en": "Discard"
+},
+{
+"id": 360,
+"en": "Please re-attach your headset in order to record voice messages. This message has been cancelled."
+},
+{
+"id": 361,
+"en": "Do you want to overwrite your recorded message?"
+},
+{
+"id": 362,
+"en": "Do you want to cancel and lose your recorded message?"
+},
+{
+"id": 363,
+"en": "Delete message"
+},
+{
+"id": 364,
+"en": "Block messages from user"
+},
+{
+"id": 365,
+"en": "Report an offensive message"
+},
+{
+"id": 366,
+"en": "Add to friends list"
+},
+{
+"id": 367,
+"en": "Would you like to report this message as offensive?"
+},
+{
+"id": 368,
+"en": "Block all future messages from this sender?"
+},
+{
+"id": 369,
+"en": "Delete this message and block all future messages from this sender?"
+},
+{
+"id": 370,
+"en": "Delete this message?"
+},
+{
+"id": 371,
+"en": "The message has been deleted."
+},
+{
+"id": 372,
+"en": "You have no more messages from this user."
+},
+{
+"id": 373,
+"en": "All messages from this user have been deleted."
+},
+{
+"id": 374,
+"en": "The voice attachment could not be retrieved at this time. Please try again shortly."
+},
+{
+"id": 375,
+"en": "Message %d of %d"
+},
+{
+"id": 376,
+"en": "Could not retrieve standings information for \"%s\"."
+},
+{
+"id": 377,
+"en": "Failed to retrieve list."
+},
+{
+"id": 378,
+"en": "You are not a member of any %ss."
+},
+{
+"id": 379,
+"en": "Unable to retrieve user list. Please try again later."
+},
+{
+"id": 380,
+"en": "Cannot enter until an administrator has generated the schedule."
+},
+{
+"id": 381,
+"en": "This will permanently delete the %s. Proceed?"
+},
+{
+"id": 382,
+"en": "Are you sure that you want to leave?"
+},
+{
+"id": 383,
+"en": "Your Next Game:"
+},
+{
+"id": 384,
+"en": "%s's Stats"
+},
+{
+"id": 385,
+"en": "Retrieving news. Please wait."
+},
+{
+"id": 386,
+"en": "Retrieving news item. Please wait."
+},
+{
+"id": 387,
+"en": "Offline"
+},
+{
+"id": 388,
+"en": "%d mins"
+},
+{
+"id": 389,
+"en": "Apply settings and save"
+},
+{
+"id": 390,
+"en": "Apply settings without saving"
+},
+{
+"id": 391,
+"en": "Discard and return to previous menu"
+},
+{
+"id": 392,
+"en": "Apply Settings"
+},
+{
+"id": 393,
+"en": "Do you want to save your Online Settings?"
+},
+{
+"id": 394,
+"en": "Default Team"
+},
+{
+"id": 395,
+"en": "Voice loopback test. If voice is properly configured you should hear yourself when you speak into the microphone."
+},
+{
+"id": 396,
+"en": "You can't view this user's VIP until at least one ranked NBA game has been played with it."
+},
+{
+"id": 397,
+"en": "You can't view stats until this user's VIP has played at least one ranked NBA game."
+},
+{
+"id": 398,
+"en": "Win"
+},
+{
+"id": 399,
+"en": "Loss"
+},
+{
+"id": 400,
+"en": "Games Tracked"
+},
+{
+"id": 401,
+"en": "Total Minutes"
+},
+{
+"id": 402,
+"en": "Average Spread"
+},
+{
+"id": 403,
+"en": "% Points In Paint"
+},
+{
+"id": 404,
+"en": "% FB Points"
+},
+{
+"id": 405,
+"en": "Getting last online date."
+},
+{
+"id": 406,
+"en": "Could not retrieve user records at this time. Please check your network cables and configuration."
+},
+{
+"id": 407,
+"en": "There are no standings to display at this time."
+},
+{
+"id": 408,
+"en": "Settings for  "
+},
+{
+"id": 409,
+"en": "Do you want to save your changes?"
+},
+{
+"id": 410,
+"en": "You are not currently in any tournaments."
+},
+{
+"id": 411,
+"en": "Could not retrieve tournament information."
+},
+{
+"id": 412,
+"en": "All Tournaments"
+},
+{
+"id": 413,
+"en": "Choosing a player from another team will reset your trade proposal. Proceed?"
+},
+{
+"id": 414,
+"en": "You can't add the same player twice."
+},
+{
+"id": 415,
+"en": "Unable to perform trade since %s %s is already involved in another trade."
+},
+{
+"id": 416,
+"en": "Unable to perform trade since %s%s and %s are already involved in another trade."
+},
+{
+"id": 417,
+"en": "Unable to perform trade.  Both teams need to have at least one player involved in the trade."
+},
+{
+"id": 418,
+"en": "The number of players you trade away must be the same as the number you are trading for."
+},
+{
+"id": 419,
+"en": "Unable to perform trade because you will have %d players on your roster after all trades are completed.  You must have at least %d players and no more than %d players on your roster at all times."
+},
+{
+"id": 420,
+"en": "Unable to approve trade."
+},
+{
+"id": 421,
+"en": "Approved trade\n"
+},
+{
+"id": 422,
+"en": "Trade has been approved."
+},
+{
+"id": 423,
+"en": "Unable to unapprove trade."
+},
+{
+"id": 424,
+"en": "Rejected trade\n"
+},
+{
+"id": 425,
+"en": "Submit"
+},
+{
+"id": 426,
+"en": "Do you wish to submit this trade proposal?"
+},
+{
+"id": 427,
+"en": "If you leave now, you'll lose your current trade. Would you like to leave now?"
+},
+{
+"id": 428,
+"en": "Unable to propose trade."
+},
+{
+"id": 429,
+"en": "The trade has been proposed, and must be approved by both the other team and an admin before taking effect."
+},
+{
+"id": 430,
+"en": "Withdraw Trade"
+},
+{
+"id": 431,
+"en": "What do you wish to do?"
+},
+{
+"id": 432,
+"en": "Unable to cancel trade."
+},
+{
+"id": 433,
+"en": "Accept Trade"
+},
+{
+"id": 434,
+"en": "Decline Trade"
+},
+{
+"id": 435,
+"en": "Unable to accept trade."
+},
+{
+"id": 436,
+"en": "Trade will go through once the administrator approves the trade."
+},
+{
+"id": 437,
+"en": "Unable to decline trade."
+},
+{
+"id": 438,
+"en": "Approve Trade"
+},
+{
+"id": 439,
+"en": "Reject Trade"
+},
+{
+"id": 440,
+"en": "You have reached your trade proposal limit."
+},
+{
+"id": 441,
+"en": "Unable to retrieve the user list."
+},
+{
+"id": 442,
+"en": "Can't trade when you are the only active member."
+},
+{
+"id": 443,
+"en": "You can not propose more than five trades at any one time."
+},
+{
+"id": 444,
+"en": "Unable to propose a trade at this time.  Try again later."
+},
+{
+"id": 445,
+"en": "There are currently no trades awaiting approval."
+},
+{
+"id": 446,
+"en": "Waiting for administrator approval"
+},
+{
+"id": 447,
+"en": "ADD"
+},
+{
+"id": 448,
+"en": "DROP"
+},
+{
+"id": 449,
+"en": "TRADE"
+},
+{
+"id": 450,
+"en": "There are no transaction log entries to view."
+},
+{
+"id": 451,
+"en": "Cannot generate schedule because this league is no longer full."
+},
+{
+"id": 452,
+"en": "Cannot generate schedule because this tournament is no longer full."
+},
+{
+"id": 453,
+"en": "Generate schedule now?"
+},
+{
+"id": 454,
+"en": "Your schedule has been submitted; round one of your tournament is ready."
+},
+{
+"id": 455,
+"en": "Failed to schedule this tournament.  Please try again later."
+},
+{
+"id": 456,
+"en": "Do you want to get rid of all your changes?"
+},
+{
+"id": 457,
+"en": "No entries found."
+},
+{
+"id": 458,
+"en": "Soundtrack: %s"
+},
+{
+"id": 459,
+"en": "The maximum number of user-created clips has been reached.  To create another, you must first delete one in the Manage Clip List menu."
+},
+{
+"id": 460,
+"en": "Previewing: %s (%d:%02d)"
+},
+{
+"id": 461,
+"en": "%d:%02d START"
+},
+{
+"id": 462,
+"en": "END %d:%02d"
+},
+{
+"id": 463,
+"en": "Select Start Point"
+},
+{
+"id": 464,
+"en": "Select End Point"
+},
+{
+"id": 465,
+"en": "Clip Name"
+},
+{
+"id": 466,
+"en": "You must enter a valid name for this Clip"
+},
+{
+"id": 467,
+"en": "You may have unsaved changes.  Would you like to save your Arena Music now?"
+},
+{
+"id": 468,
+"en": "<New Clip>"
+},
+{
+"id": 469,
+"en": "The soundtrack for this Clip no longer exists"
+},
+{
+"id": 470,
+"en": "Preview Clip"
+},
+{
+"id": 471,
+"en": "Rename Clip"
+},
+{
+"id": 472,
+"en": "Edit Clip"
+},
+{
+"id": 473,
+"en": "Remove Clip"
+},
+{
+"id": 474,
+"en": "Cancel Preview"
+},
+{
+"id": 475,
+"en": "Select an option:"
+},
+{
+"id": 476,
+"en": "TITLEPAGE"
+},
+{
+"id": 477,
+"en": "Ambient: Title Start"
+},
+{
+"id": 478,
+"en": "Press START button"
+},
+{
+"id": 479,
+"en": "Getting League Settings."
+},
+{
+"id": 480,
+"en": "Getting Tournament Settings."
+},
+{
+"id": 481,
+"en": "You have been dropped from the current league. Returning to My Leagues."
+},
+{
+"id": 482,
+"en": "You have been dropped from the current tournament. Returning to My Tournaments."
+},
+{
+"id": 483,
+"en": "Your admin privileges have been altered."
+},
+{
+"id": 484,
+"en": "Getting current game information."
+},
+{
+"id": 485,
+"en": "Getting Team Lineups."
+},
+{
+"id": 486,
+"en": "Reporting Changes."
+},
+{
+"id": 487,
+"en": "Joining League."
+},
+{
+"id": 488,
+"en": "Joining Tournament."
+},
+{
+"id": 489,
+"en": "Getting the League Playoffs State."
+},
+{
+"id": 490,
+"en": "Getting the Tournament State."
+},
+{
+"id": 491,
+"en": "Waiting for your opponent"
+},
+{
+"id": 492,
+"en": "Your opponent is ready"
+},
+{
+"id": 493,
+"en": "Continuing will result in the loss of any unsaved data. Do you wish to continue?"
+},
+{
+"id": 494,
+"en": "Accepting this voice chat request will end your current voice chat session. Accept anyway?"
+},
+{
+"id": 495,
+"en": "Accepting this challenge will end your current voice chat session. Accept anyway?"
+},
+{
+"id": 496,
+"en": "Are you sure you wish to abandon this online game?"
+},
+{
+"id": 497,
+"en": "Are you sure you wish abort this VIP game?"
+},
+{
+"id": 498,
+"en": "User records could not be retrieved at this time.  All games will be unranked during this online session."
+},
+{
+"id": 499,
+"en": "Network conditions are too poor for this game to continue. You can choose to abort the game or send it to arbitration. If both users choose to abort then the game will not count. If either user chooses to send the game to arbitration the game will count and the results will be determined by the arbitration service."
+}
+]

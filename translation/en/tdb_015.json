@@ -1,0 +1,602 @@
+[
+{
+"id": 2250,
+"en": "{0} is injured.  His drill has been removed."
+},
+{
+"id": 2251,
+"en": "Short Name"
+},
+{
+"id": 2252,
+"en": "Focus on your timing while shooting as many shots from the markers as you can. Longer distance ones are worth more points."
+},
+{
+"id": 2253,
+"en": "Team - Points"
+},
+{
+"id": 2254,
+"en": "Contract Years"
+},
+{
+"id": 2255,
+"en": "'{0}' is already full."
+},
+{
+"id": 2256,
+"en": "PLAYER POOL"
+},
+{
+"id": 2257,
+"en": "10 Minutes"
+},
+{
+"id": 2258,
+"en": "Palm Hat"
+},
+{
+"id": 2259,
+"en": "3pt SG Wing"
+},
+{
+"id": 2260,
+"en": "Loose Ball Foul"
+},
+{
+"id": 2261,
+"en": "Challenge Results"
+},
+{
+"id": 2262,
+"en": "LEVEL"
+},
+{
+"id": 2263,
+"en": "%s JUST RECORDED A TRIPLE DOUBLE!!"
+},
+{
+"id": 2264,
+"en": "Offer {0} a wage of {1} for how many years?"
+},
+{
+"id": 2265,
+"en": "Illegal trade. The {0} are over the salary cap of {1}. A team over the salary cap may acquire in trade no more than 125 percent plus $100K in value of the players being traded out."
+},
+{
+"id": 2266,
+"en": "EASTERN Tote"
+},
+{
+"id": 2267,
+"en": "|CIRCLE|"
+},
+{
+"id": 2268,
+"en": "Congratulations!  The {0} have completed the goal, \"ðCoach the Most Improved Player.\"ð  15 Reward Points have been added to their total."
+},
+{
+"id": 2269,
+"en": "{0}/{1}"
+},
+{
+"id": 2270,
+"en": "Manage VIP"
+},
+{
+"id": 2271,
+"en": "You've unlocked the Superstars team!  This is the true \"ðDream Team\"ð.  Look at the collection of legends on this squad."
+},
+{
+"id": 2272,
+"en": "One player named to the All-Star team"
+},
+{
+"id": 2273,
+"en": "Padlock Jersey"
+},
+{
+"id": 2274,
+"en": "Years With Team"
+},
+{
+"id": 2275,
+"en": "High Post Clear PF"
+},
+{
+"id": 2276,
+"en": "Somewhat Important"
+},
+{
+"id": 2277,
+"en": "Straight Long"
+},
+{
+"id": 2278,
+"en": "Heart Shorts"
+},
+{
+"id": 2279,
+"en": "No newbie challengers please."
+},
+{
+"id": 2280,
+"en": "to filter by position"
+},
+{
+"id": 2281,
+"en": "Crossover"
+},
+{
+"id": 2282,
+"en": "3PT Success"
+},
+{
+"id": 2283,
+"en": "Trainer"
+},
+{
+"id": 2284,
+"en": "Signed"
+},
+{
+"id": 2285,
+"en": "Game Sliders"
+},
+{
+"id": 2286,
+"en": "Cell Phone"
+},
+{
+"id": 2287,
+"en": "Start Game"
+},
+{
+"id": 2288,
+"en": "3pt PF Side"
+},
+{
+"id": 2289,
+"en": "Rain"
+},
+{
+"id": 2290,
+"en": "-Rarely commits blocking fouls"
+},
+{
+"id": 2291,
+"en": "-Looks for the extra pass"
+},
+{
+"id": 2292,
+"en": "1 Minute"
+},
+{
+"id": 2293,
+"en": "OFFENSIVE REBOUNDS"
+},
+{
+"id": 2294,
+"en": "Select"
+},
+{
+"id": 2295,
+"en": "I.Q."
+},
+{
+"id": 2296,
+"en": "One or more of the players in this trade are injured. You may not trade injured players, but you may try the trade again after the player(s) is healthy again."
+},
+{
+"id": 2297,
+"en": "drills"
+},
+{
+"id": 2298,
+"en": "Contested Shot"
+},
+{
+"id": 2299,
+"en": "MAX PLAYERS:"
+},
+{
+"id": 2300,
+"en": "-Tends to give shooters open looks"
+},
+{
+"id": 2301,
+"en": "Win the division"
+},
+{
+"id": 2302,
+"en": "sore hamstring"
+},
+{
+"id": 2303,
+"en": "Fourth Quarter"
+},
+{
+"id": 2304,
+"en": "-Likes to force the ball inside"
+},
+{
+"id": 2305,
+"en": ":%02d"
+},
+{
+"id": 2306,
+"en": "Scouting Reports Available: {0:d}"
+},
+{
+"id": 2307,
+"en": "%s (%s FOULS)"
+},
+{
+"id": 2308,
+"en": "Completed"
+},
+{
+"id": 2309,
+"en": "-Poor vision on defense"
+},
+{
+"id": 2310,
+"en": "Player {0:d}, please select a team"
+},
+{
+"id": 2311,
+"en": "to Select Player"
+},
+{
+"id": 2312,
+"en": "FG Made"
+},
+{
+"id": 2313,
+"en": "Lays It In!"
+},
+{
+"id": 2314,
+"en": "8 Minutes"
+},
+{
+"id": 2315,
+"en": "Metal Stylish Watch"
+},
+{
+"id": 2316,
+"en": "League - Blocks"
+},
+{
+"id": 2317,
+"en": "Home Score"
+},
+{
+"id": 2318,
+"en": "Total Offensive Rebounds"
+},
+{
+"id": 2319,
+"en": "Remember Password"
+},
+{
+"id": 2320,
+"en": "for previous notification"
+},
+{
+"id": 2321,
+"en": "2nd Team Brace"
+},
+{
+"id": 2322,
+"en": "Wristband Team 2"
+},
+{
+"id": 2323,
+"en": "2PM"
+},
+{
+"id": 2324,
+"en": "Resign Position"
+},
+{
+"id": 2325,
+"en": "Extremely Loyal"
+},
+{
+"id": 2326,
+"en": "top performance"
+},
+{
+"id": 2327,
+"en": "STREAK"
+},
+{
+"id": 2328,
+"en": "%s HAS A BROKEN KNEECAP AND CAN'T RETURN"
+},
+{
+"id": 2329,
+"en": "to select a new trainer"
+},
+{
+"id": 2330,
+"en": "Standard"
+},
+{
+"id": 2331,
+"en": "A perimeter defense aimed at disrupting a good outside shooting team. However, the high post area and the corners are left vulnerable."
+},
+{
+"id": 2332,
+"en": "Elbow Post"
+},
+{
+"id": 2333,
+"en": "Situation"
+},
+{
+"id": 2334,
+"en": "Away Playbook"
+},
+{
+"id": 2335,
+"en": "to initiate an action"
+},
+{
+"id": 2336,
+"en": "90's East Arena"
+},
+{
+"id": 2337,
+"en": "3PM:"
+},
+{
+"id": 2338,
+"en": "{0} - DAY {1}"
+},
+{
+"id": 2339,
+"en": "NBA Jersey"
+},
+{
+"id": 2340,
+"en": "Kings Cap"
+},
+{
+"id": 2341,
+"en": "This drill will improve your Passing and Off. Awareness attributes."
+},
+{
+"id": 2342,
+"en": "Latin Nights Uniforms"
+},
+{
+"id": 2343,
+"en": "TP"
+},
+{
+"id": 2344,
+"en": "-Commits few reach-in fouls"
+},
+{
+"id": 2345,
+"en": "Rankings"
+},
+{
+"id": 2346,
+"en": "Shade specs"
+},
+{
+"id": 2347,
+"en": "PF Seal"
+},
+{
+"id": 2348,
+"en": "Edit Text"
+},
+{
+"id": 2349,
+"en": "Pick Fade PG-SF"
+},
+{
+"id": 2350,
+"en": "You've unlocked the secondary road uniforms for the Hornets, Magic and Timberwolves!"
+},
+{
+"id": 2351,
+"en": "DIFFICULTY"
+},
+{
+"id": 2352,
+"en": "torn achilles"
+},
+{
+"id": 2353,
+"en": "Up and Under"
+},
+{
+"id": 2354,
+"en": " QTR"
+},
+{
+"id": 2355,
+"en": "Rejection"
+},
+{
+"id": 2356,
+"en": "Formatting the %s. %s"
+},
+{
+"id": 2357,
+"en": "LAST"
+},
+{
+"id": 2358,
+"en": "Raptors"
+},
+{
+"id": 2359,
+"en": "<BACKCOURT -> %s BALL>"
+},
+{
+"id": 2360,
+"en": "You've unlocked Pacers Retro!"
+},
+{
+"id": 2361,
+"en": "France"
+},
+{
+"id": 2362,
+"en": "Bio"
+},
+{
+"id": 2363,
+"en": "-Conservative shot blocker"
+},
+{
+"id": 2364,
+"en": "Save Playoff Data"
+},
+{
+"id": 2365,
+"en": "3 Man Post 3"
+},
+{
+"id": 2366,
+"en": "Ply"
+},
+{
+"id": 2367,
+"en": "Monkey in the Middle"
+},
+{
+"id": 2368,
+"en": "Kevin Harlan"
+},
+{
+"id": 2369,
+"en": "Red"
+},
+{
+"id": 2370,
+"en": "Raptors Shorts"
+},
+{
+"id": 2371,
+"en": "@"
+},
+{
+"id": 2372,
+"en": "Are you sure you want to drop %s?"
+},
+{
+"id": 2373,
+"en": " Pass "
+},
+{
+"id": 2374,
+"en": "Formatted the %s successfully."
+},
+{
+"id": 2375,
+"en": "Be right back."
+},
+{
+"id": 2376,
+"en": "White Strap"
+},
+{
+"id": 2377,
+"en": "Scouted Players"
+},
+{
+"id": 2378,
+"en": "Modify current Arena Music"
+},
+{
+"id": 2379,
+"en": "Weight"
+},
+{
+"id": 2380,
+"en": "neutral"
+},
+{
+"id": 2381,
+"en": "%s (%s %s)"
+},
+{
+"id": 2382,
+"en": "Custom"
+},
+{
+"id": 2383,
+"en": "YRS. PRO"
+},
+{
+"id": 2384,
+"en": "-Likes to crash the boards"
+},
+{
+"id": 2385,
+"en": "Length"
+},
+{
+"id": 2386,
+"en": "4 on 4 Book"
+},
+{
+"id": 2387,
+"en": "LAYUP"
+},
+{
+"id": 2388,
+"en": "Online Menu"
+},
+{
+"id": 2389,
+"en": "Layout Viewer"
+},
+{
+"id": 2390,
+"en": "Wilt Jersey"
+},
+{
+"id": 2391,
+"en": "NBA DEBUG"
+},
+{
+"id": 2392,
+"en": "-Prefers to slow the game down"
+},
+{
+"id": 2393,
+"en": "Official Retro Lo 2"
+},
+{
+"id": 2394,
+"en": "80 or better"
+},
+{
+"id": 2395,
+"en": "FAQ"
+},
+{
+"id": 2396,
+"en": "broken toe"
+},
+{
+"id": 2397,
+"en": "Unable to load \"ð%s\"ð on %s.\nðPress |CROSS| to continue."
+},
+{
+"id": 2398,
+"en": "Germany"
+},
+{
+"id": 2399,
+"en": "MDef"
+}
+]

@@ -1,0 +1,802 @@
+[
+{
+"id": 600,
+"en": "NYU"
+},
+{
+"id": 601,
+"en": "Oak Hill"
+},
+{
+"id": 602,
+"en": "Oak Hill Academy (HS)"
+},
+{
+"id": 603,
+"en": "Ohio"
+},
+{
+"id": 604,
+"en": "Ohio State"
+},
+{
+"id": 605,
+"en": "Ohio U"
+},
+{
+"id": 606,
+"en": "Ojai Valley"
+},
+{
+"id": 607,
+"en": "Okaloosa-Walton CC"
+},
+{
+"id": 608,
+"en": "Oklahoma"
+},
+{
+"id": 609,
+"en": "Oklahoma St"
+},
+{
+"id": 610,
+"en": "Old Dominion"
+},
+{
+"id": 611,
+"en": "Oral Roberts"
+},
+{
+"id": 612,
+"en": "Oregon"
+},
+{
+"id": 613,
+"en": "Oregon State"
+},
+{
+"id": 614,
+"en": "Pacific"
+},
+{
+"id": 615,
+"en": "Paraguay"
+},
+{
+"id": 616,
+"en": "Pasay City"
+},
+{
+"id": 617,
+"en": "Penn"
+},
+{
+"id": 618,
+"en": "Penn State"
+},
+{
+"id": 619,
+"en": "Peoria Central (HS)"
+},
+{
+"id": 620,
+"en": "Pepperdine"
+},
+{
+"id": 621,
+"en": "Peru"
+},
+{
+"id": 622,
+"en": "Petersburg (HS)"
+},
+{
+"id": 623,
+"en": "Pfeiffer"
+},
+{
+"id": 624,
+"en": "Philippines"
+},
+{
+"id": 625,
+"en": "Picayune (HS)"
+},
+{
+"id": 626,
+"en": "Piedmont Hills (HS)"
+},
+{
+"id": 627,
+"en": "Pittsburgh"
+},
+{
+"id": 628,
+"en": "Poland"
+},
+{
+"id": 629,
+"en": "Portland State"
+},
+{
+"id": 630,
+"en": "Prairie View"
+},
+{
+"id": 631,
+"en": "Prentiss (HS)"
+},
+{
+"id": 632,
+"en": "Princeton"
+},
+{
+"id": 633,
+"en": "Providence"
+},
+{
+"id": 634,
+"en": "Puerto Rico"
+},
+{
+"id": 635,
+"en": "Purdue"
+},
+{
+"id": 636,
+"en": "Quinnipiac"
+},
+{
+"id": 637,
+"en": "Radford"
+},
+{
+"id": 638,
+"en": "Republic of Georgia"
+},
+{
+"id": 639,
+"en": "Rhode Island"
+},
+{
+"id": 640,
+"en": "Rice"
+},
+{
+"id": 641,
+"en": "Richmond"
+},
+{
+"id": 642,
+"en": "Rider"
+},
+{
+"id": 643,
+"en": "Robert Morris"
+},
+{
+"id": 644,
+"en": "Romania"
+},
+{
+"id": 645,
+"en": "Russia"
+},
+{
+"id": 646,
+"en": "Rutgers"
+},
+{
+"id": 647,
+"en": "S Alabama"
+},
+{
+"id": 648,
+"en": "Sacramento St"
+},
+{
+"id": 649,
+"en": "Sacred Heart"
+},
+{
+"id": 650,
+"en": "SAIC"
+},
+{
+"id": 651,
+"en": "Sam Houston St"
+},
+{
+"id": 652,
+"en": "Samford"
+},
+{
+"id": 653,
+"en": "San Diego"
+},
+{
+"id": 654,
+"en": "San Diego St"
+},
+{
+"id": 655,
+"en": "San Francisco State"
+},
+{
+"id": 656,
+"en": "San Jose State"
+},
+{
+"id": 657,
+"en": "Santa Clara"
+},
+{
+"id": 658,
+"en": "Saudi Arabia"
+},
+{
+"id": 659,
+"en": "Savannah St"
+},
+{
+"id": 660,
+"en": "SC State"
+},
+{
+"id": 661,
+"en": "SCAD"
+},
+{
+"id": 662,
+"en": "School of Gaming"
+},
+{
+"id": 663,
+"en": "School of Life"
+},
+{
+"id": 664,
+"en": "SE Louisiana"
+},
+{
+"id": 665,
+"en": "SE MO State"
+},
+{
+"id": 666,
+"en": "SE Oklahoma State"
+},
+{
+"id": 667,
+"en": "Seattle Prep (HS)"
+},
+{
+"id": 668,
+"en": "Seattle University"
+},
+{
+"id": 669,
+"en": "Senegal"
+},
+{
+"id": 670,
+"en": "Serbia"
+},
+{
+"id": 671,
+"en": "Seton Hall"
+},
+{
+"id": 672,
+"en": "Shaw"
+},
+{
+"id": 673,
+"en": "Sheridan"
+},
+{
+"id": 674,
+"en": "Siena"
+},
+{
+"id": 675,
+"en": "Singapore"
+},
+{
+"id": 676,
+"en": "Skyline (HS)"
+},
+{
+"id": 677,
+"en": "Slovenia"
+},
+{
+"id": 678,
+"en": "SMU"
+},
+{
+"id": 679,
+"en": "Solano CC"
+},
+{
+"id": 680,
+"en": "Sonoma St"
+},
+{
+"id": 681,
+"en": "South Africa"
+},
+{
+"id": 682,
+"en": "South Carolina"
+},
+{
+"id": 683,
+"en": "South Dakota St"
+},
+{
+"id": 684,
+"en": "South Eastern Illinois"
+},
+{
+"id": 685,
+"en": "South Florida"
+},
+{
+"id": 686,
+"en": "South Gwinnett (HS)"
+},
+{
+"id": 687,
+"en": "South Kent Prep (HS)"
+},
+{
+"id": 688,
+"en": "South Korea"
+},
+{
+"id": 689,
+"en": "South Utah"
+},
+{
+"id": 690,
+"en": "Southern"
+},
+{
+"id": 691,
+"en": "Southern Adventist"
+},
+{
+"id": 692,
+"en": "Southern Illinois"
+},
+{
+"id": 693,
+"en": "Southern Methodist"
+},
+{
+"id": 694,
+"en": "Southern Miss"
+},
+{
+"id": 695,
+"en": "Spain"
+},
+{
+"id": 696,
+"en": "St Benedict's Prep (HS)"
+},
+{
+"id": 697,
+"en": "St Bonaventure"
+},
+{
+"id": 698,
+"en": "St Francis (NY)"
+},
+{
+"id": 699,
+"en": "St Francis (PA)"
+},
+{
+"id": 700,
+"en": "St John's (NY)"
+},
+{
+"id": 701,
+"en": "St Joseph (HS)"
+},
+{
+"id": 702,
+"en": "St Joseph's"
+},
+{
+"id": 703,
+"en": "St Louis"
+},
+{
+"id": 704,
+"en": "St Mary's"
+},
+{
+"id": 705,
+"en": "St Patrick's (HS)"
+},
+{
+"id": 706,
+"en": "St Paul's Col (VA)"
+},
+{
+"id": 707,
+"en": "St Peter's"
+},
+{
+"id": 708,
+"en": "St Vincent"
+},
+{
+"id": 709,
+"en": "St Vincent-St Mary (HS)"
+},
+{
+"id": 710,
+"en": "Stanford"
+},
+{
+"id": 711,
+"en": "Starkville (HS)"
+},
+{
+"id": 712,
+"en": "Stephen F Austin"
+},
+{
+"id": 713,
+"en": "Stetson"
+},
+{
+"id": 714,
+"en": "Stony Brook"
+},
+{
+"id": 715,
+"en": "Sudan"
+},
+{
+"id": 716,
+"en": "SW Atlanta Christian (HS)"
+},
+{
+"id": 717,
+"en": "SW MO State"
+},
+{
+"id": 718,
+"en": "SW Texas St"
+},
+{
+"id": 719,
+"en": "Sweden"
+},
+{
+"id": 720,
+"en": "Switzerland"
+},
+{
+"id": 721,
+"en": "Sydney University"
+},
+{
+"id": 722,
+"en": "Syracuse"
+},
+{
+"id": 723,
+"en": "TCU"
+},
+{
+"id": 724,
+"en": "Temple"
+},
+{
+"id": 725,
+"en": "Tennessee"
+},
+{
+"id": 726,
+"en": "Texas"
+},
+{
+"id": 727,
+"en": "Texas A&M"
+},
+{
+"id": 728,
+"en": "Texas Southern"
+},
+{
+"id": 729,
+"en": "Texas Tech"
+},
+{
+"id": 730,
+"en": "Texas-Pan American"
+},
+{
+"id": 731,
+"en": "Thailand"
+},
+{
+"id": 732,
+"en": "The Citadel"
+},
+{
+"id": 733,
+"en": "Thornwood (HS)"
+},
+{
+"id": 734,
+"en": "TN State"
+},
+{
+"id": 735,
+"en": "TN Tech"
+},
+{
+"id": 736,
+"en": "TN-Martin"
+},
+{
+"id": 737,
+"en": "Toledo"
+},
+{
+"id": 738,
+"en": "Towson"
+},
+{
+"id": 739,
+"en": "Trinity Valley CC"
+},
+{
+"id": 740,
+"en": "Troy State"
+},
+{
+"id": 741,
+"en": "Tulane"
+},
+{
+"id": 742,
+"en": "Tulsa"
+},
+{
+"id": 743,
+"en": "Turkey"
+},
+{
+"id": 744,
+"en": "TX A&M-Corpus Christi"
+},
+{
+"id": 745,
+"en": "TX-Arlington"
+},
+{
+"id": 746,
+"en": "TX-San Antonio"
+},
+{
+"id": 747,
+"en": "U Read My Ankle"
+},
+{
+"id": 748,
+"en": "UAB"
+},
+{
+"id": 749,
+"en": "UC Davis"
+},
+{
+"id": 750,
+"en": "UC Irvine"
+},
+{
+"id": 751,
+"en": "UC Riverside"
+},
+{
+"id": 752,
+"en": "UC San Diego"
+},
+{
+"id": 753,
+"en": "UC Santa Barbara"
+},
+{
+"id": 754,
+"en": "UC Santa Cruz"
+},
+{
+"id": 755,
+"en": "UCLA"
+},
+{
+"id": 756,
+"en": "Ukraine"
+},
+{
+"id": 757,
+"en": "UNC Asheville"
+},
+{
+"id": 758,
+"en": "UNC Greensboro"
+},
+{
+"id": 759,
+"en": "UNC Wilmington"
+},
+{
+"id": 760,
+"en": "UNC-Charlotte"
+},
+{
+"id": 761,
+"en": "University"
+},
+{
+"id": 762,
+"en": "UNLV"
+},
+{
+"id": 763,
+"en": "Uruguay"
+},
+{
+"id": 764,
+"en": "USC"
+},
+{
+"id": 765,
+"en": "Utah State"
+},
+{
+"id": 766,
+"en": "Utah Valley St"
+},
+{
+"id": 767,
+"en": "UTEP"
+},
+{
+"id": 768,
+"en": "UW Stevens Pt"
+},
+{
+"id": 769,
+"en": "UW-Lacrosse"
+},
+{
+"id": 770,
+"en": "Valparaiso"
+},
+{
+"id": 771,
+"en": "Vanderbilt"
+},
+{
+"id": 772,
+"en": "VCU"
+},
+{
+"id": 773,
+"en": "Vermont"
+},
+{
+"id": 774,
+"en": "Victoria"
+},
+{
+"id": 775,
+"en": "Vietnam"
+},
+{
+"id": 776,
+"en": "Villanova"
+},
+{
+"id": 777,
+"en": "Virginia"
+},
+{
+"id": 778,
+"en": "Virginia Tech"
+},
+{
+"id": 779,
+"en": "Virginia Union"
+},
+{
+"id": 780,
+"en": "VMI"
+},
+{
+"id": 781,
+"en": "W Carolina"
+},
+{
+"id": 782,
+"en": "W Michigan"
+},
+{
+"id": 783,
+"en": "Wagner"
+},
+{
+"id": 784,
+"en": "Wake Forest"
+},
+{
+"id": 785,
+"en": "Washington St"
+},
+{
+"id": 786,
+"en": "Washington Union (HS)"
+},
+{
+"id": 787,
+"en": "Waterloo"
+},
+{
+"id": 788,
+"en": "Weber State"
+},
+{
+"id": 789,
+"en": "West Florida"
+},
+{
+"id": 790,
+"en": "West Illinois"
+},
+{
+"id": 791,
+"en": "West Paterson"
+},
+{
+"id": 792,
+"en": "West Texas State"
+},
+{
+"id": 793,
+"en": "West Virginia"
+},
+{
+"id": 794,
+"en": "Westbury Christian (HS)"
+},
+{
+"id": 795,
+"en": "Westchester (HS)"
+},
+{
+"id": 796,
+"en": "Western KY"
+},
+{
+"id": 797,
+"en": "Wichita State"
+},
+{
+"id": 798,
+"en": "William & Mary"
+},
+{
+"id": 799,
+"en": "Wingate"
+}
+]

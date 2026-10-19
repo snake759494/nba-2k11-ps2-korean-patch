@@ -1,0 +1,802 @@
+[
+{
+"id": 0,
+"en": "Sixers Arena"
+},
+{
+"id": 1,
+"en": "Philadelphia"
+},
+{
+"id": 2,
+"en": "PHI"
+},
+{
+"id": 3,
+"en": "PA"
+},
+{
+"id": 4,
+"en": "Time Warner Cable Arena"
+},
+{
+"id": 5,
+"en": "Time Warner Arena"
+},
+{
+"id": 6,
+"en": "Charlotte"
+},
+{
+"id": 7,
+"en": "CHA"
+},
+{
+"id": 8,
+"en": "NC"
+},
+{
+"id": 9,
+"en": "Bradley Center"
+},
+{
+"id": 10,
+"en": "Milwaukee"
+},
+{
+"id": 11,
+"en": "MIL"
+},
+{
+"id": 12,
+"en": "WI"
+},
+{
+"id": 13,
+"en": "United Center"
+},
+{
+"id": 14,
+"en": "Chicago"
+},
+{
+"id": 15,
+"en": "CHI"
+},
+{
+"id": 16,
+"en": "IL"
+},
+{
+"id": 17,
+"en": "Quicken Loans Arena"
+},
+{
+"id": 18,
+"en": "Cleveland"
+},
+{
+"id": 19,
+"en": "CLE"
+},
+{
+"id": 20,
+"en": "OH"
+},
+{
+"id": 21,
+"en": "Celtics Arena"
+},
+{
+"id": 22,
+"en": "Boston"
+},
+{
+"id": 23,
+"en": "BOS"
+},
+{
+"id": 24,
+"en": "MA"
+},
+{
+"id": 25,
+"en": "Staples Center"
+},
+{
+"id": 26,
+"en": "Los Angeles"
+},
+{
+"id": 27,
+"en": "LAC"
+},
+{
+"id": 28,
+"en": "CA"
+},
+{
+"id": 29,
+"en": "FedExForum"
+},
+{
+"id": 30,
+"en": "Memphis"
+},
+{
+"id": 31,
+"en": "MEM"
+},
+{
+"id": 32,
+"en": "TN"
+},
+{
+"id": 33,
+"en": "Philips Arena"
+},
+{
+"id": 34,
+"en": "Atlanta"
+},
+{
+"id": 35,
+"en": "ATL"
+},
+{
+"id": 36,
+"en": "GA"
+},
+{
+"id": 37,
+"en": "American Airlines Arena"
+},
+{
+"id": 38,
+"en": "AA Arena"
+},
+{
+"id": 39,
+"en": "Miami"
+},
+{
+"id": 40,
+"en": "MIA"
+},
+{
+"id": 41,
+"en": "FL"
+},
+{
+"id": 42,
+"en": "New Orleans Arena"
+},
+{
+"id": 43,
+"en": "New Orleans"
+},
+{
+"id": 44,
+"en": "NO"
+},
+{
+"id": 45,
+"en": "LA"
+},
+{
+"id": 46,
+"en": "EnergySolutions Arena"
+},
+{
+"id": 47,
+"en": "Salt Lake City"
+},
+{
+"id": 48,
+"en": "UTA"
+},
+{
+"id": 49,
+"en": "UT"
+},
+{
+"id": 50,
+"en": "Arco Arena"
+},
+{
+"id": 51,
+"en": "Sacramento"
+},
+{
+"id": 52,
+"en": "SAC"
+},
+{
+"id": 53,
+"en": "Knicks Arena"
+},
+{
+"id": 54,
+"en": "New York"
+},
+{
+"id": 55,
+"en": "NY"
+},
+{
+"id": 56,
+"en": "LAL"
+},
+{
+"id": 57,
+"en": "Amway Center"
+},
+{
+"id": 58,
+"en": "Orlando"
+},
+{
+"id": 59,
+"en": "ORL"
+},
+{
+"id": 60,
+"en": "American Airlines Center"
+},
+{
+"id": 61,
+"en": "AA Center"
+},
+{
+"id": 62,
+"en": "Dallas"
+},
+{
+"id": 63,
+"en": "DAL"
+},
+{
+"id": 64,
+"en": "TX"
+},
+{
+"id": 65,
+"en": "Prudential Center"
+},
+{
+"id": 66,
+"en": "Newark"
+},
+{
+"id": 67,
+"en": "NJ"
+},
+{
+"id": 68,
+"en": "Pepsi Center"
+},
+{
+"id": 69,
+"en": "Denver"
+},
+{
+"id": 70,
+"en": "DEN"
+},
+{
+"id": 71,
+"en": "CO"
+},
+{
+"id": 72,
+"en": "Pacers Arena"
+},
+{
+"id": 73,
+"en": "Indianapolis"
+},
+{
+"id": 74,
+"en": "IND"
+},
+{
+"id": 75,
+"en": "IN"
+},
+{
+"id": 76,
+"en": "Palace of Auburn Hills"
+},
+{
+"id": 77,
+"en": "The Palace"
+},
+{
+"id": 78,
+"en": "Auburn Hills"
+},
+{
+"id": 79,
+"en": "DET"
+},
+{
+"id": 80,
+"en": "MI"
+},
+{
+"id": 81,
+"en": "Air Canada Centre"
+},
+{
+"id": 82,
+"en": "Toronto"
+},
+{
+"id": 83,
+"en": "TOR"
+},
+{
+"id": 84,
+"en": "ON"
+},
+{
+"id": 85,
+"en": "Rockets Arena"
+},
+{
+"id": 86,
+"en": "Houston"
+},
+{
+"id": 87,
+"en": "HOU"
+},
+{
+"id": 88,
+"en": "AT&T Center"
+},
+{
+"id": 89,
+"en": "San Antonio"
+},
+{
+"id": 90,
+"en": "SA"
+},
+{
+"id": 91,
+"en": "US Airways Center"
+},
+{
+"id": 92,
+"en": "Phoenix"
+},
+{
+"id": 93,
+"en": "PHX"
+},
+{
+"id": 94,
+"en": "AZ"
+},
+{
+"id": 95,
+"en": "Thunder Arena"
+},
+{
+"id": 96,
+"en": "Oklahoma City"
+},
+{
+"id": 97,
+"en": "OKC"
+},
+{
+"id": 98,
+"en": "OK"
+},
+{
+"id": 99,
+"en": "Target Center"
+},
+{
+"id": 100,
+"en": "Minneapolis"
+},
+{
+"id": 101,
+"en": "MIN"
+},
+{
+"id": 102,
+"en": "MN"
+},
+{
+"id": 103,
+"en": "Rose Garden"
+},
+{
+"id": 104,
+"en": "Portland"
+},
+{
+"id": 105,
+"en": "POR"
+},
+{
+"id": 106,
+"en": "OR"
+},
+{
+"id": 107,
+"en": "Oracle Arena"
+},
+{
+"id": 108,
+"en": "Oakland"
+},
+{
+"id": 109,
+"en": "GS"
+},
+{
+"id": 110,
+"en": "Verizon Center"
+},
+{
+"id": 111,
+"en": "Washington D.C."
+},
+{
+"id": 112,
+"en": "WAS"
+},
+{
+"id": 113,
+"en": "DC"
+},
+{
+"id": 114,
+"en": "EAS"
+},
+{
+"id": 115,
+"en": "Legends Arena"
+},
+{
+"id": 116,
+"en": "Springfield"
+},
+{
+"id": 117,
+"en": "LEG"
+},
+{
+"id": 118,
+"en": "70's East Arena"
+},
+{
+"id": 119,
+"en": "70E"
+},
+{
+"id": 120,
+"en": "70's West Arena"
+},
+{
+"id": 121,
+"en": "70W"
+},
+{
+"id": 122,
+"en": "80's East Arena"
+},
+{
+"id": 123,
+"en": "80E"
+},
+{
+"id": 124,
+"en": "80's West Arena"
+},
+{
+"id": 125,
+"en": "80W"
+},
+{
+"id": 126,
+"en": "90's East Arena"
+},
+{
+"id": 127,
+"en": "90E"
+},
+{
+"id": 128,
+"en": "90's West Arena"
+},
+{
+"id": 129,
+"en": "90W"
+},
+{
+"id": 130,
+"en": "RKS"
+},
+{
+"id": 131,
+"en": "SPH"
+},
+{
+"id": 132,
+"en": "Jordan Brand Arena"
+},
+{
+"id": 133,
+"en": "JOR"
+},
+{
+"id": 134,
+"en": "The Cage"
+},
+{
+"id": 135,
+"en": "NYC"
+},
+{
+"id": 136,
+"en": "Rucker Park"
+},
+{
+"id": 137,
+"en": "Venice Beach"
+},
+{
+"id": 138,
+"en": "Venice"
+},
+{
+"id": 139,
+"en": "China"
+},
+{
+"id": 140,
+"en": "Egypt"
+},
+{
+"id": 141,
+"en": "San Francisco"
+},
+{
+"id": 142,
+"en": "Washington DC"
+},
+{
+"id": 143,
+"en": "Steel Mill"
+},
+{
+"id": 144,
+"en": "Fish Market"
+},
+{
+"id": 145,
+"en": "Western"
+},
+{
+"id": 146,
+"en": "Truck Stop"
+},
+{
+"id": 147,
+"en": "Practice Gym"
+},
+{
+"id": 148,
+"en": "San Rafael"
+},
+{
+"id": 149,
+"en": "GYM"
+},
+{
+"id": 150,
+"en": "Dynamo Arena"
+},
+{
+"id": 151,
+"en": "city"
+},
+{
+"id": 152,
+"en": "cty"
+},
+{
+"id": 153,
+"en": "ST"
+},
+{
+"id": 154,
+"en": "Express Arena"
+},
+{
+"id": 155,
+"en": "Vipers Arena"
+},
+{
+"id": 156,
+"en": "Erasers Arena"
+},
+{
+"id": 157,
+"en": "Talons Arena"
+},
+{
+"id": 158,
+"en": "Typhoons Arena"
+},
+{
+"id": 159,
+"en": "Flash Arena"
+},
+{
+"id": 160,
+"en": "Savage Arena"
+},
+{
+"id": 161,
+"en": "Frenzy Arena"
+},
+{
+"id": 162,
+"en": "Alpha Arena"
+},
+{
+"id": 163,
+"en": "Rhythm Arena"
+},
+{
+"id": 164,
+"en": "76ers"
+},
+{
+"id": 165,
+"en": "pb00.iff"
+},
+{
+"id": 166,
+"en": "Bobcats"
+},
+{
+"id": 167,
+"en": "pb31.iff"
+},
+{
+"id": 168,
+"en": "Bucks"
+},
+{
+"id": 169,
+"en": "pb01.iff"
+},
+{
+"id": 170,
+"en": "Bulls"
+},
+{
+"id": 171,
+"en": "pb03.iff"
+},
+{
+"id": 172,
+"en": "Cavaliers"
+},
+{
+"id": 173,
+"en": "pb04.iff"
+},
+{
+"id": 174,
+"en": "Celtics"
+},
+{
+"id": 175,
+"en": "pb05.iff"
+},
+{
+"id": 176,
+"en": "Clippers"
+},
+{
+"id": 177,
+"en": "pb06.iff"
+},
+{
+"id": 178,
+"en": "Grizzlies"
+},
+{
+"id": 179,
+"en": "pb08.iff"
+},
+{
+"id": 180,
+"en": "Hawks"
+},
+{
+"id": 181,
+"en": "pb09.iff"
+},
+{
+"id": 182,
+"en": "Heat"
+},
+{
+"id": 183,
+"en": "pb10.iff"
+},
+{
+"id": 184,
+"en": "Hornets"
+},
+{
+"id": 185,
+"en": "pb11.iff"
+},
+{
+"id": 186,
+"en": "Jazz"
+},
+{
+"id": 187,
+"en": "pb12.iff"
+},
+{
+"id": 188,
+"en": "Kings"
+},
+{
+"id": 189,
+"en": "pb13.iff"
+},
+{
+"id": 190,
+"en": "Knicks"
+},
+{
+"id": 191,
+"en": "pb14.iff"
+},
+{
+"id": 192,
+"en": "Lakers"
+},
+{
+"id": 193,
+"en": "pb15.iff"
+},
+{
+"id": 194,
+"en": "Magic"
+},
+{
+"id": 195,
+"en": "pb16.iff"
+},
+{
+"id": 196,
+"en": "Mavericks"
+},
+{
+"id": 197,
+"en": "pb17.iff"
+},
+{
+"id": 198,
+"en": "Nets"
+},
+{
+"id": 199,
+"en": "pb18.iff"
+}
+]

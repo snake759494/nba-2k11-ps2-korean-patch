@@ -1,0 +1,602 @@
+[
+{
+"id": 600,
+"en": "Team Roster"
+},
+{
+"id": 601,
+"en": "Stats"
+},
+{
+"id": 602,
+"en": "Players with a check next to their name will have full admin privileges.  Remove the check if you want to take away their privileges.  You cannot remove the creator's privileges."
+},
+{
+"id": 603,
+"en": "You've unlocked the 2009 All-Star uniforms!"
+},
+{
+"id": 604,
+"en": "Brick Warmup"
+},
+{
+"id": 605,
+"en": "Mavericks"
+},
+{
+"id": 606,
+"en": "Pass"
+},
+{
+"id": 607,
+"en": "Dunk Ability"
+},
+{
+"id": 608,
+"en": "Height:"
+},
+{
+"id": 609,
+"en": "Black Stylish Watch"
+},
+{
+"id": 610,
+"en": "Back"
+},
+{
+"id": 611,
+"en": "<3 SEC IN THE KEY -> %s"
+},
+{
+"id": 612,
+"en": "InGm"
+},
+{
+"id": 613,
+"en": "PPR"
+},
+{
+"id": 614,
+"en": "TURNOVERS"
+},
+{
+"id": 615,
+"en": "Small Forward"
+},
+{
+"id": 616,
+"en": "July"
+},
+{
+"id": 617,
+"en": "Hook Shot"
+},
+{
+"id": 618,
+"en": "Poland"
+},
+{
+"id": 619,
+"en": "-Poor anticipation on defense"
+},
+{
+"id": 620,
+"en": "7 Years"
+},
+{
+"id": 621,
+"en": "AGE"
+},
+{
+"id": 622,
+"en": "Tick Status"
+},
+{
+"id": 623,
+"en": "Jazz"
+},
+{
+"id": 624,
+"en": "Shot Replays"
+},
+{
+"id": 625,
+"en": "EASTERN Warmup"
+},
+{
+"id": 626,
+"en": "Passing"
+},
+{
+"id": 627,
+"en": "Good Hands"
+},
+{
+"id": 628,
+"en": "Trade Offers"
+},
+{
+"id": 629,
+"en": "W/L"
+},
+{
+"id": 630,
+"en": "Afro"
+},
+{
+"id": 631,
+"en": "4 on 4"
+},
+{
+"id": 632,
+"en": "SKILLS"
+},
+{
+"id": 633,
+"en": "STEALS"
+},
+{
+"id": 634,
+"en": "-May force bad shots"
+},
+{
+"id": 635,
+"en": "Blazers Warmup"
+},
+{
+"id": 636,
+"en": "Tiger Bandana"
+},
+{
+"id": 637,
+"en": "West All-Stars"
+},
+{
+"id": 638,
+"en": "Pressure"
+},
+{
+"id": 639,
+"en": "I expect this team to be profitable or changes will be made."
+},
+{
+"id": 640,
+"en": "Def Pressure"
+},
+{
+"id": 641,
+"en": "Isolate Perimeter Players"
+},
+{
+"id": 642,
+"en": "CHEMISTRY"
+},
+{
+"id": 643,
+"en": "Bring in ten prospects for a full 5-on-5 scrimmage.  This is a great way to assess potential picks.  You may only perform this drill one time during the scouting period."
+},
+{
+"id": 644,
+"en": "FG"
+},
+{
+"id": 645,
+"en": "Dribble with Flair"
+},
+{
+"id": 646,
+"en": "to Add / Edit a Team"
+},
+{
+"id": 647,
+"en": "3 on 3 Book"
+},
+{
+"id": 648,
+"en": "It's time for weekly practice.  Do you want to set up the schedule?"
+},
+{
+"id": 649,
+"en": "to Toggle Values / Grades"
+},
+{
+"id": 650,
+"en": "Shootout"
+},
+{
+"id": 651,
+"en": "T-"
+},
+{
+"id": 652,
+"en": "Inside Out SF-C"
+},
+{
+"id": 653,
+"en": "Average"
+},
+{
+"id": 654,
+"en": "Accepted"
+},
+{
+"id": 655,
+"en": "Drill Results"
+},
+{
+"id": 656,
+"en": "Starter"
+},
+{
+"id": 657,
+"en": "Settings"
+},
+{
+"id": 658,
+"en": "VC Team"
+},
+{
+"id": 659,
+"en": "AR"
+},
+{
+"id": 660,
+"en": "20"
+},
+{
+"id": 661,
+"en": "Create Message"
+},
+{
+"id": 662,
+"en": "no injuries"
+},
+{
+"id": 663,
+"en": "You've unlocked new secondary road uniforms for the Grizzlies, Hawks, Mavericks and Rockets!"
+},
+{
+"id": 664,
+"en": "to View Player Card"
+},
+{
+"id": 665,
+"en": "Retro 6"
+},
+{
+"id": 666,
+"en": "O.REB"
+},
+{
+"id": 667,
+"en": "Deleting %s \"ð%s\"ð from %s.%s"
+},
+{
+"id": 668,
+"en": "TIME"
+},
+{
+"id": 669,
+"en": "It's Good!"
+},
+{
+"id": 670,
+"en": "STARTING LINE-UP"
+},
+{
+"id": 671,
+"en": "On Ball Defense"
+},
+{
+"id": 672,
+"en": "Nets"
+},
+{
+"id": 673,
+"en": "Pacers Backpack"
+},
+{
+"id": 674,
+"en": "TONIGHT'S MATCHUP"
+},
+{
+"id": 675,
+"en": " He will be able to play through the injury."
+},
+{
+"id": 676,
+"en": "Finish Strong at Basket"
+},
+{
+"id": 677,
+"en": "Nets Shorts"
+},
+{
+"id": 678,
+"en": "Feedback"
+},
+{
+"id": 679,
+"en": "Defensive Awareness"
+},
+{
+"id": 680,
+"en": "FR"
+},
+{
+"id": 681,
+"en": "1ST"
+},
+{
+"id": 682,
+"en": "%s"
+},
+{
+"id": 683,
+"en": "%s HAS A TORN ACL AND CAN'T RETURN"
+},
+{
+"id": 684,
+"en": "SF Misdirection"
+},
+{
+"id": 685,
+"en": "5 Sec Back To Basket"
+},
+{
+"id": 686,
+"en": "Personnel"
+},
+{
+"id": 687,
+"en": "2"
+},
+{
+"id": 688,
+"en": "Result"
+},
+{
+"id": 689,
+"en": "Muffler"
+},
+{
+"id": 690,
+"en": "Admin Delegation"
+},
+{
+"id": 691,
+"en": "-Rarely shoots threes"
+},
+{
+"id": 692,
+"en": "Predraft Workouts"
+},
+{
+"id": 693,
+"en": "Yin Yang Warmup"
+},
+{
+"id": 694,
+"en": "Load Save"
+},
+{
+"id": 695,
+"en": "Clutch Factor"
+},
+{
+"id": 696,
+"en": "Res."
+},
+{
+"id": 697,
+"en": "TEACHER"
+},
+{
+"id": 698,
+"en": "Magic Shorts"
+},
+{
+"id": 699,
+"en": "Bench"
+},
+{
+"id": 700,
+"en": "PF Screen"
+},
+{
+"id": 701,
+"en": "Congratulations!  The {0} have completed the goal, \"ðWin 25 games in a row.\"ð  20 Reward Points have been added to their total."
+},
+{
+"id": 702,
+"en": "Assign VIP Playback"
+},
+{
+"id": 703,
+"en": "No games on date"
+},
+{
+"id": 704,
+"en": "End Of Game"
+},
+{
+"id": 705,
+"en": "80E"
+},
+{
+"id": 706,
+"en": "F"
+},
+{
+"id": 707,
+"en": "On Court"
+},
+{
+"id": 708,
+"en": "Active Team"
+},
+{
+"id": 709,
+"en": "Gameplay"
+},
+{
+"id": 710,
+"en": "Sock Length"
+},
+{
+"id": 711,
+"en": "Leaders"
+},
+{
+"id": 712,
+"en": "Triangle and 2 Zone"
+},
+{
+"id": 713,
+"en": "Celtics Jersey"
+},
+{
+"id": 714,
+"en": "Magic"
+},
+{
+"id": 715,
+"en": "PLAYER"
+},
+{
+"id": 716,
+"en": "Manage Users"
+},
+{
+"id": 717,
+"en": "In Game Message Icon"
+},
+{
+"id": 718,
+"en": "SECOND ROUND"
+},
+{
+"id": 719,
+"en": "Shot Editor"
+},
+{
+"id": 720,
+"en": "POINTS AWARDED/POSSIBLE"
+},
+{
+"id": 721,
+"en": "2K"
+},
+{
+"id": 722,
+"en": "User Profiles"
+},
+{
+"id": 723,
+"en": "2 Man Iso 2"
+},
+{
+"id": 724,
+"en": "%s\nðThe %s have offered you:\nð %sFor:\nð %sWould you like to examine the trade?"
+},
+{
+"id": 725,
+"en": "B+"
+},
+{
+"id": 726,
+"en": "Three Pointer"
+},
+{
+"id": 727,
+"en": "STATUS"
+},
+{
+"id": 728,
+"en": "-Plays off-ball |PCT_GUARD_OFFBALL| of the time"
+},
+{
+"id": 729,
+"en": "Valentines"
+},
+{
+"id": 730,
+"en": "Cowry Beads"
+},
+{
+"id": 731,
+"en": "NBA Finals"
+},
+{
+"id": 732,
+"en": "Voice"
+},
+{
+"id": 733,
+"en": "WESTERN Cap"
+},
+{
+"id": 734,
+"en": "Play against it now"
+},
+{
+"id": 735,
+"en": "Rt Neck Tattoo"
+},
+{
+"id": 736,
+"en": "3-2 Zone"
+},
+{
+"id": 737,
+"en": "Save / Delete"
+},
+{
+"id": 738,
+"en": "70's East Arena"
+},
+{
+"id": 739,
+"en": ":00"
+},
+{
+"id": 740,
+"en": "90E"
+},
+{
+"id": 741,
+"en": "Cavaliers Shorts"
+},
+{
+"id": 742,
+"en": "F9"
+},
+{
+"id": 743,
+"en": "League News"
+},
+{
+"id": 744,
+"en": "Hawks Shorts"
+},
+{
+"id": 745,
+"en": "LEAGUE INCOME"
+},
+{
+"id": 746,
+"en": "Metal Messenger"
+},
+{
+"id": 747,
+"en": "3 Pointers Made"
+},
+{
+"id": 748,
+"en": "to View Biography"
+},
+{
+"id": 749,
+"en": "Stutter"
+}
+]

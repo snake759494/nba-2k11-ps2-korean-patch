@@ -1,0 +1,602 @@
+[
+{
+"id": 2850,
+"en": "%s HAS FOULED OUT OF THE GAME!"
+},
+{
+"id": 2851,
+"en": "<REACHING IN> (%s)"
+},
+{
+"id": 2852,
+"en": "Broken Sport Glasses"
+},
+{
+"id": 2853,
+"en": "Scouting Reports give you detailed information about the player you choose to scout.  A single scouting report gives you full access to a player's individual ratings.\nð\nðScouting Reports are very useful for identifying strengths and weaknesses when you are looking to trade for a player or sign a player during the free agency period.\nð\nðAdditional Scouting Reports are allotted on the first day of the month during the season, starting December 1st.  The number of Scouting Reports you get each month is determined by the skill level of your NBA Scout; the better the NBA scout, the more Scouting Reports you get.\nð\nð\nð\nð"
+},
+{
+"id": 2854,
+"en": "-Doesn't gamble defensively"
+},
+{
+"id": 2855,
+"en": "GET BACK"
+},
+{
+"id": 2856,
+"en": "Yin Yang Jersey"
+},
+{
+"id": 2857,
+"en": "You are now about to enter the NBA draft.  Fill the needs of your team by relying on the scouting information you've gathered, but don't be too afraid to duplicate talent if there is a future star left on the board. Good Luck!  "
+},
+{
+"id": 2858,
+"en": "Leopard Bandana"
+},
+{
+"id": 2859,
+"en": "Sign Contract"
+},
+{
+"id": 2860,
+"en": "SAT"
+},
+{
+"id": 2861,
+"en": "Engy"
+},
+{
+"id": 2862,
+"en": "Doo Rag"
+},
+{
+"id": 2863,
+"en": "-Likes to hack shooters"
+},
+{
+"id": 2864,
+"en": "INSIDE WORK"
+},
+{
+"id": 2865,
+"en": "Congratulations!  The {0} have completed the goal, \"ðMake the playoffs.\"ð  15 Reward Points have been added to their total."
+},
+{
+"id": 2866,
+"en": "Ambition"
+},
+{
+"id": 2867,
+"en": "Pick"
+},
+{
+"id": 2868,
+"en": "STANDING DUNK"
+},
+{
+"id": 2869,
+"en": "Build the team and get the ratings up this year."
+},
+{
+"id": 2870,
+"en": "to Toggle User Control"
+},
+{
+"id": 2871,
+"en": "PENALTY"
+},
+{
+"id": 2872,
+"en": "Celtics Warmup"
+},
+{
+"id": 2873,
+"en": "You've reached the maximum number of saves on %s.\nðIf you want to create a new save, please delete an existing save.\nðContinue?"
+},
+{
+"id": 2874,
+"en": "Lakers Backpack"
+},
+{
+"id": 2875,
+"en": "I'm in the business to make money.  Keep our profits up."
+},
+{
+"id": 2876,
+"en": "STARTING LINEUPS"
+},
+{
+"id": 2877,
+"en": "Lt Bicep Tattoo"
+},
+{
+"id": 2878,
+"en": "POS"
+},
+{
+"id": 2879,
+"en": "Failed"
+},
+{
+"id": 2880,
+"en": "Shades 8"
+},
+{
+"id": 2881,
+"en": "Spalding"
+},
+{
+"id": 2882,
+"en": "Edit Name"
+},
+{
+"id": 2883,
+"en": "Alt"
+},
+{
+"id": 2884,
+"en": "One player named to All-NBA Second Team"
+},
+{
+"id": 2885,
+"en": "Fancy!"
+},
+{
+"id": 2886,
+"en": "Assign Player Drill"
+},
+{
+"id": 2887,
+"en": "Bobcats Fisherman"
+},
+{
+"id": 2888,
+"en": "-Rarely slashes to the hole"
+},
+{
+"id": 2889,
+"en": "-Excellent on-ball stealer"
+},
+{
+"id": 2890,
+"en": "1st Quarter"
+},
+{
+"id": 2891,
+"en": "Switchin' It Up"
+},
+{
+"id": 2892,
+"en": "F8"
+},
+{
+"id": 2893,
+"en": "Loyal"
+},
+{
+"id": 2894,
+"en": "Paused"
+},
+{
+"id": 2895,
+"en": "ENG"
+},
+{
+"id": 2896,
+"en": "You are about to pass the trade deadline.  Would you like to proceed past the deadline?"
+},
+{
+"id": 2897,
+"en": "to agree"
+},
+{
+"id": 2898,
+"en": "Points In The Paint"
+},
+{
+"id": 2899,
+"en": "Conference Record"
+},
+{
+"id": 2900,
+"en": "Kings Jersey"
+},
+{
+"id": 2901,
+"en": "User Msg"
+},
+{
+"id": 2902,
+"en": "Budget"
+},
+{
+"id": 2903,
+"en": "QUICK STATS"
+},
+{
+"id": 2904,
+"en": "Mavericks Backpack"
+},
+{
+"id": 2905,
+"en": "Legends"
+},
+{
+"id": 2906,
+"en": "F2"
+},
+{
+"id": 2907,
+"en": "WESTERN Fisherman"
+},
+{
+"id": 2908,
+"en": "2 Man Iso 1"
+},
+{
+"id": 2909,
+"en": "Good Position"
+},
+{
+"id": 2910,
+"en": "timeout"
+},
+{
+"id": 2911,
+"en": "6"
+},
+{
+"id": 2912,
+"en": "rd"
+},
+{
+"id": 2913,
+"en": "Play with Flair"
+},
+{
+"id": 2914,
+"en": "Player Trade"
+},
+{
+"id": 2915,
+"en": "to return to selecting track"
+},
+{
+"id": 2916,
+"en": "English Jersey"
+},
+{
+"id": 2917,
+"en": "3pt PG Curl"
+},
+{
+"id": 2918,
+"en": "Player Lineup"
+},
+{
+"id": 2919,
+"en": "Rt Forearm Tattoo"
+},
+{
+"id": 2920,
+"en": "2nd Half"
+},
+{
+"id": 2921,
+"en": "BLOCKED!!!"
+},
+{
+"id": 2922,
+"en": "Press |M_NEXTSUBPAGE|&|M_PREVSUBPAGE| for Random All Teams"
+},
+{
+"id": 2923,
+"en": "Emperor Cap"
+},
+{
+"id": 2924,
+"en": "Division Standings"
+},
+{
+"id": 2925,
+"en": "Power Play PF"
+},
+{
+"id": 2926,
+"en": "Empty Play"
+},
+{
+"id": 2927,
+"en": "VC Logo"
+},
+{
+"id": 2928,
+"en": " Please do not remove the HDD, disconnect any controllers, or turn the power off."
+},
+{
+"id": 2929,
+"en": "|M_ADVANCE|"
+},
+{
+"id": 2930,
+"en": "Wizards"
+},
+{
+"id": 2931,
+"en": "Progress"
+},
+{
+"id": 2932,
+"en": "CutScene Name"
+},
+{
+"id": 2933,
+"en": "TWolves Cap"
+},
+{
+"id": 2934,
+"en": "to move start point"
+},
+{
+"id": 2935,
+"en": "No significant strengths"
+},
+{
+"id": 2936,
+"en": "Field Goals Made - Attempted"
+},
+{
+"id": 2937,
+"en": "About the Program"
+},
+{
+"id": 2938,
+"en": "3rd Quarter"
+},
+{
+"id": 2939,
+"en": "{0:D2}:{1:D02} : {2}"
+},
+{
+"id": 2940,
+"en": "Add"
+},
+{
+"id": 2941,
+"en": "-Likes to change shot to evade blocks"
+},
+{
+"id": 2942,
+"en": "DReb"
+},
+{
+"id": 2943,
+"en": "White Sleeve"
+},
+{
+"id": 2944,
+"en": "HUP"
+},
+{
+"id": 2945,
+"en": "ADMIN TO-DO LIST"
+},
+{
+"id": 2946,
+"en": "-Sticks with man coverage"
+},
+{
+"id": 2947,
+"en": "Bulls Jersey"
+},
+{
+"id": 2948,
+"en": "SF:"
+},
+{
+"id": 2949,
+"en": "Audio Presentation"
+},
+{
+"id": 2950,
+"en": "Free Throw Attempts"
+},
+{
+"id": 2951,
+"en": "HEIGHT"
+},
+{
+"id": 2952,
+"en": "Not Centered (with perfect release)"
+},
+{
+"id": 2953,
+"en": "Scrimmage"
+},
+{
+"id": 2954,
+"en": "Player Of Month"
+},
+{
+"id": 2955,
+"en": "Natural"
+},
+{
+"id": 2956,
+"en": "4 Man Post 1"
+},
+{
+"id": 2957,
+"en": "Hey, What's up?"
+},
+{
+"id": 2958,
+"en": "EFFICIENCY"
+},
+{
+"id": 2959,
+"en": "No"
+},
+{
+"id": 2960,
+"en": "Magic Backpack"
+},
+{
+"id": 2961,
+"en": "Frenzy Arena"
+},
+{
+"id": 2962,
+"en": "%s has dropped out of the %s League."
+},
+{
+"id": 2963,
+"en": "Swivel"
+},
+{
+"id": 2964,
+"en": "free throw, missed"
+},
+{
+"id": 2965,
+"en": "Free Throws Made"
+},
+{
+"id": 2966,
+"en": "Congratulations!  The {0} have completed the goal, \"ðWin the NBA Championship.\"ð  35 Reward Points have been added to their total."
+},
+{
+"id": 2967,
+"en": "Quick Pick & Roll"
+},
+{
+"id": 2968,
+"en": "SCOUTING REPORT"
+},
+{
+"id": 2969,
+"en": "SHOT BLOCKING"
+},
+{
+"id": 2970,
+"en": "PA Vol"
+},
+{
+"id": 2971,
+"en": "Improve our overall team rating this year."
+},
+{
+"id": 2972,
+"en": "Talons Arena"
+},
+{
+"id": 2973,
+"en": "%s ARE ON A %s RUN IN THE LAST %s"
+},
+{
+"id": 2974,
+"en": "Team Sliders"
+},
+{
+"id": 2975,
+"en": "Losses"
+},
+{
+"id": 2976,
+"en": "ENERGY"
+},
+{
+"id": 2977,
+"en": "2009 All-Star uniforms"
+},
+{
+"id": 2978,
+"en": "SHOT CLOSE"
+},
+{
+"id": 2979,
+"en": "Free Agents - {0}"
+},
+{
+"id": 2980,
+"en": "Years"
+},
+{
+"id": 2981,
+"en": "TIMEOUTS REMAINING"
+},
+{
+"id": 2982,
+"en": "A balanced defense that allows good pressure on the perimeter combined with solid inside defense."
+},
+{
+"id": 2983,
+"en": "Assign VIP"
+},
+{
+"id": 2984,
+"en": "-Plays passing lanes well"
+},
+{
+"id": 2985,
+"en": "Corner Roll SF-PG"
+},
+{
+"id": 2986,
+"en": "rebs"
+},
+{
+"id": 2987,
+"en": "Are you sure you want to ban %s?"
+},
+{
+"id": 2988,
+"en": "Jazz Shorts"
+},
+{
+"id": 2989,
+"en": "Home Sock Color"
+},
+{
+"id": 2990,
+"en": "Bald Ponytail"
+},
+{
+"id": 2991,
+"en": "Blk Calf Sleeve"
+},
+{
+"id": 2992,
+"en": "5 Min"
+},
+{
+"id": 2993,
+"en": "Choose how your coaches focus player development"
+},
+{
+"id": 2994,
+"en": "Knicks Warmup"
+},
+{
+"id": 2995,
+"en": "Sixers Cap"
+},
+{
+"id": 2996,
+"en": "unsign"
+},
+{
+"id": 2997,
+"en": "Players Of Month"
+},
+{
+"id": 2998,
+"en": "Black Bag"
+},
+{
+"id": 2999,
+"en": "Shot Debug"
+}
+]

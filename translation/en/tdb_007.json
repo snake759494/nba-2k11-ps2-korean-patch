@@ -1,0 +1,602 @@
+[
+{
+"id": 1050,
+"en": "Yin Yang Shorts"
+},
+{
+"id": 1051,
+"en": "The {0} would have too many players."
+},
+{
+"id": 1052,
+"en": "Shot Med Tend."
+},
+{
+"id": 1053,
+"en": "-Likes to sag on defense"
+},
+{
+"id": 1054,
+"en": "Injury Report"
+},
+{
+"id": 1055,
+"en": "C"
+},
+{
+"id": 1056,
+"en": "Erasers Arena"
+},
+{
+"id": 1057,
+"en": "2-1-2 Zone"
+},
+{
+"id": 1058,
+"en": "|M_LEFTANALOG|"
+},
+{
+"id": 1059,
+"en": "%s has received your offer.  He is going to wait a few days before making a decision."
+},
+{
+"id": 1060,
+"en": "Nets Warmup"
+},
+{
+"id": 1061,
+"en": "Coach"
+},
+{
+"id": 1062,
+"en": "Tennis Ball"
+},
+{
+"id": 1063,
+"en": "-Good offensive rebounder"
+},
+{
+"id": 1064,
+"en": "Zip"
+},
+{
+"id": 1065,
+"en": "to disagree"
+},
+{
+"id": 1066,
+"en": "Simulate to end of period"
+},
+{
+"id": 1067,
+"en": "Script Editor"
+},
+{
+"id": 1068,
+"en": "\"ðZoot\"ð Wing Tip"
+},
+{
+"id": 1069,
+"en": "Appearance 6"
+},
+{
+"id": 1070,
+"en": "2006 Draft"
+},
+{
+"id": 1071,
+"en": "3 PT PER GAME"
+},
+{
+"id": 1072,
+"en": "18 Min"
+},
+{
+"id": 1073,
+"en": "Purple"
+},
+{
+"id": 1074,
+"en": "OVR RANK"
+},
+{
+"id": 1075,
+"en": "Email"
+},
+{
+"id": 1076,
+"en": "Camping Boots"
+},
+{
+"id": 1077,
+"en": "Jazz Backpack"
+},
+{
+"id": 1078,
+"en": "Blocks"
+},
+{
+"id": 1079,
+"en": "%.1f"
+},
+{
+"id": 1080,
+"en": "Pass Intercep Tend"
+},
+{
+"id": 1081,
+"en": "Magic Warmup"
+},
+{
+"id": 1082,
+"en": "4th"
+},
+{
+"id": 1083,
+"en": "14 Minutes"
+},
+{
+"id": 1084,
+"en": "SHOT THREE"
+},
+{
+"id": 1085,
+"en": "WESTERN Tote"
+},
+{
+"id": 1086,
+"en": "Corner Roll"
+},
+{
+"id": 1087,
+"en": "Street"
+},
+{
+"id": 1088,
+"en": "82 Games"
+},
+{
+"id": 1089,
+"en": "Leagues"
+},
+{
+"id": 1090,
+"en": "Most Improved Player"
+},
+{
+"id": 1091,
+"en": "CONFERENCE"
+},
+{
+"id": 1092,
+"en": "Save Online Settings"
+},
+{
+"id": 1093,
+"en": "Looking for a sim game (no cheesers)."
+},
+{
+"id": 1094,
+"en": "FT Attempted"
+},
+{
+"id": 1095,
+"en": "Offered Trades"
+},
+{
+"id": 1096,
+"en": "14"
+},
+{
+"id": 1097,
+"en": "Defensive Player of the Year"
+},
+{
+"id": 1098,
+"en": "19"
+},
+{
+"id": 1099,
+"en": "Urban Camo Wristband"
+},
+{
+"id": 1100,
+"en": "You've unlocked the 2KSports team!  A unique combo of game developers and motion capture talent."
+},
+{
+"id": 1101,
+"en": "3pt PF Wing"
+},
+{
+"id": 1102,
+"en": "to start a new drill"
+},
+{
+"id": 1103,
+"en": "for options"
+},
+{
+"id": 1104,
+"en": ", "
+},
+{
+"id": 1105,
+"en": "Abdul-Jabbar Jersey"
+},
+{
+"id": 1106,
+"en": "3pt SG PickPop Return"
+},
+{
+"id": 1107,
+"en": "Night"
+},
+{
+"id": 1108,
+"en": "4th Quarter"
+},
+{
+"id": 1109,
+"en": "Celtics Backpack"
+},
+{
+"id": 1110,
+"en": "Grizzlies Fisherman"
+},
+{
+"id": 1111,
+"en": "Congratulations!  The {0} have completed the goal, \"ðPlay a rookie 25+ minutes per game.\"ð  15 Reward Points have been added to their total."
+},
+{
+"id": 1112,
+"en": "Artist"
+},
+{
+"id": 1113,
+"en": "You are about to advance past the rookie signing period. If you continue, all unsigned rookies will be released into the free agency pool. Continue?"
+},
+{
+"id": 1114,
+"en": "TOPG"
+},
+{
+"id": 1115,
+"en": "Mid-range Success"
+},
+{
+"id": 1116,
+"en": "BENCH"
+},
+{
+"id": 1117,
+"en": "Hawks Tote"
+},
+{
+"id": 1118,
+"en": "5 Minutes"
+},
+{
+"id": 1119,
+"en": "{0} has already attended a camp."
+},
+{
+"id": 1120,
+"en": "Saving %s \"ð%s\"ð to %s.%s"
+},
+{
+"id": 1121,
+"en": "%s %s"
+},
+{
+"id": 1122,
+"en": "/"
+},
+{
+"id": 1123,
+"en": "Def. Rebounding"
+},
+{
+"id": 1124,
+"en": "LONG DISTANCE"
+},
+{
+"id": 1125,
+"en": "Convince your player to spend extra time during the offseason working on his game, thus helping him increase his Potential by 10 points."
+},
+{
+"id": 1126,
+"en": "Corner Roll PG-SG"
+},
+{
+"id": 1127,
+"en": "This drill focuses exclusively on your Off. Rebounding attribute."
+},
+{
+"id": 1128,
+"en": "League - Assists"
+},
+{
+"id": 1129,
+"en": "Arcade"
+},
+{
+"id": 1130,
+"en": "Advance Through Date"
+},
+{
+"id": 1131,
+"en": "Draft Class '01"
+},
+{
+"id": 1132,
+"en": "Shoot Off Dribble"
+},
+{
+"id": 1133,
+"en": "Remote player is viewing Online Options. Please wait."
+},
+{
+"id": 1134,
+"en": "<GOALTENDING -> %s"
+},
+{
+"id": 1135,
+"en": "2 Man Roll 2-1"
+},
+{
+"id": 1136,
+"en": "Buzz"
+},
+{
+"id": 1137,
+"en": "Bulls Cap"
+},
+{
+"id": 1138,
+"en": "Team Select"
+},
+{
+"id": 1139,
+"en": "Kobe 2 Lite"
+},
+{
+"id": 1140,
+"en": "-Sags off role players"
+},
+{
+"id": 1141,
+"en": "Santa Claus"
+},
+{
+"id": 1142,
+"en": "-Tends to double in the paint"
+},
+{
+"id": 1143,
+"en": "-Utilizes pumpfake well"
+},
+{
+"id": 1144,
+"en": "-Rarely calls defensive sets"
+},
+{
+"id": 1145,
+"en": "to Equip Player with Shoe"
+},
+{
+"id": 1146,
+"en": "Team - 3P%"
+},
+{
+"id": 1147,
+"en": "|CIRCLE| Exit"
+},
+{
+"id": 1148,
+"en": "Grey Beanie"
+},
+{
+"id": 1149,
+"en": "First Name"
+},
+{
+"id": 1150,
+"en": "TWolves Warmup"
+},
+{
+"id": 1151,
+"en": "Controllers"
+},
+{
+"id": 1152,
+"en": "Leaderboards"
+},
+{
+"id": 1153,
+"en": "A+"
+},
+{
+"id": 1154,
+"en": "Mirror Stylish Glasses"
+},
+{
+"id": 1155,
+"en": "-Good inside/outside game"
+},
+{
+"id": 1156,
+"en": "Free Throws Attempted"
+},
+{
+"id": 1157,
+"en": "Warriors Fisherman"
+},
+{
+"id": 1158,
+"en": "Create League"
+},
+{
+"id": 1159,
+"en": "Mode"
+},
+{
+"id": 1160,
+"en": "High Low PF"
+},
+{
+"id": 1161,
+"en": "LONG"
+},
+{
+"id": 1162,
+"en": "Member List"
+},
+{
+"id": 1163,
+"en": "-Weak in the passing lanes"
+},
+{
+"id": 1164,
+"en": "OtGm"
+},
+{
+"id": 1165,
+"en": "90's West Arena"
+},
+{
+"id": 1166,
+"en": "Challenge Shot"
+},
+{
+"id": 1167,
+"en": "Offer %s a contract extension for how many years?"
+},
+{
+"id": 1168,
+"en": "FTA"
+},
+{
+"id": 1169,
+"en": "If your offer is accepted you will have to release someone. Who? You will be responsible for both contracts."
+},
+{
+"id": 1170,
+"en": "Off Low Post"
+},
+{
+"id": 1171,
+"en": "2 Years"
+},
+{
+"id": 1172,
+"en": "NBA Debug"
+},
+{
+"id": 1173,
+"en": "Hands"
+},
+{
+"id": 1174,
+"en": "OAwr"
+},
+{
+"id": 1175,
+"en": "Let's concentrate on improving our team this year."
+},
+{
+"id": 1176,
+"en": "PG Take"
+},
+{
+"id": 1177,
+"en": "Playoffs"
+},
+{
+"id": 1178,
+"en": "Official B-Ball Shoe 3"
+},
+{
+"id": 1179,
+"en": "Win 10 games in a row"
+},
+{
+"id": 1180,
+"en": "Peace Jersey"
+},
+{
+"id": 1181,
+"en": "Left Knee Pad"
+},
+{
+"id": 1182,
+"en": "Jumpshot"
+},
+{
+"id": 1183,
+"en": "Field Goals Attempted"
+},
+{
+"id": 1184,
+"en": "%s LAST SEASON SCORING"
+},
+{
+"id": 1185,
+"en": "Efficiency Report"
+},
+{
+"id": 1186,
+"en": "Dec"
+},
+{
+"id": 1187,
+"en": "NEUTRAL:"
+},
+{
+"id": 1188,
+"en": "DEVELOPMENT HOURS REMAINING"
+},
+{
+"id": 1189,
+"en": "Secondary"
+},
+{
+"id": 1190,
+"en": "3-PT FG"
+},
+{
+"id": 1191,
+"en": "Double Low"
+},
+{
+"id": 1192,
+"en": "Demo"
+},
+{
+"id": 1193,
+"en": "Street Mode"
+},
+{
+"id": 1194,
+"en": "Silver Hi-tops"
+},
+{
+"id": 1195,
+"en": "Launching the Network Configuration Utility will result in the loss of unsaved data. Do you wish to continue?"
+},
+{
+"id": 1196,
+"en": "2ND"
+},
+{
+"id": 1197,
+"en": "Coach Last Name"
+},
+{
+"id": 1198,
+"en": "OT"
+},
+{
+"id": 1199,
+"en": "Admin Log"
+}
+]

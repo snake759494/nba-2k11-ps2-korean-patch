@@ -1,0 +1,602 @@
+[
+{
+"id": 1200,
+"en": "Tournament Tree"
+},
+{
+"id": 1201,
+"en": "Bulls"
+},
+{
+"id": 1202,
+"en": "Set Avatar"
+},
+{
+"id": 1203,
+"en": "Shooting (Close)"
+},
+{
+"id": 1204,
+"en": "Add Item"
+},
+{
+"id": 1205,
+"en": "-Reacts well to the pass"
+},
+{
+"id": 1206,
+"en": "Nike"
+},
+{
+"id": 1207,
+"en": "Temporary Placeholder"
+},
+{
+"id": 1208,
+"en": "Very Early"
+},
+{
+"id": 1209,
+"en": "Yellow Stylish Glasses"
+},
+{
+"id": 1210,
+"en": "Join Tournament"
+},
+{
+"id": 1211,
+"en": "Dunk Tend"
+},
+{
+"id": 1212,
+"en": "ALL"
+},
+{
+"id": 1213,
+"en": "Gold Link"
+},
+{
+"id": 1214,
+"en": "Day-glow Bracelet"
+},
+{
+"id": 1215,
+"en": "|M_PREVSUBPAGE|"
+},
+{
+"id": 1216,
+"en": "{0} ({1}) has been injured: {2}, {3} days. {4}"
+},
+{
+"id": 1217,
+"en": "2 Team Trade"
+},
+{
+"id": 1218,
+"en": "2001 Draft Arena"
+},
+{
+"id": 1219,
+"en": "Bulls Shorts"
+},
+{
+"id": 1220,
+"en": "Win 5 games in a row"
+},
+{
+"id": 1221,
+"en": "Offensive Clutch"
+},
+{
+"id": 1222,
+"en": "Propose Trade"
+},
+{
+"id": 1223,
+"en": "Overall Before"
+},
+{
+"id": 1224,
+"en": "Tendencies"
+},
+{
+"id": 1225,
+"en": "Teddy Bag"
+},
+{
+"id": 1226,
+"en": "Venice Beach"
+},
+{
+"id": 1227,
+"en": "STANDINGS"
+},
+{
+"id": 1228,
+"en": "Congratulations!  The {0} have completed the goal, \"ðOne player named to the All-NBA First Team.\"ð  15 Reward Points have been added to their total."
+},
+{
+"id": 1229,
+"en": "Round 1"
+},
+{
+"id": 1230,
+"en": "-Likes to attack the rim"
+},
+{
+"id": 1231,
+"en": "Arena Viewer"
+},
+{
+"id": 1232,
+"en": "Dbl Wristband White"
+},
+{
+"id": 1233,
+"en": "Admin"
+},
+{
+"id": 1234,
+"en": "Jazz Jersey"
+},
+{
+"id": 1235,
+"en": "Train_PostDefense"
+},
+{
+"id": 1236,
+"en": "2nd Team Band"
+},
+{
+"id": 1237,
+"en": "Gym Bag"
+},
+{
+"id": 1238,
+"en": "Defensive Rebounds"
+},
+{
+"id": 1239,
+"en": "STRK"
+},
+{
+"id": 1240,
+"en": "Finals MVP"
+},
+{
+"id": 1241,
+"en": "EASTERN Fisherman"
+},
+{
+"id": 1242,
+"en": "SCORE"
+},
+{
+"id": 1243,
+"en": "{0} ({1}) has been injured: {2}, {3} weeks. {4}"
+},
+{
+"id": 1244,
+"en": "{0:d}"
+},
+{
+"id": 1245,
+"en": "Fadeaway Tend"
+},
+{
+"id": 1246,
+"en": "Attribute"
+},
+{
+"id": 1247,
+"en": "-Commits few blocking fouls"
+},
+{
+"id": 1248,
+"en": "Green Backpack"
+},
+{
+"id": 1249,
+"en": "Score"
+},
+{
+"id": 1250,
+"en": "Pos"
+},
+{
+"id": 1251,
+"en": "Cancel"
+},
+{
+"id": 1252,
+"en": "Red Buckethat"
+},
+{
+"id": 1253,
+"en": "The {0} must sign a {1} before starting the next period."
+},
+{
+"id": 1254,
+"en": "Orange Fisherman"
+},
+{
+"id": 1255,
+"en": "Ukraine"
+},
+{
+"id": 1256,
+"en": "Points Against"
+},
+{
+"id": 1257,
+"en": "Winning means money.  Let's turn some heads in the playoffs."
+},
+{
+"id": 1258,
+"en": "Fouling"
+},
+{
+"id": 1259,
+"en": "Press |M_NEXTPAGE|&|M_PREVPAGE| for Random NBA Teams"
+},
+{
+"id": 1260,
+"en": "Most Valuable Player"
+},
+{
+"id": 1261,
+"en": "Press |M_RIGHTSTICK| for VIP Records"
+},
+{
+"id": 1262,
+"en": "%d-%d"
+},
+{
+"id": 1263,
+"en": "Save Online Roster"
+},
+{
+"id": 1264,
+"en": "Home Playbook"
+},
+{
+"id": 1265,
+"en": "Points"
+},
+{
+"id": 1266,
+"en": "-Good anticipation on defense"
+},
+{
+"id": 1267,
+"en": "Projected Pick"
+},
+{
+"id": 1268,
+"en": "Congratulations!  The {0} have completed the goal, \"ðWin 5 games in a row.\"ð  5 Reward Points have been added to their total."
+},
+{
+"id": 1269,
+"en": "Wait until last few seconds on clock before shooting."
+},
+{
+"id": 1270,
+"en": "Knicks Backpack"
+},
+{
+"id": 1271,
+"en": "Block Frequency"
+},
+{
+"id": 1272,
+"en": "Top Arc"
+},
+{
+"id": 1273,
+"en": "Ranked and league games are one on one only.  %s, please remove any unassigned DUALSHOCK|REG|2 analog controllers at this time."
+},
+{
+"id": 1274,
+"en": "User Name"
+},
+{
+"id": 1275,
+"en": "Arctic Camo Wristband"
+},
+{
+"id": 1276,
+"en": "Online"
+},
+{
+"id": 1277,
+"en": "Roster"
+},
+{
+"id": 1278,
+"en": "Most Pts in a Qtr"
+},
+{
+"id": 1279,
+"en": "Next |M_NEXTPAGE|"
+},
+{
+"id": 1280,
+"en": "Size"
+},
+{
+"id": 1281,
+"en": "2-3 Matchup Zone"
+},
+{
+"id": 1282,
+"en": "Fix Height"
+},
+{
+"id": 1283,
+"en": "to select a new assistant"
+},
+{
+"id": 1284,
+"en": "Magic Tote"
+},
+{
+"id": 1285,
+"en": "Season Awards"
+},
+{
+"id": 1286,
+"en": "Moderately Contested"
+},
+{
+"id": 1287,
+"en": "Lt Forearm Tattoo"
+},
+{
+"id": 1288,
+"en": "Away Score"
+},
+{
+"id": 1289,
+"en": "|M_SECONDARY|"
+},
+{
+"id": 1290,
+"en": "Gorilla Mascot"
+},
+{
+"id": 1291,
+"en": "Injury Chance"
+},
+{
+"id": 1292,
+"en": "sore wrist"
+},
+{
+"id": 1293,
+"en": "Warriors Tote"
+},
+{
+"id": 1294,
+"en": "Back Support"
+},
+{
+"id": 1295,
+"en": "block"
+},
+{
+"id": 1296,
+"en": "|M_BACK| to Cancel"
+},
+{
+"id": 1297,
+"en": "RECENT SCORES"
+},
+{
+"id": 1298,
+"en": "This Your Network Configuration file was created on another console and cannot be used."
+},
+{
+"id": 1299,
+"en": "Extremely Important"
+},
+{
+"id": 1300,
+"en": "Scout Picks"
+},
+{
+"id": 1301,
+"en": "Force Battle"
+},
+{
+"id": 1302,
+"en": "FIELD GOALS"
+},
+{
+"id": 1303,
+"en": "Style %d"
+},
+{
+"id": 1304,
+"en": "Txt"
+},
+{
+"id": 1305,
+"en": "C. Mullin Jersey"
+},
+{
+"id": 1306,
+"en": "Blocks Per Game"
+},
+{
+"id": 1307,
+"en": "Hook Shot Tendency"
+},
+{
+"id": 1308,
+"en": "Progressive Scan"
+},
+{
+"id": 1309,
+"en": "Picks"
+},
+{
+"id": 1310,
+"en": "BASE STYLE"
+},
+{
+"id": 1311,
+"en": "3-PT FG COMPARSION"
+},
+{
+"id": 1312,
+"en": "Stack PG-PF"
+},
+{
+"id": 1313,
+"en": "Opponent"
+},
+{
+"id": 1314,
+"en": "Presentation"
+},
+{
+"id": 1315,
+"en": "City"
+},
+{
+"id": 1316,
+"en": "Congratulations!  The {0} have completed the goal, \"ðImprove record by 10 wins.\"ð  10 Reward Points have been added to their total."
+},
+{
+"id": 1317,
+"en": "Accept"
+},
+{
+"id": 1318,
+"en": "3 Pt:"
+},
+{
+"id": 1319,
+"en": "Rank (Last)"
+},
+{
+"id": 1320,
+"en": "10 Min"
+},
+{
+"id": 1321,
+"en": "Daily View"
+},
+{
+"id": 1322,
+"en": "FreeThrow Ability"
+},
+{
+"id": 1323,
+"en": "Option"
+},
+{
+"id": 1324,
+"en": "-Rarely attacks the basket"
+},
+{
+"id": 1325,
+"en": "Hockey Mask"
+},
+{
+"id": 1326,
+"en": "Shooting Focus"
+},
+{
+"id": 1327,
+"en": "<OVER THE BACK> (%s)"
+},
+{
+"id": 1328,
+"en": "Snowball"
+},
+{
+"id": 1329,
+"en": "Shot 3PT"
+},
+{
+"id": 1330,
+"en": "Improve record by 5 wins"
+},
+{
+"id": 1331,
+"en": "-Tends to play superstars straight up"
+},
+{
+"id": 1332,
+"en": "Defensive Scouting Report"
+},
+{
+"id": 1333,
+"en": "Street Options"
+},
+{
+"id": 1334,
+"en": "Offer Status"
+},
+{
+"id": 1335,
+"en": "REBOUNDS"
+},
+{
+"id": 1336,
+"en": "-Not a physical defender"
+},
+{
+"id": 1337,
+"en": "EW"
+},
+{
+"id": 1338,
+"en": "Draft Class '00"
+},
+{
+"id": 1339,
+"en": "Teams"
+},
+{
+"id": 1340,
+"en": "Gms.Left"
+},
+{
+"id": 1341,
+"en": "Natural 2"
+},
+{
+"id": 1342,
+"en": "Checking memory card (PS2) slots.%s"
+},
+{
+"id": 1343,
+"en": "Rebounds"
+},
+{
+"id": 1344,
+"en": "Unregistering game. Please wait."
+},
+{
+"id": 1345,
+"en": "Last Name"
+},
+{
+"id": 1346,
+"en": "Send Custom Challenge"
+},
+{
+"id": 1347,
+"en": "TEAM SALARY"
+},
+{
+"id": 1348,
+"en": "FOULS"
+},
+{
+"id": 1349,
+"en": "Your connection to the 2K Sports service has been lost.  Please check your cables before signing in again."
+}
+]

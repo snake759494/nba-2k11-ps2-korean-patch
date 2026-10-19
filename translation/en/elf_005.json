@@ -1,0 +1,1002 @@
+[
+{
+"id": 1250,
+"en": "Kobe Bryant is the king of this court and he heard about your victories over the other guys here.  He is ready to challenge you to a game of winner take all, standard rules 1-on-1; first to 11 wins!"
+},
+{
+"id": 1251,
+"en": "Long Range"
+},
+{
+"id": 1252,
+"en": "Steal Penalty"
+},
+{
+"id": 1253,
+"en": "Block Penalty"
+},
+{
+"id": 1254,
+"en": "Time Limit"
+},
+{
+"id": 1255,
+"en": "Score Challenge"
+},
+{
+"id": 1256,
+"en": "Bomb Ball-Timer"
+},
+{
+"id": 1257,
+"en": "Bomb Ball-Shot"
+},
+{
+"id": 1258,
+"en": "Bomb Ball-Egg"
+},
+{
+"id": 1259,
+"en": "Reverse Control"
+},
+{
+"id": 1260,
+"en": "HISTORIC"
+},
+{
+"id": 1261,
+"en": "BOSS"
+},
+{
+"id": 1262,
+"en": "Mirror"
+},
+{
+"id": 1263,
+"en": "Reverse"
+},
+{
+"id": 1264,
+"en": "Hidden"
+},
+{
+"id": 1265,
+"en": "Random Points"
+},
+{
+"id": 1266,
+"en": "CELEBRITY"
+},
+{
+"id": 1267,
+"en": "It's time to jump into the drills and challenges; let's get this ball rolling.  In order to make it to the EBC, you're going to need to get contacts from a lot of NBA players as well as some celebrities.  You'd better get going!"
+},
+{
+"id": 1268,
+"en": "You have to earn CELL PHONE NUMBERS by beating your opponents in the BATTLE GROUNDS"
+},
+{
+"id": 1269,
+"en": "You haven't earned enough Rank Points to battle a Boss."
+},
+{
+"id": 1270,
+"en": "Grow your character's attributes here by successfully reaching the goal for each development drill. Playing the development drills will cost you development points which you earn by defeating the various challenges located within each city. We've started you off with a small handful of development points so you can hit the ground running.\n\nGood luck out there!"
+},
+{
+"id": 1271,
+"en": "Quitting out of a street challenge will result in an automatic loss!  Are you sure you want to quit?"
+},
+{
+"id": 1272,
+"en": "Welcome to your Nike Shoe Locker.  Here is where you equip your player with your new Nike shoes.  Each shoe gives you special ability boosts, so make sure you are wearing the appropriate shoe for the appropriate situation."
+},
+{
+"id": 1273,
+"en": "You have just won a pair of Nike Shoes!  Go home and check out your Nike Shoe Locker."
+},
+{
+"id": 1274,
+"en": "NBA Player"
+},
+{
+"id": 1275,
+"en": "Warning! Quitting out of the EBC Tournament will reset the entire tournament. Continue?"
+},
+{
+"id": 1276,
+"en": "Welcome to the EBC Tournament! Here you'll face off against some of the best street ballers in the country. Good luck!"
+},
+{
+"id": 1277,
+"en": "Congratulations! You've made it to the final game of the EBC Tournament! But you can't relax now... there are still 21 points between you and the championship."
+},
+{
+"id": 1278,
+"en": "No one said it was going to be easy!  Lucky for you, there is another EBC Tournament right around the corner so get your team signed up right away.  Better luck next time baller..."
+},
+{
+"id": 1279,
+"en": "So close... don't get discouraged!  Lucky for you, there is another EBC Tournament right around the corner so get your team signed up right away.  Better luck next time baller..."
+},
+{
+"id": 1280,
+"en": "To Return to the Battle Map"
+},
+{
+"id": 1281,
+"en": "No selected games on day:\n Simulate day?"
+},
+{
+"id": 1282,
+"en": "LOADINGANIMATION"
+},
+{
+"id": 1283,
+"en": "OFFENSIVE CONTROLS"
+},
+{
+"id": 1284,
+"en": "DEFENSIVE CONTROLS"
+},
+{
+"id": 1285,
+"en": "Not Used"
+},
+{
+"id": 1286,
+"en": "Total"
+},
+{
+"id": 1287,
+"en": "%s is already unlocked"
+},
+{
+"id": 1288,
+"en": "%s is unlocked"
+},
+{
+"id": 1289,
+"en": "Invalid Code Entered"
+},
+{
+"id": 1290,
+"en": "Enter Code"
+},
+{
+"id": 1291,
+"en": "No available players for substitution."
+},
+{
+"id": 1292,
+"en": "Warning: You have already made substitutions which will take effect at the next dead ball. Do you want to cancel and make new substitutions?"
+},
+{
+"id": 1293,
+"en": "PERSONALITY"
+},
+{
+"id": 1294,
+"en": "YEARS PRO"
+},
+{
+"id": 1295,
+"en": "Aggressive"
+},
+{
+"id": 1296,
+"en": "Sprint"
+},
+{
+"id": 1297,
+"en": "Dual Player"
+},
+{
+"id": 1298,
+"en": "Int. Foul"
+},
+{
+"id": 1299,
+"en": "Icon Pass"
+},
+{
+"id": 1300,
+"en": "Icon Switch"
+},
+{
+"id": 1301,
+"en": "Play Set"
+},
+{
+"id": 1302,
+"en": "Player Swap"
+},
+{
+"id": 1303,
+"en": "Shoot"
+},
+{
+"id": 1304,
+"en": "Double Team"
+},
+{
+"id": 1305,
+"en": "Lead Pass"
+},
+{
+"id": 1306,
+"en": "Take Charge"
+},
+{
+"id": 1307,
+"en": "Move Player"
+},
+{
+"id": 1308,
+"en": "Shot Stick"
+},
+{
+"id": 1309,
+"en": "Strip & Rip"
+},
+{
+"id": 1310,
+"en": "Call for Pick"
+},
+{
+"id": 1311,
+"en": "Pause"
+},
+{
+"id": 1312,
+"en": "Default Control"
+},
+{
+"id": 1313,
+"en": "Alternate A"
+},
+{
+"id": 1314,
+"en": "Alternate B"
+},
+{
+"id": 1315,
+"en": "Alternate C"
+},
+{
+"id": 1316,
+"en": "Select a profile to manage"
+},
+{
+"id": 1317,
+"en": "{0} Messages"
+},
+{
+"id": 1318,
+"en": "Unused"
+},
+{
+"id": 1319,
+"en": "?Use Name Text String?"
+},
+{
+"id": 1320,
+"en": "?Use Duration Text String?"
+},
+{
+"id": 1321,
+"en": "EXTRA"
+},
+{
+"id": 1322,
+"en": "Left Sub Page"
+},
+{
+"id": 1323,
+"en": "Right Sub Page:"
+},
+{
+"id": 1324,
+"en": "Choose Option"
+},
+{
+"id": 1325,
+"en": "Quitting now will lose all of your previously unsaved changes. Are you sure you want to quit?"
+},
+{
+"id": 1326,
+"en": "Available Cash: {0}"
+},
+{
+"id": 1327,
+"en": "RETIRING"
+},
+{
+"id": 1328,
+"en": "EXISTING"
+},
+{
+"id": 1329,
+"en": "NEW"
+},
+{
+"id": 1330,
+"en": "Not enough time remains"
+},
+{
+"id": 1331,
+"en": "{0} is injured and unable to perform development drills."
+},
+{
+"id": 1332,
+"en": "{0} has drills assigned this month."
+},
+{
+"id": 1333,
+"en": "COST"
+},
+{
+"id": 1334,
+"en": "AFFECTED ATTRIBUTES"
+},
+{
+"id": 1335,
+"en": "Time Remaining: {0:D1}:{1:D2}"
+},
+{
+"id": 1336,
+"en": "You Have 30 Seconds To Choose A Player"
+},
+{
+"id": 1337,
+"en": "A Player Has Been Drafted For You"
+},
+{
+"id": 1338,
+"en": "Draft %s to %s?"
+},
+{
+"id": 1339,
+"en": "CPU Complete Draft?"
+},
+{
+"id": 1340,
+"en": "Round %d, Pick %d - %s"
+},
+{
+"id": 1341,
+"en": "Signed With %s"
+},
+{
+"id": 1342,
+"en": "Rankings Updated: {0}"
+},
+{
+"id": 1343,
+"en": "Delete this existing workout?"
+},
+{
+"id": 1344,
+"en": "Please choose a valid workout type to continue"
+},
+{
+"id": 1345,
+"en": "You have exceeded the maximum workouts of this type for this season"
+},
+{
+"id": 1346,
+"en": "SCHEDULED"
+},
+{
+"id": 1347,
+"en": "Prospect has already completed maximum number of workouts"
+},
+{
+"id": 1348,
+"en": "Prospects"
+},
+{
+"id": 1349,
+"en": "Veterans"
+},
+{
+"id": 1350,
+"en": "This workout has been evaluated.  Please check the scouting notes for updates."
+},
+{
+"id": 1351,
+"en": "These are the coaches that are retiring."
+},
+{
+"id": 1352,
+"en": "Lottery"
+},
+{
+"id": 1353,
+"en": "Mid-Late 1st"
+},
+{
+"id": 1354,
+"en": "SCOUT RATING"
+},
+{
+"id": 1355,
+"en": "TIME REMAINING"
+},
+{
+"id": 1356,
+"en": "%s is willing to play for your team at a reduced point value to make a run at a championship."
+},
+{
+"id": 1357,
+"en": "Make Offer?"
+},
+{
+"id": 1358,
+"en": "Cap Room: %s"
+},
+{
+"id": 1359,
+"en": "Record: %d - %d"
+},
+{
+"id": 1360,
+"en": "Chemistry"
+},
+{
+"id": 1361,
+"en": "You must have at least 12 players to modify lineups."
+},
+{
+"id": 1362,
+"en": "Allow VIP Playback?"
+},
+{
+"id": 1363,
+"en": "Ambient: Statistics Out"
+},
+{
+"id": 1364,
+"en": "If you leave now, you'll lose your current trade in progress. Quit Now?"
+},
+{
+"id": 1365,
+"en": "Pick: r{0}{1}"
+},
+{
+"id": 1366,
+"en": "Trade To"
+},
+{
+"id": 1367,
+"en": "BEFORE"
+},
+{
+"id": 1368,
+"en": "AFTER"
+},
+{
+"id": 1369,
+"en": "Any Round Draft Pick"
+},
+{
+"id": 1370,
+"en": "A {0} with rating {1} or better."
+},
+{
+"id": 1371,
+"en": "Any {0}"
+},
+{
+"id": 1372,
+"en": "Round {0} Pick: {1} Year"
+},
+{
+"id": 1373,
+"en": "Next"
+},
+{
+"id": 1374,
+"en": "This"
+},
+{
+"id": 1375,
+"en": "Add Guidelines to the trade?"
+},
+{
+"id": 1376,
+"en": "What position do you require?"
+},
+{
+"id": 1377,
+"en": "At what skill level are you looking for?"
+},
+{
+"id": 1378,
+"en": "What round do you require?"
+},
+{
+"id": 1379,
+"en": "Edit Proposal"
+},
+{
+"id": 1380,
+"en": "View Selected Offer"
+},
+{
+"id": 1381,
+"en": "Withdraw Item"
+},
+{
+"id": 1382,
+"en": "Light"
+},
+{
+"id": 1383,
+"en": "Intense"
+},
+{
+"id": 1384,
+"en": "Delete this practice?"
+},
+{
+"id": 1385,
+"en": "ATTRIBUTES AFFECTED"
+},
+{
+"id": 1386,
+"en": "EFFORT"
+},
+{
+"id": 1387,
+"en": "Starting a new game mode will lose any unsaved data. Continue?"
+},
+{
+"id": 1388,
+"en": "BAD TEAM"
+},
+{
+"id": 1389,
+"en": "Field Goals"
+},
+{
+"id": 1390,
+"en": "You must fill out your team before proceeding to the EBC Tournament."
+},
+{
+"id": 1391,
+"en": "All Net"
+},
+{
+"id": 1392,
+"en": "Ankle Breakers"
+},
+{
+"id": 1393,
+"en": "Buckets"
+},
+{
+"id": 1394,
+"en": "Clutch Boyz"
+},
+{
+"id": 1395,
+"en": "Droppin Dimes"
+},
+{
+"id": 1396,
+"en": "Mad Handles"
+},
+{
+"id": 1397,
+"en": "Showboats"
+},
+{
+"id": 1398,
+"en": "You may only have one celebrity on your team."
+},
+{
+"id": 1399,
+"en": "You must have one celebrity on your team."
+},
+{
+"id": 1400,
+"en": "Court locked!"
+},
+{
+"id": 1401,
+"en": "You need a teammate to play this game. Minimum of one phone number in your phone book is required"
+},
+{
+"id": 1402,
+"en": "Start %s"
+},
+{
+"id": 1403,
+"en": "FLIGHT"
+},
+{
+"id": 1404,
+"en": "UP TEMPO"
+},
+{
+"id": 1405,
+"en": "FORCE"
+},
+{
+"id": 1406,
+"en": "SIGNATURE"
+},
+{
+"id": 1407,
+"en": "The perfect combination of lightweight comfort, responsiveness and lateral support. A futuristic and modern flight shoe for the game's most explosive players."
+},
+{
+"id": 1408,
+"en": "The Nike Shox Ups shoe is a lightweight, comfortable and stable jump system engineered for the games highest flyers. The perfect combination of durability and performance."
+},
+{
+"id": 1409,
+"en": "Elegance meets arrogance in this perfect combination of explosiveness and responsiveness. Modern and expressive design engineered for the game's highest flyer - Vince Carter."
+},
+{
+"id": 1410,
+"en": "The legendary Nike original made for Rasheed Wallace."
+},
+{
+"id": 1411,
+"en": "The best of the best when it comes to cushioning and stability. The Air Total Force Max is geared towards players with the perfect combination of power and grace."
+},
+{
+"id": 1412,
+"en": "A bold and aggressive hoop shoe for the player who wants the ultimate in protection and cushioning. Designed for the player who owns the paint."
+},
+{
+"id": 1413,
+"en": "A revolutionary, lightweight, highly responsive basketball shoe designed for the player with the ultimate game. Inspired by the personality and play of the game's fiercest warrior - Kobe Bryant."
+},
+{
+"id": 1414,
+"en": "The perfect combination of support, lightweight comfort, and ride. An innovative and aggressive basketball shoe designed for the game's best of the best."
+},
+{
+"id": 1415,
+"en": "This technical, quickness enhancing basketball shoe makes a statement as soon as it hits the court. For the elite player that uses speed as his weapon."
+},
+{
+"id": 1416,
+"en": "You don't have any shoes unlocked. Beat a court and come back!"
+},
+{
+"id": 1417,
+"en": "On Player: <None>"
+},
+{
+"id": 1418,
+"en": "On Player: %s"
+},
+{
+"id": 1419,
+"en": "Are you sure you want to equip the player with the %s?"
+},
+{
+"id": 1420,
+"en": "Off Reb"
+},
+{
+"id": 1421,
+"en": "Def Reb"
+},
+{
+"id": 1422,
+"en": "You're moving forward to"
+},
+{
+"id": 1423,
+"en": "%s court"
+},
+{
+"id": 1424,
+"en": "Keep it up"
+},
+{
+"id": 1425,
+"en": "Shooting (3Pt.)"
+},
+{
+"id": 1426,
+"en": "Freethrow"
+},
+{
+"id": 1427,
+"en": "Drills"
+},
+{
+"id": 1428,
+"en": "Defeated"
+},
+{
+"id": 1429,
+"en": "You selected %s as your teammate. Start the Game?"
+},
+{
+"id": 1430,
+"en": "Whole Head"
+},
+{
+"id": 1431,
+"en": "Neck"
+},
+{
+"id": 1432,
+"en": "Left Wrist"
+},
+{
+"id": 1433,
+"en": "Right Wrist"
+},
+{
+"id": 1434,
+"en": "Jersey Top"
+},
+{
+"id": 1435,
+"en": "Jersey Bottom"
+},
+{
+"id": 1436,
+"en": "Waist"
+},
+{
+"id": 1437,
+"en": "Right Bicep"
+},
+{
+"id": 1438,
+"en": "Right Forearm"
+},
+{
+"id": 1439,
+"en": "Left Bicep"
+},
+{
+"id": 1440,
+"en": "Left Forearm"
+},
+{
+"id": 1441,
+"en": "Failure!"
+},
+{
+"id": 1442,
+"en": "Success!"
+},
+{
+"id": 1443,
+"en": "Not enough points to train this drill!"
+},
+{
+"id": 1444,
+"en": "Low Post Off"
+},
+{
+"id": 1445,
+"en": "Low Post Def"
+},
+{
+"id": 1446,
+"en": "You have successfully loaded a historic team.  Do you wish to edit the players?"
+},
+{
+"id": 1447,
+"en": "All Teams"
+},
+{
+"id": 1448,
+"en": "You can only edit historic teams"
+},
+{
+"id": 1449,
+"en": "You've just created a jukebox playlist. Do you want to hear this music in menus and in street games?"
+},
+{
+"id": 1450,
+"en": "Do you want to hear this music in menus and in street games?"
+},
+{
+"id": 1451,
+"en": "JUKEBOX"
+},
+{
+"id": 1452,
+"en": "Default Music"
+},
+{
+"id": 1453,
+"en": "JUKEBOXALBUMCOVERS"
+},
+{
+"id": 1454,
+"en": "REPEAT"
+},
+{
+"id": 1455,
+"en": "SHUFFLE"
+},
+{
+"id": 1456,
+"en": "NORMAL"
+},
+{
+"id": 1457,
+"en": "PLAYING"
+},
+{
+"id": 1458,
+"en": "PAUSED"
+},
+{
+"id": 1459,
+"en": "STOPPED"
+},
+{
+"id": 1460,
+"en": "This challenge was cancelled by the other user."
+},
+{
+"id": 1461,
+"en": "Time of Day"
+},
+{
+"id": 1462,
+"en": "Downloading league stats, please wait."
+},
+{
+"id": 1463,
+"en": "League stats are temporarily unavailable.  Please try again shortly."
+},
+{
+"id": 1464,
+"en": "Failed to download schedule. Please try again later."
+},
+{
+"id": 1465,
+"en": "Week %d"
+},
+{
+"id": 1466,
+"en": "Remote player is viewing Presentation Options. Please wait."
+},
+{
+"id": 1467,
+"en": "The display is now in progressive mode. Do you want to keep this display mode? (After %d %s, the display will switch back to the original display mode if there is no response.)"
+},
+{
+"id": 1468,
+"en": "You are about to switch to progressive scan. Switching to progressive scan may not produce proper display results on your television. In such an event, please wait 15 seconds for the automatic switch back to the original display mode. Continue?"
+},
+{
+"id": 1469,
+"en": "The display is now in progressive mode. Do you want to keep this display mode? (After 15 seconds, the display will switch back to the original display mode if there is no response.)"
+},
+{
+"id": 1470,
+"en": "The original display mode has been restored."
+},
+{
+"id": 1471,
+"en": "Paused - %s"
+},
+{
+"id": 1472,
+"en": "Crib Tally"
+},
+{
+"id": 1473,
+"en": "Statistiche giocatore"
+},
+{
+"id": 1474,
+"en": "Guests are not allowed to quit the game."
+},
+{
+"id": 1475,
+"en": "Rematching the current game will cause all accumulated stats and milestones for all controller assigned VIP records to be lost!\nContinue?"
+},
+{
+"id": 1476,
+"en": "Simulating the remainder of the current game will cause all accumulated stats and milestones for all controller assigned VIP records to be lost!\nContinue?"
+},
+{
+"id": 1477,
+"en": "Quick Plays"
+},
+{
+"id": 1478,
+"en": "MIDSHOT"
+},
+{
+"id": 1479,
+"en": "POSTOFF"
+},
+{
+"id": 1480,
+"en": "BLOCK"
+},
+{
+"id": 1481,
+"en": "STEAK"
+},
+{
+"id": 1482,
+"en": "HANDLE"
+},
+{
+"id": 1483,
+"en": "PASS"
+},
+{
+"id": 1484,
+"en": "DEF AWR"
+},
+{
+"id": 1485,
+"en": "OFF AWR"
+},
+{
+"id": 1486,
+"en": "REBOUND"
+},
+{
+"id": 1487,
+"en": "Shoe"
+},
+{
+"id": 1488,
+"en": "Are you done editing your player?"
+},
+{
+"id": 1489,
+"en": "Exit Edit Player and lose all the changes. Continue?"
+},
+{
+"id": 1490,
+"en": "BAD TEAMNAME"
+},
+{
+"id": 1491,
+"en": "Bad Conference"
+},
+{
+"id": 1492,
+"en": "Draft Stock: %s"
+},
+{
+"id": 1493,
+"en": "NBA Comparison: %s"
+},
+{
+"id": 1494,
+"en": "ATHLETICISM"
+},
+{
+"id": 1495,
+"en": "INSIDE GAME"
+},
+{
+"id": 1496,
+"en": "OUTSIDE GAME"
+},
+{
+"id": 1497,
+"en": "PLAYMAKER ABILITY"
+},
+{
+"id": 1498,
+"en": "INSIDE DEFENSE"
+},
+{
+"id": 1499,
+"en": "MAN DEFENSE"
+}
+]

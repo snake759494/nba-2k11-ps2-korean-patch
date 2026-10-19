@@ -1,0 +1,1002 @@
+[
+{
+"id": 0,
+"en": "ABCDEF"
+},
+{
+"id": 1,
+"en": "GAMEDATA"
+},
+{
+"id": 2,
+"en": "Ambient: Menu Select"
+},
+{
+"id": 3,
+"en": "Ambient: Menu Back"
+},
+{
+"id": 4,
+"en": "Ambient: Player Select"
+},
+{
+"id": 5,
+"en": "Ambient: Player Deselect"
+},
+{
+"id": 6,
+"en": "The DUALSHOCK|REG|2 analog controller is detected. Please press |START| to continue."
+},
+{
+"id": 7,
+"en": "The DUALSHOCK|REG|2 analog controller is not detected. Please insert a DUALSHOCK|REG|2 analog controller to controller port 1 or controller port 2."
+},
+{
+"id": 8,
+"en": "Demo Mode"
+},
+{
+"id": 9,
+"en": "Ambient: Menu Appear"
+},
+{
+"id": 10,
+"en": "Ambient: Menu Disappear"
+},
+{
+"id": 11,
+"en": "Ambient: Menu Move Cursor"
+},
+{
+"id": 12,
+"en": "Loading, please wait"
+},
+{
+"id": 13,
+"en": "Loading"
+},
+{
+"id": 14,
+"en": "LOGOS"
+},
+{
+"id": 15,
+"en": "PLAYERIMAGES"
+},
+{
+"id": 16,
+"en": "FRONTEND"
+},
+{
+"id": 17,
+"en": "CPU"
+},
+{
+"id": 18,
+"en": "Enter Team Name"
+},
+{
+"id": 19,
+"en": "Free Agents (%s Pick)"
+},
+{
+"id": 20,
+"en": "Free Agents (CPU Pick)"
+},
+{
+"id": 21,
+"en": "%s (CPU)"
+},
+{
+"id": 22,
+"en": "Automatically finish all remaining Draft Picks for all selected teams?"
+},
+{
+"id": 23,
+"en": "Fantasy Draft"
+},
+{
+"id": 24,
+"en": "Quitting will reset all unsaved data. Cancel the draft?"
+},
+{
+"id": 25,
+"en": "You can only sign a player from the Player Pool."
+},
+{
+"id": 26,
+"en": "Sign %s to %s?"
+},
+{
+"id": 27,
+"en": "Sign %s to %s (%s)?"
+},
+{
+"id": 28,
+"en": "Max Passing"
+},
+{
+"id": 29,
+"en": "Fantasy Draft Round %d"
+},
+{
+"id": 30,
+"en": "Team %d"
+},
+{
+"id": 31,
+"en": "PORTRAIT"
+},
+{
+"id": 32,
+"en": "GLOBAL"
+},
+{
+"id": 33,
+"en": "Controller Port 1"
+},
+{
+"id": 34,
+"en": "Controller Port 2"
+},
+{
+"id": 35,
+"en": "Controller Port 3"
+},
+{
+"id": 36,
+"en": "Controller Port 4"
+},
+{
+"id": 37,
+"en": "Checking the HDD. Please do not remove the HDD, disconnect any controllers, or turn the power off."
+},
+{
+"id": 38,
+"en": "There is insufficient space on the HDD. At least 1024 MB are needed to install NBA 2K11. Installation is not required but does enhance some features. Do you want to play NBA 2K11 without installing?"
+},
+{
+"id": 39,
+"en": "At least 1024 MB are needed to install NBA 2K11 to the HDD. Please restart NBA 2K11 after obtaining the additional %u %s you need to install."
+},
+{
+"id": 40,
+"en": "Installation of NBA 2K11 to the HDD in progress."
+},
+{
+"id": 41,
+"en": "Installation of NBA 2K11 to the HDD complete."
+},
+{
+"id": 42,
+"en": "Installation of NBA 2K11 to the HDD failed."
+},
+{
+"id": 43,
+"en": "DIRECTOR"
+},
+{
+"id": 44,
+"en": "ROSTER"
+},
+{
+"id": 45,
+"en": "Recover the HDD according to the instruction manual of the HDD."
+},
+{
+"id": 46,
+"en": "EAS"
+},
+{
+"id": 47,
+"en": "WES"
+},
+{
+"id": 48,
+"en": "The Cage - NYC"
+},
+{
+"id": 49,
+"en": " Please do not remove the memory card (PS2), disconnect any controllers, or turn the power off."
+},
+{
+"id": 50,
+"en": "No memory card (PS2) inserted. You need at least %d KB of free space to save data. Continue?"
+},
+{
+"id": 51,
+"en": "%s is unusable and cannot be accessed.\nPress |CROSS| to continue."
+},
+{
+"id": 52,
+"en": "This title requires 94KB of free space at all times on a memory card (PS2) to manage Your Network Configuration file."
+},
+{
+"id": 53,
+"en": "[ No memory card (PS2) inserted ]"
+},
+{
+"id": 54,
+"en": "%s [ Unformatted ]"
+},
+{
+"id": 55,
+"en": "%s [ Unknown State ]"
+},
+{
+"id": 56,
+"en": "You've reached the maximum number of saves.\nIf you want to create a new save, please delete an existing save.\nPress |CROSS| to continue."
+},
+{
+"id": 57,
+"en": "Cannot create save on %s. Save Failed.\nPress |CROSS| to continue."
+},
+{
+"id": 58,
+"en": "Enter Save Name"
+},
+{
+"id": 59,
+"en": "Successfully saved %s \"%s\" to %s."
+},
+{
+"id": 60,
+"en": "Delete \"%s\" from %s?"
+},
+{
+"id": 61,
+"en": "Deleted \"%s\" from %s successfully."
+},
+{
+"id": 62,
+"en": "NNN"
+},
+{
+"id": 63,
+"en": "STG"
+},
+{
+"id": 64,
+"en": "OST"
+},
+{
+"id": 65,
+"en": "USR"
+},
+{
+"id": 66,
+"en": "REP"
+},
+{
+"id": 67,
+"en": "ROS"
+},
+{
+"id": 68,
+"en": "PBK"
+},
+{
+"id": 69,
+"en": "EXG"
+},
+{
+"id": 70,
+"en": "TMG"
+},
+{
+"id": 71,
+"en": "PMG"
+},
+{
+"id": 72,
+"en": "FXG"
+},
+{
+"id": 73,
+"en": "TMM"
+},
+{
+"id": 74,
+"en": "RFG"
+},
+{
+"id": 75,
+"en": "GRO"
+},
+{
+"id": 76,
+"en": "DCL"
+},
+{
+"id": 77,
+"en": "PAM"
+},
+{
+"id": 78,
+"en": "OUS"
+},
+{
+"id": 79,
+"en": "ORS"
+},
+{
+"id": 80,
+"en": "OSK"
+},
+{
+"id": 81,
+"en": "Damaged"
+},
+{
+"id": 82,
+"en": "Online Settings"
+},
+{
+"id": 83,
+"en": "VIP"
+},
+{
+"id": 84,
+"en": "Exhibition"
+},
+{
+"id": 85,
+"en": "Association"
+},
+{
+"id": 86,
+"en": "College Draft"
+},
+{
+"id": 87,
+"en": "Online VIP"
+},
+{
+"id": 88,
+"en": "Online Roster"
+},
+{
+"id": 89,
+"en": "Online Skin Pack"
+},
+{
+"id": 90,
+"en": "<create new save>"
+},
+{
+"id": 91,
+"en": "NCAA Other"
+},
+{
+"id": 92,
+"en": "All VIP slots are full.\nWhich VIP should be overwritten?"
+},
+{
+"id": 93,
+"en": "Caution: Overwriting VIP \"%s\" will lose any previously unsaved data. Continue?"
+},
+{
+"id": 94,
+"en": "\"%s\" is a draft import and cannot be loaded here."
+},
+{
+"id": 95,
+"en": "No free created team slot exists. An empty created team is required to import this file."
+},
+{
+"id": 96,
+"en": "Not enough created player slots exist. Multiple empty slots are required to import this file."
+},
+{
+"id": 97,
+"en": "This %s already contains 2 online accounts."
+},
+{
+"id": 98,
+"en": "You must have a larger player roster to save your team."
+},
+{
+"id": 99,
+"en": "All VIP Record slots are full.\nWhich VIP Record should be overwritten?"
+},
+{
+"id": 100,
+"en": "Online rosters cannot be loaded for offline play."
+},
+{
+"id": 101,
+"en": "Previous Menu"
+},
+{
+"id": 102,
+"en": "Start Network Configuration Utility"
+},
+{
+"id": 103,
+"en": "Use"
+},
+{
+"id": 104,
+"en": "One or more controllers have changed teams or VIP records. The active VIP records for these controllers will be disabled and all accumulated stats and milestones will be lost!\nContinue?"
+},
+{
+"id": 105,
+"en": "You cannot have more than one controller assigned to each team in the online version of First Person Basketball."
+},
+{
+"id": 106,
+"en": "You must have exactly one controller assigned to a team to play First Person Basketball."
+},
+{
+"id": 107,
+"en": "First Person Basketball can only be played with a single controller.  Go Online to challenge your friends in a head to head First Person Basketball game."
+},
+{
+"id": 108,
+"en": "You cannot have more than one controller assigned to enter Free Throw Practice."
+},
+{
+"id": 109,
+"en": "You must have at least one controller assigned to a team to enter Free Throw Practice."
+},
+{
+"id": 110,
+"en": "Connecting to ISP: %s"
+},
+{
+"id": 111,
+"en": "Authenticating user ID and password."
+},
+{
+"id": 112,
+"en": "Establishing online connection."
+},
+{
+"id": 113,
+"en": "SCE"
+},
+{
+"id": 114,
+"en": "USB"
+},
+{
+"id": 115,
+"en": "USB network configurations are not supported by this game. Please select another network configuration.\nPress |CROSS| to continue."
+},
+{
+"id": 116,
+"en": "The memory card (PS2) was removed during use. Load Failed.\nPress |CROSS| to continue."
+},
+{
+"id": 117,
+"en": "The network configuration is invalid and cannot be used."
+},
+{
+"id": 118,
+"en": "Connecting to ISP:"
+},
+{
+"id": 119,
+"en": "Connection error: %s.  Please try again.  If problem persists check your configuration settings."
+},
+{
+"id": 120,
+"en": "Could not authenticate user ID and password. Please check your network configuration and try again."
+},
+{
+"id": 121,
+"en": "Connection error. Please make sure your network cable is connected and configuration settings are correct."
+},
+{
+"id": 122,
+"en": "Disconnecting from network."
+},
+{
+"id": 123,
+"en": "Retrieving Leaderboard Data."
+},
+{
+"id": 124,
+"en": "Playing: %d"
+},
+{
+"id": 125,
+"en": "Latest News: %s"
+},
+{
+"id": 126,
+"en": "No news posted"
+},
+{
+"id": 127,
+"en": "HOOPS LEADERBOARD"
+},
+{
+"id": 128,
+"en": "Leaderboard"
+},
+{
+"id": 129,
+"en": "Take Two Interactive's Online Privacy Statement"
+},
+{
+"id": 130,
+"en": "Your schedule has been submitted and week one of your League is ready."
+},
+{
+"id": 131,
+"en": "Failed to schedule this League. Please try again later."
+},
+{
+"id": 132,
+"en": "All games have been played."
+},
+{
+"id": 133,
+"en": "Do you wish to advance the schedule?"
+},
+{
+"id": 134,
+"en": "The schedule cannot be advanced at this time. Please try again later."
+},
+{
+"id": 135,
+"en": "%s advanced the schedule."
+},
+{
+"id": 136,
+"en": "The schedule has been advanced."
+},
+{
+"id": 137,
+"en": "Are you sure that you want to generate the schedule? This step is irreversible."
+},
+{
+"id": 138,
+"en": "The schedule was already generated by another administrator."
+},
+{
+"id": 139,
+"en": "Not enough members have joined to allow the schedule to be generated."
+},
+{
+"id": 140,
+"en": "Drop Player"
+},
+{
+"id": 141,
+"en": "Ban Player"
+},
+{
+"id": 142,
+"en": "Submit Feedback"
+},
+{
+"id": 143,
+"en": "You cannot drop yourself. If you want to leave, then go to the My Leagues menu and delete this league."
+},
+{
+"id": 144,
+"en": "You cannot drop yourself. If you want to leave, then go to the My Tournaments menu and delete this tournament."
+},
+{
+"id": 145,
+"en": "You cannot drop or ban the creator."
+},
+{
+"id": 146,
+"en": "What would you like to do?"
+},
+{
+"id": 147,
+"en": "User Successfully Dropped."
+},
+{
+"id": 148,
+"en": "Failed to drop user.  Try again later"
+},
+{
+"id": 149,
+"en": "User Successfully Banned."
+},
+{
+"id": 150,
+"en": "Unable to ban user. Try again later"
+},
+{
+"id": 151,
+"en": "%s has lost admin status."
+},
+{
+"id": 152,
+"en": "%s has gained admin status."
+},
+{
+"id": 153,
+"en": "You have changed your league admin settings. Are you sure you want to abandon these changes?"
+},
+{
+"id": 154,
+"en": "Are you sure that you want to commit your changes?"
+},
+{
+"id": 155,
+"en": "The creator's admin status cannot be modified."
+},
+{
+"id": 156,
+"en": "League Creator: %s (%s)"
+},
+{
+"id": 157,
+"en": "Retrieving list. Please wait."
+},
+{
+"id": 158,
+"en": "There are no admin log entries to view."
+},
+{
+"id": 159,
+"en": "Retype Password"
+},
+{
+"id": 160,
+"en": "Enter User Name"
+},
+{
+"id": 161,
+"en": "Enter Password"
+},
+{
+"id": 162,
+"en": "Enter First Name"
+},
+{
+"id": 163,
+"en": "Enter Last Name"
+},
+{
+"id": 164,
+"en": "Enter Email Address"
+},
+{
+"id": 165,
+"en": "Do you wish to lose your changes and exit this menu?"
+},
+{
+"id": 166,
+"en": "Sorry, you must be 13 years of age or older to create an online account."
+},
+{
+"id": 167,
+"en": "Passwords don't match.  Please reconfirm your password."
+},
+{
+"id": 168,
+"en": "Warning! You are about to send this information over the network. Are you sure?"
+},
+{
+"id": 169,
+"en": "Continue"
+},
+{
+"id": 170,
+"en": "Account created successfully!"
+},
+{
+"id": 171,
+"en": "%d min"
+},
+{
+"id": 172,
+"en": "Best of %d"
+},
+{
+"id": 173,
+"en": "This {0} could not be created at this time. You may already be a member of {1} leagues and tournaments."
+},
+{
+"id": 174,
+"en": "Please enter a name."
+},
+{
+"id": 175,
+"en": "You can't begin a league name with a space. Please choose a new name for your league."
+},
+{
+"id": 176,
+"en": "You can't begin a tournament name with a space. Please choose a new name for your tournament."
+},
+{
+"id": 177,
+"en": "You have chosen to make this league private. This means that all league members must enter a password you select in order to join the league. Are you sure that you want to do this?"
+},
+{
+"id": 178,
+"en": "You must set a password in order to make this %s private."
+},
+{
+"id": 179,
+"en": "Are you sure you want to cancel?"
+},
+{
+"id": 180,
+"en": "Do you wish to create this %s as the %s?"
+},
+{
+"id": 181,
+"en": "Creating League."
+},
+{
+"id": 182,
+"en": "Creating tournament."
+},
+{
+"id": 183,
+"en": "The name you have chosen is offensive. Please choose another."
+},
+{
+"id": 184,
+"en": "\"%s\" was successfully created."
+},
+{
+"id": 185,
+"en": "Failed To Create \"%s\". Please try a different name."
+},
+{
+"id": 186,
+"en": "%d day"
+},
+{
+"id": 187,
+"en": "Male"
+},
+{
+"id": 188,
+"en": "Female"
+},
+{
+"id": 189,
+"en": "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz-@. 0123456789"
+},
+{
+"id": 190,
+"en": "Sorry, you must be 13 years of age or older to register."
+},
+{
+"id": 191,
+"en": "Email Address is a required field."
+},
+{
+"id": 192,
+"en": "First Name is a required field."
+},
+{
+"id": 193,
+"en": "Last Name is a required field."
+},
+{
+"id": 194,
+"en": "Address is a required field."
+},
+{
+"id": 195,
+"en": "City is a required field."
+},
+{
+"id": 196,
+"en": "State is a required field."
+},
+{
+"id": 197,
+"en": "Zip Code is a required field."
+},
+{
+"id": 198,
+"en": "By registering you acknowledge that you have read and agree to the privacy policy. Do you understand and agree to said policy?"
+},
+{
+"id": 199,
+"en": "Thank you for registering."
+},
+{
+"id": 200,
+"en": "Downloading most recent news. Please wait."
+},
+{
+"id": 201,
+"en": "Your default Online Roster needs to be updated.  The new version will be downloaded now."
+},
+{
+"id": 202,
+"en": "Retrieving list of available content. Please wait."
+},
+{
+"id": 203,
+"en": "No content is available at this time."
+},
+{
+"id": 204,
+"en": "Downloading content.  Please wait."
+},
+{
+"id": 205,
+"en": "This content is for offline play only. Would you like to save it now?"
+},
+{
+"id": 206,
+"en": "Retrieving the FAQ. Please wait."
+},
+{
+"id": 207,
+"en": "Retrieving selected FAQ item. Please wait."
+},
+{
+"id": 208,
+"en": "Retrieving 2K Rating data. Please wait."
+},
+{
+"id": 209,
+"en": "Positive"
+},
+{
+"id": 210,
+"en": "Neutral"
+},
+{
+"id": 211,
+"en": "Negative"
+},
+{
+"id": 212,
+"en": "Retrieving List of Friends."
+},
+{
+"id": 213,
+"en": "No options for Guests.  Feedback is done through the Guest's host."
+},
+{
+"id": 214,
+"en": "Processing friend request."
+},
+{
+"id": 215,
+"en": "You cannot add yourself to your friends list."
+},
+{
+"id": 216,
+"en": "Unable to add %s as a friend. %s"
+},
+{
+"id": 217,
+"en": "Current Opponent"
+},
+{
+"id": 218,
+"en": "Sent friend request"
+},
+{
+"id": 219,
+"en": "Sent you a friend request"
+},
+{
+"id": 220,
+"en": "Remote player is viewing the Friends menu. Please wait."
+},
+{
+"id": 221,
+"en": "Friend Search"
+},
+{
+"id": 222,
+"en": "Send message to all friends"
+},
+{
+"id": 223,
+"en": "Add friend by name"
+},
+{
+"id": 224,
+"en": "You must have at least one friend to use this feature."
+},
+{
+"id": 225,
+"en": "FRIENDS"
+},
+{
+"id": 226,
+"en": "PLAYERS"
+},
+{
+"id": 227,
+"en": "Search By Name"
+},
+{
+"id": 228,
+"en": "An error occurred when searching for \"%s\"."
+},
+{
+"id": 229,
+"en": "No matches found for \"%s\"."
+},
+{
+"id": 230,
+"en": "An error occurred while retrieving the list."
+},
+{
+"id": 231,
+"en": "This {0} could not be joined at this time. You may already be a member of {1} leagues and tournaments."
+},
+{
+"id": 232,
+"en": "You're already in \"%s\"."
+},
+{
+"id": 233,
+"en": "Incorrect password."
+},
+{
+"id": 234,
+"en": "No public entries found. Would you like to search by name?"
+},
+{
+"id": 235,
+"en": "Would you like to send a complaint about the name \"%s\"?"
+},
+{
+"id": 236,
+"en": "A complaint has been sent."
+},
+{
+"id": 237,
+"en": "Do you wish to join this %s as the %s?"
+},
+{
+"id": 238,
+"en": "The %s have been selected by another user.  Please select another team."
+},
+{
+"id": 239,
+"en": "Successfully joined %s."
+},
+{
+"id": 240,
+"en": "Failed to join %s."
+},
+{
+"id": 241,
+"en": "Flex Sched:"
+},
+{
+"id": 242,
+"en": "%d teams"
+},
+{
+"id": 243,
+"en": "Retrieving User Records"
+},
+{
+"id": 244,
+"en": "Retrieving Leaderboards."
+},
+{
+"id": 245,
+"en": "No Records"
+},
+{
+"id": 246,
+"en": "Could not retrieve leaderboard. Please check your network cables and configuration."
+},
+{
+"id": 247,
+"en": "Sorry, the leaderboard could not be retrieved at this time. Please try again later."
+},
+{
+"id": 248,
+"en": "Retrieving Leaderboard."
+},
+{
+"id": 249,
+"en": "That leaderboard is empty."
+}
+]

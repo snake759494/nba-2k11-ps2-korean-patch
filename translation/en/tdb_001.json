@@ -1,0 +1,602 @@
+[
+{
+"id": 150,
+"en": "Pending"
+},
+{
+"id": 151,
+"en": "Battle Map"
+},
+{
+"id": 152,
+"en": "Man to Man"
+},
+{
+"id": 153,
+"en": "Homepage"
+},
+{
+"id": 154,
+"en": "|M_HELP| Restore Defaults"
+},
+{
+"id": 155,
+"en": "Team Stats"
+},
+{
+"id": 156,
+"en": "Agn"
+},
+{
+"id": 157,
+"en": "General"
+},
+{
+"id": 158,
+"en": "Year"
+},
+{
+"id": 159,
+"en": "Black Pad"
+},
+{
+"id": 160,
+"en": "Consistency"
+},
+{
+"id": 161,
+"en": "Select two prospects to go 2-on-2 with a combination of free agents or players from your roster.  You may only perform this workout twice during the scouting period."
+},
+{
+"id": 162,
+"en": "8 Min"
+},
+{
+"id": 163,
+"en": "GS"
+},
+{
+"id": 164,
+"en": "CAP"
+},
+{
+"id": 165,
+"en": "Team - FG%"
+},
+{
+"id": 166,
+"en": "Sixers Tote"
+},
+{
+"id": 167,
+"en": "<INBOUND VIOLATION - %s BALL>"
+},
+{
+"id": 168,
+"en": "Potential"
+},
+{
+"id": 169,
+"en": " and press |START| to continue."
+},
+{
+"id": 170,
+"en": "On Ball Steal Tend."
+},
+{
+"id": 171,
+"en": "There is not enough free memory to save a franchise game. %d"
+},
+{
+"id": 172,
+"en": "APG"
+},
+{
+"id": 173,
+"en": "to return"
+},
+{
+"id": 174,
+"en": "Hornets Jersey"
+},
+{
+"id": 175,
+"en": "three, missed"
+},
+{
+"id": 176,
+"en": "Press"
+},
+{
+"id": 177,
+"en": "Congratulations!  The {0} have completed the goal, \"ðWin the division.\"ð  10 Reward Points have been added to their total."
+},
+{
+"id": 178,
+"en": "to Adjust Sim Speed"
+},
+{
+"id": 179,
+"en": "Friends"
+},
+{
+"id": 180,
+"en": "Pro Hop"
+},
+{
+"id": 181,
+"en": "GM"
+},
+{
+"id": 182,
+"en": "EASTERN Shorts"
+},
+{
+"id": 183,
+"en": "Right Wrist Band"
+},
+{
+"id": 184,
+"en": "Slovenia"
+},
+{
+"id": 185,
+"en": "Away"
+},
+{
+"id": 186,
+"en": "Cannot enter until all team spots are filled."
+},
+{
+"id": 187,
+"en": "The {0} have won the tournament."
+},
+{
+"id": 188,
+"en": "Games Back"
+},
+{
+"id": 189,
+"en": "School"
+},
+{
+"id": 190,
+"en": "Your Network Configuration file is corrupt and cannot be used."
+},
+{
+"id": 191,
+"en": "Side"
+},
+{
+"id": 192,
+"en": "VMU"
+},
+{
+"id": 193,
+"en": "3PT%"
+},
+{
+"id": 194,
+"en": "C+"
+},
+{
+"id": 195,
+"en": "Hustle"
+},
+{
+"id": 196,
+"en": "Caution: Loading now will lose any of your previously unsaved changes. Continue?"
+},
+{
+"id": 197,
+"en": "Retro Pacers"
+},
+{
+"id": 198,
+"en": "4 Man Iso 2"
+},
+{
+"id": 199,
+"en": "Mavericks Warmup"
+},
+{
+"id": 200,
+"en": "Chain Belt"
+},
+{
+"id": 201,
+"en": "Job Status"
+},
+{
+"id": 202,
+"en": "2nd Team Pad"
+},
+{
+"id": 203,
+"en": "Nuggets Jersey"
+},
+{
+"id": 204,
+"en": "3 Man Iso 3"
+},
+{
+"id": 205,
+"en": "PASSWORD:"
+},
+{
+"id": 206,
+"en": "TS%"
+},
+{
+"id": 207,
+"en": "Offense"
+},
+{
+"id": 208,
+"en": "Brick Shorts"
+},
+{
+"id": 209,
+"en": "In the %s League the following settings have been changed:\nð%s: %s\nð%s: %d min\nð%s: %s\nð%s: %s\nð"
+},
+{
+"id": 210,
+"en": "First Quarter"
+},
+{
+"id": 211,
+"en": "Pacers"
+},
+{
+"id": 212,
+"en": "Weather"
+},
+{
+"id": 213,
+"en": "Low Double Option"
+},
+{
+"id": 214,
+"en": "The VIP (Virtual Identity Profile) feature allows you to save information regarding how you and your friends play the game.  Start by entering your name and selecting your favorite team."
+},
+{
+"id": 215,
+"en": "Games Started"
+},
+{
+"id": 216,
+"en": "Court"
+},
+{
+"id": 217,
+"en": "Pittsburgh"
+},
+{
+"id": 218,
+"en": "-Shoots a low % from the field"
+},
+{
+"id": 219,
+"en": "Home Fouls"
+},
+{
+"id": 220,
+"en": "OREB"
+},
+{
+"id": 221,
+"en": "Yesterday"
+},
+{
+"id": 222,
+"en": "Knicks Fisherman"
+},
+{
+"id": 223,
+"en": "ASSISTS:"
+},
+{
+"id": 224,
+"en": "Album"
+},
+{
+"id": 225,
+"en": "2 on 2"
+},
+{
+"id": 226,
+"en": "Match Options"
+},
+{
+"id": 227,
+"en": "Jordan 12.5 Team"
+},
+{
+"id": 228,
+"en": "Steals"
+},
+{
+"id": 229,
+"en": "Simulation Paused"
+},
+{
+"id": 230,
+"en": "9"
+},
+{
+"id": 231,
+"en": "You have now played through one full season. Good luck with your future franchise!"
+},
+{
+"id": 232,
+"en": "Credits"
+},
+{
+"id": 233,
+"en": "4"
+},
+{
+"id": 234,
+"en": "%s HAS A BROKEN ANKLE AND CAN'T RETURN"
+},
+{
+"id": 235,
+"en": "Blue Bandana"
+},
+{
+"id": 236,
+"en": "Replay"
+},
+{
+"id": 237,
+"en": "Team Fouls"
+},
+{
+"id": 238,
+"en": "-Plays loose defense on superstars"
+},
+{
+"id": 239,
+"en": "Hawks Backpack"
+},
+{
+"id": 240,
+"en": "England"
+},
+{
+"id": 241,
+"en": "BLOCKS"
+},
+{
+"id": 242,
+"en": "Items"
+},
+{
+"id": 243,
+"en": "Ready To Go?"
+},
+{
+"id": 244,
+"en": "5 Years"
+},
+{
+"id": 245,
+"en": "3PT"
+},
+{
+"id": 246,
+"en": "Block Screen Option"
+},
+{
+"id": 247,
+"en": "<%s: %s LEADERS %s>"
+},
+{
+"id": 248,
+"en": "Personal Fouls"
+},
+{
+"id": 249,
+"en": "Pass Intercept"
+},
+{
+"id": 250,
+"en": "February"
+},
+{
+"id": 251,
+"en": "Hire New Candidate"
+},
+{
+"id": 252,
+"en": "Edit Shoe"
+},
+{
+"id": 253,
+"en": "Blazers Shorts"
+},
+{
+"id": 254,
+"en": "Cavaliers Cavfanatic uniform"
+},
+{
+"id": 255,
+"en": "PTS"
+},
+{
+"id": 256,
+"en": "Southeast Division"
+},
+{
+"id": 257,
+"en": "FROM:"
+},
+{
+"id": 258,
+"en": "Mid Ability"
+},
+{
+"id": 259,
+"en": "|M_HELP|"
+},
+{
+"id": 260,
+"en": "FT%"
+},
+{
+"id": 261,
+"en": "Votes"
+},
+{
+"id": 262,
+"en": "Paper Bag"
+},
+{
+"id": 263,
+"en": "three, made"
+},
+{
+"id": 264,
+"en": "Celtics Fisherman"
+},
+{
+"id": 265,
+"en": "#"
+},
+{
+"id": 266,
+"en": "Strength"
+},
+{
+"id": 267,
+"en": "OFFENSE"
+},
+{
+"id": 268,
+"en": "Player Matchups"
+},
+{
+"id": 269,
+"en": "Durability"
+},
+{
+"id": 270,
+"en": "Playbooks"
+},
+{
+"id": 271,
+"en": "Timeout"
+},
+{
+"id": 272,
+"en": "Crown"
+},
+{
+"id": 273,
+"en": "Creating account. Please wait.\nð\nðESRB Notice: Online Interactions Not Rated by the ESRB."
+},
+{
+"id": 274,
+"en": "3 on 3"
+},
+{
+"id": 275,
+"en": "-Excellent shot blocker"
+},
+{
+"id": 276,
+"en": "Pacers Fisherman"
+},
+{
+"id": 277,
+"en": "MONTH"
+},
+{
+"id": 278,
+"en": " to add player to workout"
+},
+{
+"id": 279,
+"en": "Points Against Per Game"
+},
+{
+"id": 280,
+"en": "SHOT"
+},
+{
+"id": 281,
+"en": "Off. Rebounding"
+},
+{
+"id": 282,
+"en": "You've unlocked the NBA 2K development team!  Use them wisely and you'll be unbeatable."
+},
+{
+"id": 283,
+"en": "Appearance 2"
+},
+{
+"id": 284,
+"en": "<OUT OF BOUNDS -> %s BALL"
+},
+{
+"id": 285,
+"en": "Free Throw %"
+},
+{
+"id": 286,
+"en": "Are you sure you wish to send {0} to {1}?"
+},
+{
+"id": 287,
+"en": "Conditioning Focus"
+},
+{
+"id": 288,
+"en": "to report an offensive name"
+},
+{
+"id": 289,
+"en": "On Ball Steals"
+},
+{
+"id": 290,
+"en": "White Pad"
+},
+{
+"id": 291,
+"en": "Jersey Number"
+},
+{
+"id": 292,
+"en": "Crunch Mascot"
+},
+{
+"id": 293,
+"en": "Happy Mask"
+},
+{
+"id": 294,
+"en": "Contest Shots"
+},
+{
+"id": 295,
+"en": "-"
+},
+{
+"id": 296,
+"en": "bruised heel"
+},
+{
+"id": 297,
+"en": "Pop and Clear PF"
+},
+{
+"id": 298,
+"en": "Rockets Jersey"
+},
+{
+"id": 299,
+"en": "Hawks Fisherman"
+}
+]

@@ -1,0 +1,1002 @@
+[
+{
+"id": 500,
+"en": "Network conditions are too poor for this game to continue."
+},
+{
+"id": 501,
+"en": "Starting an unranked game."
+},
+{
+"id": 502,
+"en": "Ending voice chat."
+},
+{
+"id": 503,
+"en": "Starting Game\n\nWARNING: This game is subject to arbitration. The final results may vary from those on the screen. You may quit this game before the tip off without penalty."
+},
+{
+"id": 504,
+"en": "NBA"
+},
+{
+"id": 505,
+"en": "STREET"
+},
+{
+"id": 506,
+"en": "Playing"
+},
+{
+"id": 507,
+"en": "Ready"
+},
+{
+"id": 508,
+"en": "The 2K Sports service is unavailable at this time so this game cannot be reported."
+},
+{
+"id": 509,
+"en": "Reporting game results. Please Wait."
+},
+{
+"id": 510,
+"en": "Updating Team Roster."
+},
+{
+"id": 511,
+"en": "Locating Servers."
+},
+{
+"id": 512,
+"en": "The network cable is not connected. Please check your network cables and try again."
+},
+{
+"id": 513,
+"en": "The connection to your ISP has been lost.  Please check your cables before trying to connect again."
+},
+{
+"id": 514,
+"en": "Your network connection has been lost.  Please check your cables before signing in again."
+},
+{
+"id": 515,
+"en": "Connection with opponent lost.  Exiting game."
+},
+{
+"id": 516,
+"en": "Would you like to add {0} as a friend?"
+},
+{
+"id": 517,
+"en": "%s's pause timer expired. What would you like to do?\n\nCONTINUE - reset timer and continue.\nQUIT - quit game and receive a win.\n"
+},
+{
+"id": 518,
+"en": "%s's pause timer expired. What would you like to do?\n\nCONTINUE - reset timer and continue.\nQUIT - quit game.\n"
+},
+{
+"id": 519,
+"en": "%s has too many consecutive penalties. What would you like to do?\n\nCONTINUE - reset penalties and continue.\nQUIT - quit game and receive a win.\n"
+},
+{
+"id": 520,
+"en": "Are you sure you wish to Quit this game?  Doing so will not harm your record."
+},
+{
+"id": 521,
+"en": "Are you sure you wish to Continue this game?"
+},
+{
+"id": 522,
+"en": "Submit to Arbitration"
+},
+{
+"id": 523,
+"en": "Abort Game"
+},
+{
+"id": 524,
+"en": "Waiting For Opponent"
+},
+{
+"id": 525,
+"en": "Network connection lost.  Aborting game."
+},
+{
+"id": 526,
+"en": "Synchronizing Game."
+},
+{
+"id": 527,
+"en": "%s, do you wish to forfeit this game?  If Yes, then your record will be negatively affected."
+},
+{
+"id": 528,
+"en": "%s, are you sure you want to quit this game?"
+},
+{
+"id": 529,
+"en": "%s, do you agree to a rematch?"
+},
+{
+"id": 530,
+"en": "Retrieving User Stats."
+},
+{
+"id": 531,
+"en": "Updating user record."
+},
+{
+"id": 532,
+"en": "How would you rate your experience with %s?"
+},
+{
+"id": 533,
+"en": "How would you describe your experience with %s?"
+},
+{
+"id": 534,
+"en": "Quitting Game."
+},
+{
+"id": 535,
+"en": "Starting Game."
+},
+{
+"id": 536,
+"en": "This game could not be started. Refer to the Online FAQ or 2K Sports web site for information on this topic."
+},
+{
+"id": 537,
+"en": "Waiting for a response."
+},
+{
+"id": 538,
+"en": "CONTINUE"
+},
+{
+"id": 539,
+"en": "QUIT"
+},
+{
+"id": 540,
+"en": "Your reason for declining?"
+},
+{
+"id": 541,
+"en": "This game session is no longer available."
+},
+{
+"id": 542,
+"en": "Your challenge has been declined "
+},
+{
+"id": 543,
+"en": "Your challenge timed out."
+},
+{
+"id": 544,
+"en": "The person you challenged has left the lobby."
+},
+{
+"id": 545,
+"en": "Reputation"
+},
+{
+"id": 546,
+"en": "Busy"
+},
+{
+"id": 547,
+"en": "Game Settings"
+},
+{
+"id": 548,
+"en": "Send feedback for %s"
+},
+{
+"id": 549,
+"en": "Are you sure you wish to report \"%s\" about %s?"
+},
+{
+"id": 550,
+"en": "View Messages"
+},
+{
+"id": 551,
+"en": "DON'T USE ME!!!!"
+},
+{
+"id": 552,
+"en": "Play Invite Attachment"
+},
+{
+"id": 553,
+"en": "Complaint: Offensive Message"
+},
+{
+"id": 554,
+"en": "Send Game Invite"
+},
+{
+"id": 555,
+"en": "Accept Game Invite"
+},
+{
+"id": 556,
+"en": "Decline Game Invite"
+},
+{
+"id": 557,
+"en": "Accept Voice Chat"
+},
+{
+"id": 558,
+"en": "Decline Voice Chat"
+},
+{
+"id": 559,
+"en": "Play Request Attachment"
+},
+{
+"id": 560,
+"en": "Accept Friend Request"
+},
+{
+"id": 561,
+"en": "Decline Friend Request"
+},
+{
+"id": 562,
+"en": "Cancel Friend Request"
+},
+{
+"id": 563,
+"en": "Permanently Mute Voice"
+},
+{
+"id": 564,
+"en": "Permanently Unmute Voice"
+},
+{
+"id": 565,
+"en": "Join Friend's Game"
+},
+{
+"id": 566,
+"en": "Block This User"
+},
+{
+"id": 567,
+"en": "Remove Friend"
+},
+{
+"id": 568,
+"en": "View Messages Anyway"
+},
+{
+"id": 569,
+"en": "Delete These Messages"
+},
+{
+"id": 570,
+"en": "{0} is no longer on your friends list."
+},
+{
+"id": 571,
+"en": "{0} has declined your game invite."
+},
+{
+"id": 572,
+"en": "{0} has accepted your game invite and should be joining you shortly."
+},
+{
+"id": 573,
+"en": "Failed to send game invite to {0}."
+},
+{
+"id": 574,
+"en": "Retrieving voice message. Please wait."
+},
+{
+"id": 575,
+"en": "Playing voice message."
+},
+{
+"id": 576,
+"en": "Would you like to play the message again?"
+},
+{
+"id": 577,
+"en": "The voice message could not be retreived at this time."
+},
+{
+"id": 578,
+"en": "Received Game Invite"
+},
+{
+"id": 579,
+"en": "Received Friend Request"
+},
+{
+"id": 580,
+"en": "Accepted Game Invite"
+},
+{
+"id": 581,
+"en": "Declined Game Invite"
+},
+{
+"id": 582,
+"en": "Sent Game Invite"
+},
+{
+"id": 583,
+"en": "Sent Friend Request"
+},
+{
+"id": 584,
+"en": "Requests Voice Chat"
+},
+{
+"id": 585,
+"en": "You have muted {0}. What would you like to do?"
+},
+{
+"id": 586,
+"en": "Would you like to block future messages from {0}?"
+},
+{
+"id": 587,
+"en": "You must switch to the game this invite originated from before you can accept it."
+},
+{
+"id": 588,
+"en": "You cannot accept game invites from the league menus.  Please exit the league menus before accepting the game invite."
+},
+{
+"id": 589,
+"en": "You can only accept game invites from the Online Menu."
+},
+{
+"id": 590,
+"en": "You cannot accept a game invite while an online game is in progress."
+},
+{
+"id": 591,
+"en": "Failed to accept game invitation from %s."
+},
+{
+"id": 592,
+"en": "Declined invite from {0}."
+},
+{
+"id": 593,
+"en": "Added %s to Friends list."
+},
+{
+"id": 594,
+"en": "Failed to add %s to Friends list."
+},
+{
+"id": 595,
+"en": "Declined Friend Request from %s."
+},
+{
+"id": 596,
+"en": "Failed to decline Friend Request from %s."
+},
+{
+"id": 597,
+"en": "Are you sure you want to mute %s?"
+},
+{
+"id": 598,
+"en": "Hailing {0}"
+},
+{
+"id": 599,
+"en": "Voice chatting with {0}"
+},
+{
+"id": 600,
+"en": "Your voice chat session with {0} has ended."
+},
+{
+"id": 601,
+"en": "{0} declined your voice chat request."
+},
+{
+"id": 602,
+"en": "This voice request is no longer available"
+},
+{
+"id": 603,
+"en": "Declined %s's voice chat request."
+},
+{
+"id": 604,
+"en": "Are you sure you want to permanently block all future requests from %s?"
+},
+{
+"id": 605,
+"en": "Blocked Friend Requests from %s."
+},
+{
+"id": 606,
+"en": "Failed to block Friend Requests from %s."
+},
+{
+"id": 607,
+"en": "Are you sure you want to cancel your Friend Request to %s?"
+},
+{
+"id": 608,
+"en": "Cancelled Friend Request to %s."
+},
+{
+"id": 609,
+"en": "Failed to cancel Friend Request to %s."
+},
+{
+"id": 610,
+"en": "Are you sure you want to remove %s from your Friends list?"
+},
+{
+"id": 611,
+"en": "Removed %s from Friends list."
+},
+{
+"id": 612,
+"en": "Failed to Remove %s from Friends list."
+},
+{
+"id": 613,
+"en": "Compose Friend Message"
+},
+{
+"id": 614,
+"en": "Retrieving game information"
+},
+{
+"id": 615,
+"en": "This game cannot be joined because your game version or video framerate is different from your friend's."
+},
+{
+"id": 616,
+"en": "Could not start the game."
+},
+{
+"id": 617,
+"en": "Pregame"
+},
+{
+"id": 618,
+"en": "Applying new Settings."
+},
+{
+"id": 619,
+"en": "Changed the settings."
+},
+{
+"id": 620,
+"en": "Updating league properties."
+},
+{
+"id": 621,
+"en": "Adding admin privileges."
+},
+{
+"id": 622,
+"en": "Revoking league admin privileges."
+},
+{
+"id": 623,
+"en": "Kicking User From League."
+},
+{
+"id": 624,
+"en": "Kicking User From Tournament."
+},
+{
+"id": 625,
+"en": "Dropped {0}."
+},
+{
+"id": 626,
+"en": "Leaving League."
+},
+{
+"id": 627,
+"en": "Leaving Tournament."
+},
+{
+"id": 628,
+"en": "Removing League."
+},
+{
+"id": 629,
+"en": "Awarding Win."
+},
+{
+"id": 630,
+"en": "Win assigned to {0}\n{1} vs {2}"
+},
+{
+"id": 631,
+"en": "Advancing the schedule."
+},
+{
+"id": 632,
+"en": "Advanced to the next {0}."
+},
+{
+"id": 633,
+"en": "Reset game."
+},
+{
+"id": 634,
+"en": "Retrieving List."
+},
+{
+"id": 635,
+"en": "Performing Search."
+},
+{
+"id": 636,
+"en": "Creating Tournament."
+},
+{
+"id": 637,
+"en": "Retrieving member list."
+},
+{
+"id": 638,
+"en": "Getting the latest roster data."
+},
+{
+"id": 639,
+"en": "Getting Scores."
+},
+{
+"id": 640,
+"en": "Scheduling Tournament."
+},
+{
+"id": 641,
+"en": "Scheduling League."
+},
+{
+"id": 642,
+"en": "Starting the playoffs."
+},
+{
+"id": 643,
+"en": "Getting League Info."
+},
+{
+"id": 644,
+"en": "Getting list of opponents."
+},
+{
+"id": 645,
+"en": "Getting Standings."
+},
+{
+"id": 646,
+"en": "Getting Schedule Status."
+},
+{
+"id": 647,
+"en": "%d Minutes"
+},
+{
+"id": 648,
+"en": "Submitting Trade."
+},
+{
+"id": 649,
+"en": "Accepting Trade."
+},
+{
+"id": 650,
+"en": "Revoking Trade."
+},
+{
+"id": 651,
+"en": "Declining Trade."
+},
+{
+"id": 652,
+"en": "Approving Trade."
+},
+{
+"id": 653,
+"en": "Disapproving Trade."
+},
+{
+"id": 654,
+"en": "Getting Trades."
+},
+{
+"id": 655,
+"en": "Getting User Information."
+},
+{
+"id": 656,
+"en": "MACROS"
+},
+{
+"id": 657,
+"en": "Retrieving your fast message list."
+},
+{
+"id": 658,
+"en": "Updating your fast message list. Please wait."
+},
+{
+"id": 659,
+"en": "Unable to update your fast message list. Please try again later."
+},
+{
+"id": 660,
+"en": "Locating an opponent...please wait."
+},
+{
+"id": 661,
+"en": "Closing Match."
+},
+{
+"id": 662,
+"en": "Getting opponent info."
+},
+{
+"id": 663,
+"en": "The voice attachment could not be retrieved at this time."
+},
+{
+"id": 664,
+"en": "Retrieving message - Please wait."
+},
+{
+"id": 665,
+"en": "Retrieving voice message - Please wait."
+},
+{
+"id": 666,
+"en": "Are you sure you want to permanently mute %s?"
+},
+{
+"id": 667,
+"en": "Guest of %s"
+},
+{
+"id": 668,
+"en": "Block Future Requests"
+},
+{
+"id": 669,
+"en": "Mute Voice"
+},
+{
+"id": 670,
+"en": "Unmute Voice"
+},
+{
+"id": 671,
+"en": "<Save Online Roster>"
+},
+{
+"id": 672,
+"en": "Updating online roster:  %d%% Complete"
+},
+{
+"id": 673,
+"en": "Updating online roster:"
+},
+{
+"id": 674,
+"en": "This online roster is for online play only.  Would you like to save it so you don't have to download it next time?"
+},
+{
+"id": 675,
+"en": "Checking roster version.  Please wait."
+},
+{
+"id": 676,
+"en": "<Save Online Skin Package>"
+},
+{
+"id": 677,
+"en": "Retrieving data:"
+},
+{
+"id": 678,
+"en": "Would you like to save this skin pack?"
+},
+{
+"id": 679,
+"en": "Processing skin packages."
+},
+{
+"id": 680,
+"en": "Sending your VIP profile to 2K Sports. Please wait."
+},
+{
+"id": 681,
+"en": "Unable to send your profile at this time. Please try again later."
+},
+{
+"id": 682,
+"en": "Retrieving VIP profile. Please wait."
+},
+{
+"id": 683,
+"en": "Unable to retrieve the requested VIP. Please try again."
+},
+{
+"id": 684,
+"en": "Unable to retrieve your profile at this time. Creating a new profile."
+},
+{
+"id": 685,
+"en": "You have received a voice chat request from %s.  What would you like to do?"
+},
+{
+"id": 686,
+"en": "The voice chat request was revoked by the other user."
+},
+{
+"id": 687,
+"en": "This voice request is no longer valid."
+},
+{
+"id": 688,
+"en": "ONLINESKIN"
+},
+{
+"id": 689,
+"en": "Ambient: Menu Inc Item"
+},
+{
+"id": 690,
+"en": "Left"
+},
+{
+"id": 691,
+"en": "Right"
+},
+{
+"id": 692,
+"en": "Blond"
+},
+{
+"id": 693,
+"en": "Beard Style 1"
+},
+{
+"id": 694,
+"en": "Beard Style 2"
+},
+{
+"id": 695,
+"en": "Beard Style 3"
+},
+{
+"id": 696,
+"en": "Beard Style 4"
+},
+{
+"id": 697,
+"en": "Beard Style 5"
+},
+{
+"id": 698,
+"en": "Beard Style 6"
+},
+{
+"id": 699,
+"en": "Powerbar"
+},
+{
+"id": 700,
+"en": "Wht Forearm Band"
+},
+{
+"id": 701,
+"en": "Blk Forearm Band"
+},
+{
+"id": 702,
+"en": "Team Forearm Band"
+},
+{
+"id": 703,
+"en": "Wht Wrist Band"
+},
+{
+"id": 704,
+"en": "Blk Wrist Band"
+},
+{
+"id": 705,
+"en": "Team Wrist Band"
+},
+{
+"id": 706,
+"en": "Wht Dbl Wrist Band"
+},
+{
+"id": 707,
+"en": "Blk Dbl Wrist Band"
+},
+{
+"id": 708,
+"en": "Team Dbl Wrist Band"
+},
+{
+"id": 709,
+"en": "Wht Upper Arm"
+},
+{
+"id": 710,
+"en": "Blk Upper Arm"
+},
+{
+"id": 711,
+"en": "Team Upper Arm"
+},
+{
+"id": 712,
+"en": "Wht Lower Arm"
+},
+{
+"id": 713,
+"en": "Blk Lower Arm"
+},
+{
+"id": 714,
+"en": "Team Lower Arm"
+},
+{
+"id": 715,
+"en": "Wht Sleeve"
+},
+{
+"id": 716,
+"en": "Blk Sleeve"
+},
+{
+"id": 717,
+"en": "Short"
+},
+{
+"id": 718,
+"en": "Ankle Socks"
+},
+{
+"id": 719,
+"en": "Thick"
+},
+{
+"id": 720,
+"en": "Are you done creating your player?"
+},
+{
+"id": 721,
+"en": "Basic Info"
+},
+{
+"id": 722,
+"en": "Appearance"
+},
+{
+"id": 723,
+"en": "Tattoos"
+},
+{
+"id": 724,
+"en": "Accessories"
+},
+{
+"id": 725,
+"en": "Shoes"
+},
+{
+"id": 726,
+"en": "Created player %s is assigned to the %s and cannot be deleted"
+},
+{
+"id": 727,
+"en": "You have made changes. Would you like to save your roster file?"
+},
+{
+"id": 728,
+"en": "There isn't enough room left in this roster to edit any more names."
+},
+{
+"id": 729,
+"en": "You are about to lose your current created player. Are you sure you wish to continue?"
+},
+{
+"id": 730,
+"en": "PG - Distributor"
+},
+{
+"id": 731,
+"en": "PG - Shoot First"
+},
+{
+"id": 732,
+"en": "PG - Defense"
+},
+{
+"id": 733,
+"en": "SG - Slasher"
+},
+{
+"id": 734,
+"en": "SG - Pure Shooter"
+},
+{
+"id": 735,
+"en": "SG - Defense"
+},
+{
+"id": 736,
+"en": "SF - Slasher"
+},
+{
+"id": 737,
+"en": "SF - Pure Shooter"
+},
+{
+"id": 738,
+"en": "SF - Defense"
+},
+{
+"id": 739,
+"en": "PF - Finesse"
+},
+{
+"id": 740,
+"en": "PF - Banger"
+},
+{
+"id": 741,
+"en": "PF - Defense"
+},
+{
+"id": 742,
+"en": "C - Finesse"
+},
+{
+"id": 743,
+"en": "C - Banger"
+},
+{
+"id": 744,
+"en": "C - Defense"
+},
+{
+"id": 745,
+"en": "NBA 2K11 Theme"
+},
+{
+"id": 746,
+"en": "Snoop Dogg"
+},
+{
+"id": 747,
+"en": "Shutterbugg"
+},
+{
+"id": 748,
+"en": "Big Boi Featuring Cutty"
+},
+{
+"id": 749,
+"en": "Over"
+}
+]

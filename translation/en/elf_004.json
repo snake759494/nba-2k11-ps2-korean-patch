@@ -1,0 +1,1002 @@
+[
+{
+"id": 1000,
+"en": "Maize"
+},
+{
+"id": 1001,
+"en": "Silver"
+},
+{
+"id": 1002,
+"en": "Official Sole 1"
+},
+{
+"id": 1003,
+"en": "Official Sole 2"
+},
+{
+"id": 1004,
+"en": "Official Sole 3"
+},
+{
+"id": 1005,
+"en": "Official Sole 4"
+},
+{
+"id": 1006,
+"en": "Official Sole 5"
+},
+{
+"id": 1007,
+"en": "Official Sole 6"
+},
+{
+"id": 1008,
+"en": "Official Sole 7"
+},
+{
+"id": 1009,
+"en": "Official Sole 8"
+},
+{
+"id": 1010,
+"en": "Official Sole 9"
+},
+{
+"id": 1011,
+"en": "Official Sole 10"
+},
+{
+"id": 1012,
+"en": "Official Sole 11"
+},
+{
+"id": 1013,
+"en": "Official Sole 12"
+},
+{
+"id": 1014,
+"en": "Official Sole 13"
+},
+{
+"id": 1015,
+"en": "Official Sole 14"
+},
+{
+"id": 1016,
+"en": "Official Sole 15"
+},
+{
+"id": 1017,
+"en": "Official Sole 16"
+},
+{
+"id": 1018,
+"en": "Official Sole 17"
+},
+{
+"id": 1019,
+"en": "Official Sole 18"
+},
+{
+"id": 1020,
+"en": "Official Sole 19"
+},
+{
+"id": 1021,
+"en": "Official Sole 20"
+},
+{
+"id": 1022,
+"en": "Official Sole 21"
+},
+{
+"id": 1023,
+"en": "Official Sole 22"
+},
+{
+"id": 1024,
+"en": "Official Sole 23"
+},
+{
+"id": 1025,
+"en": "Official Sole 24"
+},
+{
+"id": 1026,
+"en": "Official Sole 25"
+},
+{
+"id": 1027,
+"en": "Official Sole 26"
+},
+{
+"id": 1028,
+"en": "Official Sole 27"
+},
+{
+"id": 1029,
+"en": "Official Sole 28"
+},
+{
+"id": 1030,
+"en": "Official Sole 29"
+},
+{
+"id": 1031,
+"en": "Official Sole 30"
+},
+{
+"id": 1032,
+"en": "Official Sole 31"
+},
+{
+"id": 1033,
+"en": "Official Sole 32"
+},
+{
+"id": 1034,
+"en": "Official Sole 33"
+},
+{
+"id": 1035,
+"en": "Official Sole 34"
+},
+{
+"id": 1036,
+"en": "Official Sole 35"
+},
+{
+"id": 1037,
+"en": "Official Sole 36"
+},
+{
+"id": 1038,
+"en": "Official Sole 37"
+},
+{
+"id": 1039,
+"en": "Official Sole 38"
+},
+{
+"id": 1040,
+"en": "Official Sole 39"
+},
+{
+"id": 1041,
+"en": "Official Sole 40"
+},
+{
+"id": 1042,
+"en": "Official Sole 41"
+},
+{
+"id": 1043,
+"en": "Official Sole 42"
+},
+{
+"id": 1044,
+"en": "Official Sole 43"
+},
+{
+"id": 1045,
+"en": "Official Sole 44"
+},
+{
+"id": 1046,
+"en": "Official Sole 45"
+},
+{
+"id": 1047,
+"en": "Official Sole 46"
+},
+{
+"id": 1048,
+"en": "Official Sole 47"
+},
+{
+"id": 1049,
+"en": "CSHOEUPPER"
+},
+{
+"id": 1050,
+"en": "CSHOEFASTENER"
+},
+{
+"id": 1051,
+"en": "CSHOEHEEL"
+},
+{
+"id": 1052,
+"en": "CSHOEMIDSOLE"
+},
+{
+"id": 1053,
+"en": "CSHOESOLE"
+},
+{
+"id": 1054,
+"en": "CSHOETOE"
+},
+{
+"id": 1055,
+"en": "CSHOELOGO"
+},
+{
+"id": 1056,
+"en": "CSHOEMODEL"
+},
+{
+"id": 1057,
+"en": "JUMBOTRON"
+},
+{
+"id": 1058,
+"en": "SMIRK"
+},
+{
+"id": 1059,
+"en": "SCOWL"
+},
+{
+"id": 1060,
+"en": "SMILE"
+},
+{
+"id": 1061,
+"en": "TALKING"
+},
+{
+"id": 1062,
+"en": "INJURY"
+},
+{
+"id": 1063,
+"en": "XMAS"
+},
+{
+"id": 1064,
+"en": "WNBA"
+},
+{
+"id": 1065,
+"en": "WIRE"
+},
+{
+"id": 1066,
+"en": "VOLLEY"
+},
+{
+"id": 1067,
+"en": "VIRTUAL"
+},
+{
+"id": 1068,
+"en": "TENNIS"
+},
+{
+"id": 1069,
+"en": "SLICK"
+},
+{
+"id": 1070,
+"en": "ROCK"
+},
+{
+"id": 1071,
+"en": "HALLOWEEN"
+},
+{
+"id": 1072,
+"en": "GLASS"
+},
+{
+"id": 1073,
+"en": "EIGHT"
+},
+{
+"id": 1074,
+"en": "EASTER"
+},
+{
+"id": 1075,
+"en": "DIME"
+},
+{
+"id": 1076,
+"en": "CAMO"
+},
+{
+"id": 1077,
+"en": "BOMB"
+},
+{
+"id": 1078,
+"en": "BEACH"
+},
+{
+"id": 1079,
+"en": "BASE"
+},
+{
+"id": 1080,
+"en": "ABA"
+},
+{
+"id": 1081,
+"en": "WATERMARK"
+},
+{
+"id": 1082,
+"en": "OVERLAYCACHE"
+},
+{
+"id": 1083,
+"en": "REFEREES"
+},
+{
+"id": 1084,
+"en": "BALL"
+},
+{
+"id": 1085,
+"en": "MSTREET"
+},
+{
+"id": 1086,
+"en": "PLYBOOKAWAY"
+},
+{
+"id": 1087,
+"en": "PLYBOOKHOME"
+},
+{
+"id": 1088,
+"en": "Do Not Offer"
+},
+{
+"id": 1089,
+"en": "If your offer is accepted you will have to release your current %s %s %s.  You will be responsible for both contracts.  Make this offer?"
+},
+{
+"id": 1090,
+"en": "%s %s is already under contract to you.  Release %s %s and re-hire %s %s?  You will be responsible for both contracts."
+},
+{
+"id": 1091,
+"en": "%s %s is already under contract to you. Re-hire him?"
+},
+{
+"id": 1092,
+"en": "You do not have enough room in your total money allocation.  You can always sign a %s for the minimum of %s"
+},
+{
+"id": 1093,
+"en": "Your offer is declined."
+},
+{
+"id": 1094,
+"en": "This coach requires a higher wage to coach this team and has modified the contract."
+},
+{
+"id": 1095,
+"en": "Your offer is accepted."
+},
+{
+"id": 1096,
+"en": "WAIVED"
+},
+{
+"id": 1097,
+"en": "SIGNING"
+},
+{
+"id": 1098,
+"en": "RELEASED"
+},
+{
+"id": 1099,
+"en": "I would have to say the long term outlook for [1] [2] of [3] is that he will continue to improve for years to come, but you shouldn't expect him to develop into the dominant player that some scouts believe he will become.  I spent the entire past week scouting his potential and it is just average at best."
+},
+{
+"id": 1100,
+"en": "Owner - Evaluation"
+},
+{
+"id": 1101,
+"en": "League - Coach Signing"
+},
+{
+"id": 1102,
+"en": "League - Player Signing"
+},
+{
+"id": 1103,
+"en": "League - Player Release"
+},
+{
+"id": 1104,
+"en": "League - Player Injury"
+},
+{
+"id": 1105,
+"en": "Trainer - Player Injury"
+},
+{
+"id": 1106,
+"en": "League - Player Trade"
+},
+{
+"id": 1107,
+"en": "Scout - Player Evaluation"
+},
+{
+"id": 1108,
+"en": "Scout - Workout Period"
+},
+{
+"id": 1109,
+"en": "It's time to select a new position"
+},
+{
+"id": 1110,
+"en": "The owner has had enough. You are fired."
+},
+{
+"id": 1111,
+"en": "Retiring player's signings and trades discarded."
+},
+{
+"id": 1112,
+"en": "You have scouted this player the maximum number of times"
+},
+{
+"id": 1113,
+"en": "You have already sent a scout to this player"
+},
+{
+"id": 1114,
+"en": "You have a prospect workout scheduled for today.  Proceed to workout?"
+},
+{
+"id": 1115,
+"en": "Simulate Workout"
+},
+{
+"id": 1116,
+"en": "His agent says he is not interested in negotiating with you."
+},
+{
+"id": 1117,
+"en": "Your offer has been happily accepted."
+},
+{
+"id": 1118,
+"en": "He has agreed to your offer."
+},
+{
+"id": 1119,
+"en": "Please don't waste our time with offers like these. We are no longer interested in negotiating with your team."
+},
+{
+"id": 1120,
+"en": "He has declined your offer."
+},
+{
+"id": 1121,
+"en": "Your roster is full. You may not sign this player without reducing the number of players on your roster via trade or waivers."
+},
+{
+"id": 1122,
+"en": "A waived player may only be re-signed to his current value."
+},
+{
+"id": 1123,
+"en": "A waived player must be signed for the minimum value of %s for no longer than his original contract."
+},
+{
+"id": 1124,
+"en": "You do not have enough available cash to make this offer. You need to have enough positive cash to cover the first year of the contract. You may always sign a player for the league minimum of %s."
+},
+{
+"id": 1125,
+"en": "You do not have enough room under the salary cap to make this offer. You may always sign a player for the league minimum of %s."
+},
+{
+"id": 1126,
+"en": "You may only make one offer per day to each player."
+},
+{
+"id": 1127,
+"en": "You may only make one offer per week to each player."
+},
+{
+"id": 1128,
+"en": "Player signings and trades discarded."
+},
+{
+"id": 1129,
+"en": "%s %s has decided to sign with the %s."
+},
+{
+"id": 1130,
+"en": "Nice job, the %s made the playoffs. Now see if you can take them all the way to the NBA Finals."
+},
+{
+"id": 1131,
+"en": "Sorry, the %s did not make the playoffs this year."
+},
+{
+"id": 1132,
+"en": "Congratulations for completing the NBA 2K11 franchise. Try again to improve your record!"
+},
+{
+"id": 1133,
+"en": "You are about to advance past the rookie signing period. If you continue, all un-signed rookie draft picks will be released into the free agency pool. Continue?"
+},
+{
+"id": 1134,
+"en": "It is time for the NBA draft.  What do you want to do?"
+},
+{
+"id": 1135,
+"en": "You are attempting to go past an incomplete NBA draft.  What do you want to do?"
+},
+{
+"id": 1136,
+"en": "Take me to the NBA Draft"
+},
+{
+"id": 1137,
+"en": "You may not trade players who are about to become free agents. Sign them first if you wish to trade them."
+},
+{
+"id": 1138,
+"en": "You may not trade players who are injured."
+},
+{
+"id": 1139,
+"en": "You can't trade players who are not signed. Sign them first."
+},
+{
+"id": 1140,
+"en": "This trade's player slots are full, consider adding picks or changing players."
+},
+{
+"id": 1141,
+"en": "All items in the trade need a valid destination team"
+},
+{
+"id": 1142,
+"en": "All trade participants must give and receive at least one item"
+},
+{
+"id": 1143,
+"en": "Your team is currently not trading anything"
+},
+{
+"id": 1144,
+"en": "Accept this offer from the {0}?"
+},
+{
+"id": 1145,
+"en": "Offer this trade?"
+},
+{
+"id": 1146,
+"en": "Do all user teams accept this trade?"
+},
+{
+"id": 1147,
+"en": "The {0} do not want to lose a {1} right now."
+},
+{
+"id": 1148,
+"en": "The {0} are not interested. Do you want to force them to agree to the trade?"
+},
+{
+"id": 1149,
+"en": "The {0} have made a counter offer.  See what you think..."
+},
+{
+"id": 1150,
+"en": "The {0} have declined your trade."
+},
+{
+"id": 1151,
+"en": "The trade has been accepted."
+},
+{
+"id": 1152,
+"en": "No Trade Messages"
+},
+{
+"id": 1153,
+"en": "Def"
+},
+{
+"id": 1154,
+"en": "Always Simulate"
+},
+{
+"id": 1155,
+"en": "You think you can handle that baller?"
+},
+{
+"id": 1156,
+"en": "Are you ready for some b-ball?"
+},
+{
+"id": 1157,
+"en": "Are you up to that?"
+},
+{
+"id": 1158,
+"en": "Time to show and prove..."
+},
+{
+"id": 1159,
+"en": "Ok, let's see what you can do..."
+},
+{
+"id": 1160,
+"en": "Albuquerque"
+},
+{
+"id": 1161,
+"en": "San Fran"
+},
+{
+"id": 1162,
+"en": "S Antonio"
+},
+{
+"id": 1163,
+"en": "Wash DC"
+},
+{
+"id": 1164,
+"en": "EBC Rucker"
+},
+{
+"id": 1165,
+"en": "S California"
+},
+{
+"id": 1166,
+"en": "N California"
+},
+{
+"id": 1167,
+"en": "Seattle"
+},
+{
+"id": 1168,
+"en": "Pennsylvania"
+},
+{
+"id": 1169,
+"en": "%s\ngave you his cell phone number!"
+},
+{
+"id": 1170,
+"en": "%s wants to play you in Rucker Park!"
+},
+{
+"id": 1171,
+"en": "Open Run 1-on-1"
+},
+{
+"id": 1172,
+"en": "Open Run is a simple game of non-stop street ball.  Standard street rules are in effect and the first person to 11 is the winner."
+},
+{
+"id": 1173,
+"en": "Open Run 2-on-2"
+},
+{
+"id": 1174,
+"en": "Open Run is a simple game of non-stop street ball.  Standard street rules are in effect and the first team to 11 is the winner."
+},
+{
+"id": 1175,
+"en": "Long Range Only"
+},
+{
+"id": 1176,
+"en": "In this game, the only way you can put points on the board is by making 3 point buckets.  Anything inside the arc will result in 0 points and a loss of possession."
+},
+{
+"id": 1177,
+"en": "No Jumpshots"
+},
+{
+"id": 1178,
+"en": "Layups and Dunks are the name of the game in this challenge.  Making any other shot will results in 0 points and a loss of possession."
+},
+{
+"id": 1179,
+"en": "No Steals"
+},
+{
+"id": 1180,
+"en": "No Steals - You're going to need to be careful with the rock in this game.  Every time the ball gets stolen from you, a handful of your points will be taken away!"
+},
+{
+"id": 1181,
+"en": "No Blocks"
+},
+{
+"id": 1182,
+"en": "No Blocks - This game is all about shot selection.  Every time one of your shots gets blocked, some of your points will be taken away.  Play it safe out there."
+},
+{
+"id": 1183,
+"en": "Time Limit 1-on-1"
+},
+{
+"id": 1184,
+"en": "The winner of this game is the first player to score 11 points before the time runs out.  If no one has 11 points when the time is up, the winner is the player who has the most points."
+},
+{
+"id": 1185,
+"en": "Time Limit 2-on-2"
+},
+{
+"id": 1186,
+"en": "The winner of this game is the first team to score 11 points before the time runs out.  If neither team has 11 points when the time is up, the winner is the team who has the most points."
+},
+{
+"id": 1187,
+"en": "Score Challenge 1-on-1"
+},
+{
+"id": 1188,
+"en": "In this game you're spotting your opponent 5 points, so you're going to have to play it smart if you are going to come out victorious here."
+},
+{
+"id": 1189,
+"en": "Score Challenge 2-on-2"
+},
+{
+"id": 1190,
+"en": "In this game you're spotting your opponents 5 points, so you're going to have to play it smart if you are going to come out victorious here."
+},
+{
+"id": 1191,
+"en": "Bomb Ball -- Timer"
+},
+{
+"id": 1192,
+"en": "In this game the bomb ball explodes every 30 seconds.  Whoever has possession of the ball when the timer reaches zero will have 1 point taken away from their score."
+},
+{
+"id": 1193,
+"en": "Bomb Ball -- Shot"
+},
+{
+"id": 1194,
+"en": "Bomb Ball -- Egg"
+},
+{
+"id": 1195,
+"en": "Every time the ball is dribbled, the bomb ticks down.  After every 20 dribbles the ball will explode and whoever is dribbling the ball at the time will have 1-point removed from their score."
+},
+{
+"id": 1196,
+"en": "Giant Ball"
+},
+{
+"id": 1197,
+"en": "This is a standard game of street played with a very oversized ball.  Due to the sheer size of the ball, you will find that your shots are going to be much harder to make."
+},
+{
+"id": 1198,
+"en": "Giant Ball 2-on-2"
+},
+{
+"id": 1199,
+"en": "Small Ball"
+},
+{
+"id": 1200,
+"en": "This is a standard rules game played with a very small ball.  Due to the size of the ball, players will have an easier time hitting jumpshots."
+},
+{
+"id": 1201,
+"en": "Small Ball 2-on-2"
+},
+{
+"id": 1202,
+"en": "Turbo Challenge"
+},
+{
+"id": 1203,
+"en": "ONE ON ONE\nTurbo has been restricted."
+},
+{
+"id": 1204,
+"en": "You're going to need to keep your wits about you as your controls have been reversed for this game.  Otherwise, normal rules apply."
+},
+{
+"id": 1205,
+"en": "Wild Card Madness 1-on-1"
+},
+{
+"id": 1206,
+"en": "Wild Card Madness randomly picks a 1-on-1 game from the available game list.  Standard rules for the selected game apply."
+},
+{
+"id": 1207,
+"en": "Wild Card Madness 2-on-2"
+},
+{
+"id": 1208,
+"en": "Wild Card Madness randomly picks a 2-on-2 game from the available game list.  Standard rules for the selected game apply."
+},
+{
+"id": 1209,
+"en": "ONE ON ONE\nDefeat 3 opponents."
+},
+{
+"id": 1210,
+"en": "Historic"
+},
+{
+"id": 1211,
+"en": "This is a standard rules game of 1-on-1 only it's going to be against one of the greatest players the NBA has ever seen, good luck!"
+},
+{
+"id": 1212,
+"en": "TWENTY ONE\nPlay a game against multiple opponents."
+},
+{
+"id": 1213,
+"en": "Trickball"
+},
+{
+"id": 1214,
+"en": "Shots are only worth as much as the value of the ball no matter where the shot is taken from.  You can increase the value of the ball up to a maximum of 5 by doing crossover moves."
+},
+{
+"id": 1215,
+"en": "Quickball"
+},
+{
+"id": 1216,
+"en": "The object of this game is to score as fast as possible.  The longer you hold onto the ball, the less points the basket is worth."
+},
+{
+"id": 1217,
+"en": "Mirror Enemy"
+},
+{
+"id": 1218,
+"en": "ONE ON ONE\nNormal Rules???"
+},
+{
+"id": 1219,
+"en": "Reverse Points"
+},
+{
+"id": 1220,
+"en": "Hidden Score"
+},
+{
+"id": 1221,
+"en": "Hidden Score 2-on-2"
+},
+{
+"id": 1222,
+"en": "TWO ON TWO\nNormal Rules???"
+},
+{
+"id": 1223,
+"en": "See Saw"
+},
+{
+"id": 1224,
+"en": "In this game, both players start with 11 points.  For every point you score, your opponent loses a point and vice versa.  First to 21 wins the game."
+},
+{
+"id": 1225,
+"en": "See Saw 2-on-2"
+},
+{
+"id": 1226,
+"en": "In this game, both teams start with 11 points.  For every point your team scores, your opponents lose a point and vice versa.  First to 21 wins the game."
+},
+{
+"id": 1227,
+"en": "Random Points 1-on-1"
+},
+{
+"id": 1228,
+"en": "Random Points 1-on-1 - Random point values are assigned for each type of shot; making a basket gives you the amount of points shown.  The points will change after every made basket."
+},
+{
+"id": 1229,
+"en": "Random Points 2-on-2"
+},
+{
+"id": 1230,
+"en": "Random Points 2-on-2 - Random point values are assigned for each type of shot; making a basket gives your team the amount of points shown.  The points will change after every made basket."
+},
+{
+"id": 1231,
+"en": "Celebrity"
+},
+{
+"id": 1232,
+"en": "Celebrity - It looks like you've made enough noise to catch the attention of this celebrity.  This is going to be a standard game of street ball; normal street rules apply.  Good luck!"
+},
+{
+"id": 1233,
+"en": "Ben Gordon"
+},
+{
+"id": 1234,
+"en": "Ben Gordon is the king of this court and he heard about your victories over the other guys here.  He is ready to challenge you to a game of winner take all, standard rules 1-on-1; first to 11 wins!"
+},
+{
+"id": 1235,
+"en": "Shawn Marion"
+},
+{
+"id": 1236,
+"en": "Shawn Marion is the king of this court and he heard about your victories over the other guys here.  He is ready to challenge you to a game of winner take all, standard rules 1-on-1; first to 11 wins!"
+},
+{
+"id": 1237,
+"en": "Elton Brand"
+},
+{
+"id": 1238,
+"en": "Elton Brand is the king of this court and he heard about your victories over the other guys here.  He is ready to challenge you to a game of winner take all, standard rules 1-on-1; first to 11 wins!"
+},
+{
+"id": 1239,
+"en": "Manu Ginobili"
+},
+{
+"id": 1240,
+"en": "Manu Ginobili is the king of this court and he heard about your victories over the other guys here.  He is ready to challenge you to a game of winner take all, standard rules 1-on-1; first to 11 wins!"
+},
+{
+"id": 1241,
+"en": "Rasheed Wallace"
+},
+{
+"id": 1242,
+"en": "Rasheed Wallace is the king of this court and he heard about your victories over the other guys here.  He is ready to challenge you to a game of winner take all, standard rules 1-on-1; first to 11 wins!"
+},
+{
+"id": 1243,
+"en": "Jermaine O'Neal"
+},
+{
+"id": 1244,
+"en": "Jermaine O'Neal is the king of this court and he heard about your victories over the other guys here.  He is ready to challenge you to a game of winner take all, standard rules 1-on-1; first to 11 wins!"
+},
+{
+"id": 1245,
+"en": "Vince Carter"
+},
+{
+"id": 1246,
+"en": "Vince Carter is the king of this court and he heard about your victories over the other guys here.  He is ready to challenge you to a game of winner take all, standard rules 1-on-1; first to 11 wins!"
+},
+{
+"id": 1247,
+"en": "Amare Stoudemire"
+},
+{
+"id": 1248,
+"en": "Amare Stoudemire is the king of this court and he heard about your victories over the other guys here.  He is ready to challenge you to a game of winner take all, standard rules 1-on-1; first to 11 wins!"
+},
+{
+"id": 1249,
+"en": "Kobe Bryant"
+}
+]

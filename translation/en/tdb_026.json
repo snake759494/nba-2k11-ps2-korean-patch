@@ -1,0 +1,602 @@
+[
+{
+"id": 3900,
+"en": "F-"
+},
+{
+"id": 3901,
+"en": "Dunk Tendency"
+},
+{
+"id": 3902,
+"en": "To Play Next Day"
+},
+{
+"id": 3903,
+"en": "The %s is unformatted, do you want to format?"
+},
+{
+"id": 3904,
+"en": "\"ð%s\"ð on %s is not a %s file."
+},
+{
+"id": 3905,
+"en": "Team - Assists"
+},
+{
+"id": 3906,
+"en": "STAT COMPARISON"
+},
+{
+"id": 3907,
+"en": "Heart (holiday)"
+},
+{
+"id": 3908,
+"en": "-Guards ballhandler |PCT_GUARD_BALL| of the time"
+},
+{
+"id": 3909,
+"en": "Game Sound"
+},
+{
+"id": 3910,
+"en": "70's West"
+},
+{
+"id": 3911,
+"en": "18 Minutes"
+},
+{
+"id": 3912,
+"en": "Shooting Breakdown"
+},
+{
+"id": 3913,
+"en": "Steal Grade"
+},
+{
+"id": 3914,
+"en": "Division"
+},
+{
+"id": 3915,
+"en": "Free Throw Camp"
+},
+{
+"id": 3916,
+"en": "-Avoids using screens"
+},
+{
+"id": 3917,
+"en": "-Gets a lot of 2nd chance points"
+},
+{
+"id": 3918,
+"en": "Somewhat Loyal"
+},
+{
+"id": 3919,
+"en": " QTR3"
+},
+{
+"id": 3920,
+"en": "The Raptor Mascot"
+},
+{
+"id": 3921,
+"en": "Retro Rockets"
+},
+{
+"id": 3922,
+"en": "Make the playoffs"
+},
+{
+"id": 3923,
+"en": "Flash Pass Tend"
+},
+{
+"id": 3924,
+"en": "Level"
+},
+{
+"id": 3925,
+"en": "Postfeed PF"
+},
+{
+"id": 3926,
+"en": "Hire Trainer"
+},
+{
+"id": 3927,
+"en": "for Tree View"
+},
+{
+"id": 3928,
+"en": "Flexible Schedule Generated"
+},
+{
+"id": 3929,
+"en": "PLAYER OF THE GAME"
+},
+{
+"id": 3930,
+"en": "nd"
+},
+{
+"id": 3931,
+"en": "-Works the glass well"
+},
+{
+"id": 3932,
+"en": "-Moves ball well on offense"
+},
+{
+"id": 3933,
+"en": "|M_BACK| Cancel"
+},
+{
+"id": 3934,
+"en": "Pass Icon"
+},
+{
+"id": 3935,
+"en": "Congratulations!  The {0} have completed the goal, \"ðPlayer named to Defensive Second Team All-NBA.\"ð  10 Reward Points have been added to their total."
+},
+{
+"id": 3936,
+"en": "Rbk Infinity Mid"
+},
+{
+"id": 3937,
+"en": "Goaltending"
+},
+{
+"id": 3938,
+"en": "Warriors Backpack"
+},
+{
+"id": 3939,
+"en": "Bench Pts"
+},
+{
+"id": 3940,
+"en": "Switzerland"
+},
+{
+"id": 3941,
+"en": "EBC Tournament Game Setup"
+},
+{
+"id": 3942,
+"en": "FAST BREAK POINTS"
+},
+{
+"id": 3943,
+"en": "Crowd"
+},
+{
+"id": 3944,
+"en": "St Patrick's Day Uniforms"
+},
+{
+"id": 3945,
+"en": "assistant"
+},
+{
+"id": 3946,
+"en": "View Full Tournaments"
+},
+{
+"id": 3947,
+"en": "3pt SF Curl"
+},
+{
+"id": 3948,
+"en": "Appearance Type"
+},
+{
+"id": 3949,
+"en": "Select Drill"
+},
+{
+"id": 3950,
+"en": "Screaming"
+},
+{
+"id": 3951,
+"en": "%s HAS BACK SPASMS BUT CAN RETURN"
+},
+{
+"id": 3952,
+"en": "3PT Tendency"
+},
+{
+"id": 3953,
+"en": "3/4 Court Press"
+},
+{
+"id": 3954,
+"en": "Excellent"
+},
+{
+"id": 3955,
+"en": "Play Description"
+},
+{
+"id": 3956,
+"en": "Fadeaway Tendency"
+},
+{
+"id": 3957,
+"en": "Blue"
+},
+{
+"id": 3958,
+"en": "-Likes to reset after an off. rebound"
+},
+{
+"id": 3959,
+"en": "Bangs Long"
+},
+{
+"id": 3960,
+"en": "{0} OT"
+},
+{
+"id": 3961,
+"en": "Pts"
+},
+{
+"id": 3962,
+"en": "Black Beanie"
+},
+{
+"id": 3963,
+"en": "TR"
+},
+{
+"id": 3964,
+"en": "Overall After"
+},
+{
+"id": 3965,
+"en": "C Double Screen"
+},
+{
+"id": 3966,
+"en": "Cavaliers Tote"
+},
+{
+"id": 3967,
+"en": "Switch on Pass"
+},
+{
+"id": 3968,
+"en": "Puerto Rico"
+},
+{
+"id": 3969,
+"en": "Game Date"
+},
+{
+"id": 3970,
+"en": "1-2-2 Zone"
+},
+{
+"id": 3971,
+"en": "Knicks Cap"
+},
+{
+"id": 3972,
+"en": "Retro Timberwolves"
+},
+{
+"id": 3973,
+"en": "You've unlocked the Cavfanatic road uniform!"
+},
+{
+"id": 3974,
+"en": "Fast Break Points"
+},
+{
+"id": 3975,
+"en": "After"
+},
+{
+"id": 3976,
+"en": "Great sportsmanship"
+},
+{
+"id": 3977,
+"en": "To Advance To Next Day"
+},
+{
+"id": 3978,
+"en": "Roll Option SG"
+},
+{
+"id": 3979,
+"en": "-Doubles in corners often"
+},
+{
+"id": 3980,
+"en": "7 Minutes"
+},
+{
+"id": 3981,
+"en": "Reaching Foul"
+},
+{
+"id": 3982,
+"en": "Def Player Icons"
+},
+{
+"id": 3983,
+"en": "Hop Step"
+},
+{
+"id": 3984,
+"en": "Pilrahna II"
+},
+{
+"id": 3985,
+"en": "NBA Backpack"
+},
+{
+"id": 3986,
+"en": "to pause simulation"
+},
+{
+"id": 3987,
+"en": "to leave trading block"
+},
+{
+"id": 3988,
+"en": "Isiah Jersey"
+},
+{
+"id": 3989,
+"en": "Dual Wing Guard"
+},
+{
+"id": 3990,
+"en": "EASTERN Cap"
+},
+{
+"id": 3991,
+"en": "Pistons"
+},
+{
+"id": 3992,
+"en": "LATEST NEWS"
+},
+{
+"id": 3993,
+"en": "Pistons Shorts"
+},
+{
+"id": 3994,
+"en": "jerseys"
+},
+{
+"id": 3995,
+"en": "-Keeps passing to a minimum"
+},
+{
+"id": 3996,
+"en": "Playmaker"
+},
+{
+"id": 3997,
+"en": "TV-Cycle 2"
+},
+{
+"id": 3998,
+"en": "Play Game"
+},
+{
+"id": 3999,
+"en": "Playing Time"
+},
+{
+"id": 4000,
+"en": "2nd QTR"
+},
+{
+"id": 4001,
+"en": "1P%"
+},
+{
+"id": 4002,
+"en": "Free Agent Menu"
+},
+{
+"id": 4003,
+"en": "{0} has healed from injury.  "
+},
+{
+"id": 4004,
+"en": "The other players will play keep away. Intercept as many passes as you can."
+},
+{
+"id": 4005,
+"en": "7"
+},
+{
+"id": 4006,
+"en": "Yellow"
+},
+{
+"id": 4007,
+"en": "Suns Warmup"
+},
+{
+"id": 4008,
+"en": "-Tenacious perimeter defender"
+},
+{
+"id": 4009,
+"en": "Stat Book"
+},
+{
+"id": 4010,
+"en": "-Doesn't close on shooters well"
+},
+{
+"id": 4011,
+"en": "Sixers Jersey"
+},
+{
+"id": 4012,
+"en": "Frequent"
+},
+{
+"id": 4013,
+"en": "SCORING:"
+},
+{
+"id": 4014,
+"en": "Dbl Wristband Team 1"
+},
+{
+"id": 4015,
+"en": "3 Man Iso 1"
+},
+{
+"id": 4016,
+"en": "Outside Game"
+},
+{
+"id": 4017,
+"en": "Good competitor"
+},
+{
+"id": 4018,
+"en": "Pre-Draft Workouts"
+},
+{
+"id": 4019,
+"en": "Inside Out SF"
+},
+{
+"id": 4020,
+"en": "AVAILABLE CASH"
+},
+{
+"id": 4021,
+"en": "The trade deadline is approaching.  You have 2 weeks left."
+},
+{
+"id": 4022,
+"en": "to move end point"
+},
+{
+"id": 4023,
+"en": "3-PT"
+},
+{
+"id": 4024,
+"en": "Hoop"
+},
+{
+"id": 4025,
+"en": "OFF. REBOUNDS"
+},
+{
+"id": 4026,
+"en": "Hornets Fisherman"
+},
+{
+"id": 4027,
+"en": "DefCl"
+},
+{
+"id": 4028,
+"en": "W-L-D-Q"
+},
+{
+"id": 4029,
+"en": "-Isolates |PCT_ISO| of the time"
+},
+{
+"id": 4030,
+"en": "PG Spread"
+},
+{
+"id": 4031,
+"en": "twisted ankle"
+},
+{
+"id": 4032,
+"en": "Team Budget"
+},
+{
+"id": 4033,
+"en": "-Likes to harass shooters"
+},
+{
+"id": 4034,
+"en": "Most Blocks"
+},
+{
+"id": 4035,
+"en": "Send your player to Weight Camp and he will add 10% to his weight and gain 7 points in Strength."
+},
+{
+"id": 4036,
+"en": "\"ð%s\"ð is not an Arena Music save and cannot be loaded here."
+},
+{
+"id": 4037,
+"en": "Values shown are projections for the current season.  Changes to your roster will change these projections.\nðTickets - Ticket sales are generated by two main factors, how well your team is playing and the quality of the players on your roster.\nðMerchandise - Every player has a marketability factor that helps to determine how much merchandise, specifically jerseys, that your team will sell.\nðLeague Income - Encompasses all areas of revenue that the NBA generates and distributes to its teams.\nðSalary Threshold - Maximum amount your payroll can be before the luxury tax kicks in.\nðLuxury Tax - Penalty that imposes a dollar-for-dollar tax for every dollar that you are over the salary threshold."
+},
+{
+"id": 4038,
+"en": "PG Reversal"
+},
+{
+"id": 4039,
+"en": "Drop Step"
+},
+{
+"id": 4040,
+"en": "Brick Chain"
+},
+{
+"id": 4041,
+"en": "Regular"
+},
+{
+"id": 4042,
+"en": "MON"
+},
+{
+"id": 4043,
+"en": "Sonics Jersey"
+},
+{
+"id": 4044,
+"en": "Rock Warmup"
+},
+{
+"id": 4045,
+"en": "REBOUNDING"
+},
+{
+"id": 4046,
+"en": "Close Range"
+},
+{
+"id": 4047,
+"en": "Mid:"
+},
+{
+"id": 4048,
+"en": "Create Clip"
+},
+{
+"id": 4049,
+"en": "Bulls Tote"
+}
+]

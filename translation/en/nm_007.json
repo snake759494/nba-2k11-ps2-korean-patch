@@ -1,0 +1,802 @@
+[
+{
+"id": 1400,
+"en": "Cousy"
+},
+{
+"id": 1401,
+"en": "Bob"
+},
+{
+"id": 1402,
+"en": "Robertson"
+},
+{
+"id": 1403,
+"en": "Oscar"
+},
+{
+"id": 1404,
+"en": "Elgin"
+},
+{
+"id": 1405,
+"en": "Chamberlain"
+},
+{
+"id": 1406,
+"en": "Wilt"
+},
+{
+"id": 1407,
+"en": "Havlicek"
+},
+{
+"id": 1408,
+"en": "Pettit"
+},
+{
+"id": 1409,
+"en": "Schayes"
+},
+{
+"id": 1410,
+"en": "Dolph"
+},
+{
+"id": 1411,
+"en": "Lucas"
+},
+{
+"id": 1412,
+"en": "Jerry"
+},
+{
+"id": 1413,
+"en": "Greer"
+},
+{
+"id": 1414,
+"en": "Hal"
+},
+{
+"id": 1415,
+"en": "Mikan"
+},
+{
+"id": 1416,
+"en": "Sharman"
+},
+{
+"id": 1417,
+"en": "Frazier"
+},
+{
+"id": 1418,
+"en": "Walt"
+},
+{
+"id": 1419,
+"en": "Gervin"
+},
+{
+"id": 1420,
+"en": "Erving"
+},
+{
+"id": 1421,
+"en": "Julius"
+},
+{
+"id": 1422,
+"en": "Lanier"
+},
+{
+"id": 1423,
+"en": "Cowens"
+},
+{
+"id": 1424,
+"en": "Dave"
+},
+{
+"id": 1425,
+"en": "Billy"
+},
+{
+"id": 1426,
+"en": "Maravich"
+},
+{
+"id": 1427,
+"en": "Pete"
+},
+{
+"id": 1428,
+"en": "McAdoo"
+},
+{
+"id": 1429,
+"en": "Reed"
+},
+{
+"id": 1430,
+"en": "Willis"
+},
+{
+"id": 1431,
+"en": "Archibald"
+},
+{
+"id": 1432,
+"en": "Bing"
+},
+{
+"id": 1433,
+"en": "Barry"
+},
+{
+"id": 1434,
+"en": "Rick"
+},
+{
+"id": 1435,
+"en": "Thurmond"
+},
+{
+"id": 1436,
+"en": "Wilkens"
+},
+{
+"id": 1437,
+"en": "Lenny"
+},
+{
+"id": 1438,
+"en": "Hawkins"
+},
+{
+"id": 1439,
+"en": "Connie"
+},
+{
+"id": 1440,
+"en": "Issel"
+},
+{
+"id": 1441,
+"en": "Gilmore"
+},
+{
+"id": 1442,
+"en": "Artis"
+},
+{
+"id": 1443,
+"en": "Goodrich"
+},
+{
+"id": 1444,
+"en": "Gail"
+},
+{
+"id": 1445,
+"en": "Isiah"
+},
+{
+"id": 1446,
+"en": "Bird"
+},
+{
+"id": 1447,
+"en": "McHale"
+},
+{
+"id": 1448,
+"en": "Ewing"
+},
+{
+"id": 1449,
+"en": "Wilkins"
+},
+{
+"id": 1450,
+"en": "Malone"
+},
+{
+"id": 1451,
+"en": "Moses"
+},
+{
+"id": 1452,
+"en": "Moncrief"
+},
+{
+"id": 1453,
+"en": "Sidney"
+},
+{
+"id": 1454,
+"en": "Cheeks"
+},
+{
+"id": 1455,
+"en": "Parish"
+},
+{
+"id": 1456,
+"en": "Robert"
+},
+{
+"id": 1457,
+"en": "Nance"
+},
+{
+"id": 1458,
+"en": "Micheal Ray"
+},
+{
+"id": 1459,
+"en": "Earvin"
+},
+{
+"id": 1460,
+"en": "Drexler"
+},
+{
+"id": 1461,
+"en": "Clyde"
+},
+{
+"id": 1462,
+"en": "Worthy"
+},
+{
+"id": 1463,
+"en": "Olajuwon"
+},
+{
+"id": 1464,
+"en": "Hakeem"
+},
+{
+"id": 1465,
+"en": "English"
+},
+{
+"id": 1466,
+"en": "Alex"
+},
+{
+"id": 1467,
+"en": "Sikma"
+},
+{
+"id": 1468,
+"en": "Chambers"
+},
+{
+"id": 1469,
+"en": "Tom"
+},
+{
+"id": 1470,
+"en": "Blackman"
+},
+{
+"id": 1471,
+"en": "Rolando"
+},
+{
+"id": 1472,
+"en": "McDaniel"
+},
+{
+"id": 1473,
+"en": "Xavier"
+},
+{
+"id": 1474,
+"en": "Cooper"
+},
+{
+"id": 1475,
+"en": "Theus"
+},
+{
+"id": 1476,
+"en": "Hardaway"
+},
+{
+"id": 1477,
+"en": "Pippen"
+},
+{
+"id": 1478,
+"en": "Scottie"
+},
+{
+"id": 1479,
+"en": "Mourning"
+},
+{
+"id": 1480,
+"en": "Alonzo"
+},
+{
+"id": 1481,
+"en": "Dumars"
+},
+{
+"id": 1482,
+"en": "Rodman"
+},
+{
+"id": 1483,
+"en": "Dennis"
+},
+{
+"id": 1484,
+"en": "Mullin"
+},
+{
+"id": 1485,
+"en": "Mitch"
+},
+{
+"id": 1486,
+"en": "Majerle"
+},
+{
+"id": 1487,
+"en": "Schrempf"
+},
+{
+"id": 1488,
+"en": "Detlef"
+},
+{
+"id": 1489,
+"en": "Hornacek"
+},
+{
+"id": 1490,
+"en": "Macy"
+},
+{
+"id": 1491,
+"en": "Woolridge"
+},
+{
+"id": 1492,
+"en": "Oakley"
+},
+{
+"id": 1493,
+"en": "Charles"
+},
+{
+"id": 1494,
+"en": "Corzine"
+},
+{
+"id": 1495,
+"en": "Paxson"
+},
+{
+"id": 1496,
+"en": "Horace"
+},
+{
+"id": 1497,
+"en": "Cartwright"
+},
+{
+"id": 1498,
+"en": "Harper"
+},
+{
+"id": 1499,
+"en": "Kukoc"
+},
+{
+"id": 1500,
+"en": "Toni"
+},
+{
+"id": 1501,
+"en": "Longley"
+},
+{
+"id": 1502,
+"en": "Luc"
+},
+{
+"id": 1503,
+"en": "Acker"
+},
+{
+"id": 1504,
+"en": "Adams"
+},
+{
+"id": 1505,
+"en": "Hassan"
+},
+{
+"id": 1506,
+"en": "Ager"
+},
+{
+"id": 1507,
+"en": "Alexander"
+},
+{
+"id": 1508,
+"en": "Almond"
+},
+{
+"id": 1509,
+"en": "Alston"
+},
+{
+"id": 1510,
+"en": "Rafer"
+},
+{
+"id": 1511,
+"en": "Augustine"
+},
+{
+"id": 1512,
+"en": "Baston"
+},
+{
+"id": 1513,
+"en": "Maceo"
+},
+{
+"id": 1514,
+"en": "Bender"
+},
+{
+"id": 1515,
+"en": "Jonathan"
+},
+{
+"id": 1516,
+"en": "Blount"
+},
+{
+"id": 1517,
+"en": "Mark"
+},
+{
+"id": 1518,
+"en": "Booth"
+},
+{
+"id": 1519,
+"en": "Calvin"
+},
+{
+"id": 1520,
+"en": "Bowen"
+},
+{
+"id": 1521,
+"en": "Boykins"
+},
+{
+"id": 1522,
+"en": "Brezec"
+},
+{
+"id": 1523,
+"en": "Primoz"
+},
+{
+"id": 1524,
+"en": "Bobby"
+},
+{
+"id": 1525,
+"en": "Dee"
+},
+{
+"id": 1526,
+"en": "Kwame"
+},
+{
+"id": 1527,
+"en": "Buckner"
+},
+{
+"id": 1528,
+"en": "Jackie"
+},
+{
+"id": 1529,
+"en": "Byars"
+},
+{
+"id": 1530,
+"en": "Cardinal"
+},
+{
+"id": 1531,
+"en": "Carney"
+},
+{
+"id": 1532,
+"en": "Mardy"
+},
+{
+"id": 1533,
+"en": "Crittenton"
+},
+{
+"id": 1534,
+"en": "Javaris"
+},
+{
+"id": 1535,
+"en": "Jermareo"
+},
+{
+"id": 1536,
+"en": "Ricky"
+},
+{
+"id": 1537,
+"en": "Diawara"
+},
+{
+"id": 1538,
+"en": "Yakhouba"
+},
+{
+"id": 1539,
+"en": "Diener"
+},
+{
+"id": 1540,
+"en": "Diogu"
+},
+{
+"id": 1541,
+"en": "Ike"
+},
+{
+"id": 1542,
+"en": "Dixon"
+},
+{
+"id": 1543,
+"en": "Juan"
+},
+{
+"id": 1544,
+"en": "Douby"
+},
+{
+"id": 1545,
+"en": "Dupree"
+},
+{
+"id": 1546,
+"en": "Ronald"
+},
+{
+"id": 1547,
+"en": "Elson"
+},
+{
+"id": 1548,
+"en": "Ely"
+},
+{
+"id": 1549,
+"en": "Melvin"
+},
+{
+"id": 1550,
+"en": "Ewing Jr"
+},
+{
+"id": 1551,
+"en": "Farmer"
+},
+{
+"id": 1552,
+"en": "Desmon"
+},
+{
+"id": 1553,
+"en": "Fazekas"
+},
+{
+"id": 1554,
+"en": "Finley"
+},
+{
+"id": 1555,
+"en": "Foyle"
+},
+{
+"id": 1556,
+"en": "Adonal"
+},
+{
+"id": 1557,
+"en": "Gardner"
+},
+{
+"id": 1558,
+"en": "Gelabale"
+},
+{
+"id": 1559,
+"en": "Devean"
+},
+{
+"id": 1560,
+"en": "Giddens"
+},
+{
+"id": 1561,
+"en": "Orien"
+},
+{
+"id": 1562,
+"en": "Lynn"
+},
+{
+"id": 1563,
+"en": "Ha"
+},
+{
+"id": 1564,
+"en": "Seung-Jin"
+},
+{
+"id": 1565,
+"en": "Hairston"
+},
+{
+"id": 1566,
+"en": "Hardin"
+},
+{
+"id": 1567,
+"en": "DeVon"
+},
+{
+"id": 1568,
+"en": "Harrison"
+},
+{
+"id": 1569,
+"en": "Hart"
+},
+{
+"id": 1570,
+"en": "Hassell"
+},
+{
+"id": 1571,
+"en": "Trenton"
+},
+{
+"id": 1572,
+"en": "Jarvis"
+},
+{
+"id": 1573,
+"en": "Head"
+},
+{
+"id": 1574,
+"en": "Luther"
+},
+{
+"id": 1575,
+"en": "Hendrix"
+},
+{
+"id": 1576,
+"en": "Herrmann"
+},
+{
+"id": 1577,
+"en": "Walter"
+},
+{
+"id": 1578,
+"en": "Steven"
+},
+{
+"id": 1579,
+"en": "Hodge"
+},
+{
+"id": 1580,
+"en": "Hudson"
+},
+{
+"id": 1581,
+"en": "Lester"
+},
+{
+"id": 1582,
+"en": "Hughes"
+},
+{
+"id": 1583,
+"en": "Hunter"
+},
+{
+"id": 1584,
+"en": "Lindsey"
+},
+{
+"id": 1585,
+"en": "Othello"
+},
+{
+"id": 1586,
+"en": "Iverson"
+},
+{
+"id": 1587,
+"en": "Ivey"
+},
+{
+"id": 1588,
+"en": "Royal"
+},
+{
+"id": 1589,
+"en": "Jerome"
+},
+{
+"id": 1590,
+"en": "Dontell"
+},
+{
+"id": 1591,
+"en": "DerMarr"
+},
+{
+"id": 1592,
+"en": "Linton"
+},
+{
+"id": 1593,
+"en": "Trey"
+},
+{
+"id": 1594,
+"en": "Damon"
+},
+{
+"id": 1595,
+"en": "Fred"
+},
+{
+"id": 1596,
+"en": "Khryapa"
+},
+{
+"id": 1597,
+"en": "Viktor"
+},
+{
+"id": 1598,
+"en": "Kinsey"
+},
+{
+"id": 1599,
+"en": "Tarence"
+}
+]

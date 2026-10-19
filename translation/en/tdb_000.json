@@ -1,0 +1,602 @@
+[
+{
+"id": 0,
+"en": "This title requires 94KB of free space at all times on a Memory Card (PS2) to manage Your Network Configuration file."
+},
+{
+"id": 1,
+"en": "You've unlocked the Bobcats' Racing uniform!"
+},
+{
+"id": 2,
+"en": "4 Years"
+},
+{
+"id": 3,
+"en": "Tall"
+},
+{
+"id": 4,
+"en": "Team"
+},
+{
+"id": 5,
+"en": "Team Offering"
+},
+{
+"id": 6,
+"en": "Med"
+},
+{
+"id": 7,
+"en": "any round"
+},
+{
+"id": 8,
+"en": "Basketball 101 Camp"
+},
+{
+"id": 9,
+"en": "%c. %s"
+},
+{
+"id": 10,
+"en": "Time"
+},
+{
+"id": 11,
+"en": "FG%:"
+},
+{
+"id": 12,
+"en": "Game Plan"
+},
+{
+"id": 13,
+"en": ""
+},
+{
+"id": 14,
+"en": "College"
+},
+{
+"id": 15,
+"en": "Points Per Game"
+},
+{
+"id": 16,
+"en": "Blazers"
+},
+{
+"id": 17,
+"en": "Network Configurations"
+},
+{
+"id": 18,
+"en": "Name"
+},
+{
+"id": 19,
+"en": "Please reinsert a DUALSHOCK|REG|2 analog controller into"
+},
+{
+"id": 20,
+"en": "Air Force 25 Low"
+},
+{
+"id": 21,
+"en": "Statistics"
+},
+{
+"id": 22,
+"en": "Game Time"
+},
+{
+"id": 23,
+"en": "Work on your ball handling. Travel the length of the floor, beating the defenders off the dribble, and dunk it or lay it in at the other end."
+},
+{
+"id": 24,
+"en": "Rookies"
+},
+{
+"id": 25,
+"en": "MPG"
+},
+{
+"id": 26,
+"en": "Rate"
+},
+{
+"id": 27,
+"en": "Quarter Length"
+},
+{
+"id": 28,
+"en": "Injuries"
+},
+{
+"id": 29,
+"en": "My Tournaments"
+},
+{
+"id": 30,
+"en": "The %s was removed during use. Save Failed.\nðPress |CROSS| to continue."
+},
+{
+"id": 31,
+"en": "Benny Mascot"
+},
+{
+"id": 32,
+"en": "Caution: The game needs to remove VIP Record \"ð%s\"ð from memory. Doing so will lose any previously unsaved data. Continue?"
+},
+{
+"id": 33,
+"en": "Tournament"
+},
+{
+"id": 34,
+"en": "dislocated finger"
+},
+{
+"id": 35,
+"en": "shotclock violation"
+},
+{
+"id": 36,
+"en": "Centers"
+},
+{
+"id": 37,
+"en": "Messaging"
+},
+{
+"id": 38,
+"en": "BackToBasket Tend"
+},
+{
+"id": 39,
+"en": "RECENT GAMES:"
+},
+{
+"id": 40,
+"en": "Player Name"
+},
+{
+"id": 41,
+"en": "Suns"
+},
+{
+"id": 42,
+"en": "Key Matchup"
+},
+{
+"id": 43,
+"en": "TO"
+},
+{
+"id": 44,
+"en": "Finals Format"
+},
+{
+"id": 45,
+"en": "Always"
+},
+{
+"id": 46,
+"en": "Injury Duration"
+},
+{
+"id": 47,
+"en": "Test"
+},
+{
+"id": 48,
+"en": "New(QuickDebug)"
+},
+{
+"id": 49,
+"en": "FIRST"
+},
+{
+"id": 50,
+"en": "Turnovers"
+},
+{
+"id": 51,
+"en": "Power Forwards"
+},
+{
+"id": 52,
+"en": "Aug"
+},
+{
+"id": 53,
+"en": "separated shoulder"
+},
+{
+"id": 54,
+"en": "Clean Board"
+},
+{
+"id": 55,
+"en": "HT"
+},
+{
+"id": 56,
+"en": "YRS PRO"
+},
+{
+"id": 57,
+"en": "?"
+},
+{
+"id": 58,
+"en": "January"
+},
+{
+"id": 59,
+"en": "away"
+},
+{
+"id": 60,
+"en": "Online Desk"
+},
+{
+"id": 61,
+"en": "-Likes to play 1-on-1"
+},
+{
+"id": 62,
+"en": "D"
+},
+{
+"id": 63,
+"en": "Status"
+},
+{
+"id": 64,
+"en": "Rebounding Camp"
+},
+{
+"id": 65,
+"en": "Free Throw"
+},
+{
+"id": 66,
+"en": "Stack SG-PF"
+},
+{
+"id": 67,
+"en": "REBOUNDS:"
+},
+{
+"id": 68,
+"en": "NONE"
+},
+{
+"id": 69,
+"en": "Shades 4"
+},
+{
+"id": 70,
+"en": "Allow CPU Signings"
+},
+{
+"id": 71,
+"en": "Robertson Jersey"
+},
+{
+"id": 72,
+"en": "New League Notifications"
+},
+{
+"id": 73,
+"en": "Nets Cap"
+},
+{
+"id": 74,
+"en": "shot close, missed"
+},
+{
+"id": 75,
+"en": "*League Average for Starting %s"
+},
+{
+"id": 76,
+"en": "Malone Jersey"
+},
+{
+"id": 77,
+"en": "Unavailable"
+},
+{
+"id": 78,
+"en": "Perimeter Defense"
+},
+{
+"id": 79,
+"en": "Off"
+},
+{
+"id": 80,
+"en": "Waiting For Offers"
+},
+{
+"id": 81,
+"en": "Fouls Per Game"
+},
+{
+"id": 82,
+"en": "{0:D2}:{1:D02} : {2} : {3}"
+},
+{
+"id": 83,
+"en": "Options"
+},
+{
+"id": 84,
+"en": "Outside Scoring"
+},
+{
+"id": 85,
+"en": "Prospect List"
+},
+{
+"id": 86,
+"en": "There is insufficient space on %s. You need at least %d KB of free space to save data. Continue?"
+},
+{
+"id": 87,
+"en": "League - FT%"
+},
+{
+"id": 88,
+"en": "to scout prospect"
+},
+{
+"id": 89,
+"en": "Sonics Fisherman"
+},
+{
+"id": 90,
+"en": "Number & Position"
+},
+{
+"id": 91,
+"en": "Yellow specs"
+},
+{
+"id": 92,
+"en": "Comments"
+},
+{
+"id": 93,
+"en": "POINTS IN PAINT"
+},
+{
+"id": 94,
+"en": "ORPG"
+},
+{
+"id": 95,
+"en": "Celtics Cap"
+},
+{
+"id": 96,
+"en": "Rebounds Per Game"
+},
+{
+"id": 97,
+"en": "Load"
+},
+{
+"id": 98,
+"en": "HoopCast Settings"
+},
+{
+"id": 99,
+"en": "Rhythm Arena"
+},
+{
+"id": 100,
+"en": "Monster Jam"
+},
+{
+"id": 101,
+"en": "-Doubles in the paint often"
+},
+{
+"id": 102,
+"en": "-Conservative defender"
+},
+{
+"id": 103,
+"en": "Send your player to Big Man Defense Camp and he will gain 4 points in the following categories: Defensive Awareness, Shot Blocking, and Low Post Defense."
+},
+{
+"id": 104,
+"en": "\nð\nðPlease do not remove any Memory Cards (PS2), disconnect any controllers, or turn the power off."
+},
+{
+"id": 105,
+"en": "The 2K Sports service is not responding.  Please try again shortly."
+},
+{
+"id": 106,
+"en": "Duplicate Players"
+},
+{
+"id": 107,
+"en": "Wins"
+},
+{
+"id": 108,
+"en": "yr"
+},
+{
+"id": 109,
+"en": "Total Assists"
+},
+{
+"id": 110,
+"en": "Preseason Games"
+},
+{
+"id": 111,
+"en": "80's West Arena"
+},
+{
+"id": 112,
+"en": "<5 SEC BACK TO BASKET> - %s"
+},
+{
+"id": 113,
+"en": "10 Bonus Rank Points"
+},
+{
+"id": 114,
+"en": "90's East"
+},
+{
+"id": 115,
+"en": "Checking HDD."
+},
+{
+"id": 116,
+"en": "strained quad"
+},
+{
+"id": 117,
+"en": "Golf Ball"
+},
+{
+"id": 118,
+"en": "-Prefers to play zone"
+},
+{
+"id": 119,
+"en": "-Double teams |PCT_DBL_TEAM| times per min."
+},
+{
+"id": 120,
+"en": ":{0:D2}.{1:D1}"
+},
+{
+"id": 121,
+"en": "NBA Teams Jersey"
+},
+{
+"id": 122,
+"en": "Uncontested"
+},
+{
+"id": 123,
+"en": "You've unlocked 6 St. Patrick's Day uniforms for the Bulls, Celtics, Knicks, Raptors, Nuggets and Blazers!  Check out these unique green threads.  Note that these are only available as the home team."
+},
+{
+"id": 124,
+"en": "WIN%"
+},
+{
+"id": 125,
+"en": "L"
+},
+{
+"id": 126,
+"en": "-Looks to intercept passes"
+},
+{
+"id": 127,
+"en": "Low Post Defense"
+},
+{
+"id": 128,
+"en": "Team Standings"
+},
+{
+"id": 129,
+"en": "Age"
+},
+{
+"id": 130,
+"en": "Perfect Position"
+},
+{
+"id": 131,
+"en": "Retro Bullets"
+},
+{
+"id": 132,
+"en": "View Contract"
+},
+{
+"id": 133,
+"en": "Address 1"
+},
+{
+"id": 134,
+"en": "Type"
+},
+{
+"id": 135,
+"en": "Fast"
+},
+{
+"id": 136,
+"en": "MODIFY OFFER"
+},
+{
+"id": 137,
+"en": "All Positions DEBUG"
+},
+{
+"id": 138,
+"en": "Knicks"
+},
+{
+"id": 139,
+"en": "1st HALF"
+},
+{
+"id": 140,
+"en": "The {0} have won the NBA Championship."
+},
+{
+"id": 141,
+"en": "Nice Crossover"
+},
+{
+"id": 142,
+"en": "-Has a balanced shooting spread"
+},
+{
+"id": 143,
+"en": "Pacers Tote"
+},
+{
+"id": 144,
+"en": "Shooting (3 Pt.)"
+},
+{
+"id": 145,
+"en": "STRENGTHS"
+},
+{
+"id": 146,
+"en": "<SHOT CLOCK - %s BALL>"
+},
+{
+"id": 147,
+"en": "Retro Knicks"
+},
+{
+"id": 148,
+"en": "FLS"
+},
+{
+"id": 149,
+"en": "Arena"
+}
+]
