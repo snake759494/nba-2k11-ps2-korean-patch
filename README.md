@@ -1,10 +1,10 @@
 # NBA 2K11 PS2 한글패치
 
-PS2 북미판 **NBA 2K11 (SLUS-21936)**용 비공식 한국어 패치입니다. 메뉴, 옵션, 안내·오류 메시지, 어소시에이션(프랜차이즈) 모드, 트레이드, 스카우트, 훈련 화면을 한국어로 바꿨습니다. **선수·코치 이름, 팀명, 연고지, 경기장, 대학, 국가**까지 모두 한글로 나옵니다. 현재 배포판은 **v1.1 (2026-10-19)**입니다.
+PS2 북미판 **NBA 2K11 (SLUS-21936)**용 비공식 한국어 패치입니다. 메뉴, 옵션, 안내·오류 메시지, 어소시에이션(프랜차이즈) 모드, 트레이드, 스카우트, 훈련 화면을 한국어로 바꿨습니다. **선수·코치 이름, 팀명, 연고지, 경기장, 대학, 국가**까지 모두 한글로 나옵니다. 현재 배포판은 **v1.2 (2026-10-20)**입니다.
 
 [패치 다운로드](https://github.com/snake759494/nba-2k11-ps2-korean-patch/releases/latest) · [기술 설명](docs/TECHNICAL.md) · [재빌드](docs/BUILD.md) · [변경 기록](CHANGELOG.md) · [권리 안내](RIGHTS.md)
 
-릴리즈 첨부 파일은 **NBA_2K11_PS2_KO_v1.1.xdelta 하나**입니다. 저장소에는 제작 소스, 번역, 검증 자료만 공개합니다. 원본 디스크 이미지와 완성된 디스크 이미지, 추출한 게임 파일, 글꼴 파일, 외부 실행 파일은 포함하지 않습니다. GitHub가 자동으로 만드는 Source code ZIP/TAR는 저장소 소스를 압축한 것이며 게임 파일이 아닙니다.
+릴리즈 첨부 파일은 **NBA_2K11_PS2_KO_v1.2.xdelta 하나**입니다. 저장소에는 제작 소스, 번역, 검증 자료만 공개합니다. 원본 디스크 이미지와 완성된 디스크 이미지, 추출한 게임 파일, 글꼴 파일, 외부 실행 파일은 포함하지 않습니다. GitHub가 자동으로 만드는 Source code ZIP/TAR는 저장소 소스를 압축한 것이며 게임 파일이 아닙니다.
 
 ## 게임 소개 및 대상 버전
 
@@ -22,11 +22,11 @@ PS2 북미판 **NBA 2K11 (SLUS-21936)**용 비공식 한국어 패치입니다. 
 | **원본 ISO MD5** | `4b5c16eb8d19d066ca6ecb15e362cb74` |
 | 원본 ISO SHA-1 | `54af6a47030398368ed748f9e03ace558a48a0c8` |
 | 원본 ISO SHA-256 | `ec02e916d9c0d65ad15f7a2e3d5d477f8189871d1a66d238d8fdef23bdbd5a2e` |
-| xdelta 파일 크기 | 70,294,816 바이트 |
-| xdelta SHA-256 | `ec5b43019c25bd46d3b2efaa6149041bcc95fc30702a46d6c41242428800cbdb` |
-| 적용 결과 ISO 크기 | 3,405,934,592 바이트 |
-| 적용 결과 ISO SHA-1 | `788a2f371912e19cf1b35ff26672a0ea5c6e2295` |
-| 적용 결과 ISO SHA-256 | `c2ad4cf19886564805f3e8e5ab3da43c1f14c7616437f295f971ff7a12ed16fe` |
+| xdelta 파일 크기 | 70,287,739 바이트 |
+| xdelta SHA-256 | `2b1a83d23f9478889bb262d9224585e70f6fc30f1961193d2589edd0bf8194ff` |
+| 적용 결과 ISO 크기 | 3,405,891,584 바이트 |
+| 적용 결과 ISO SHA-1 | `2cc9edc1f743a1f9769aa67efbcc46fbec932438` |
+| 적용 결과 ISO SHA-256 | `cdfea37079337341e19db8174e8cfad8ece923ef971ef7f4f708f5b0524bfdb7` |
 
 수정한 데이터 묶음을 디스크 끝에 덧붙이기 때문에, 결과 ISO는 원본보다 약 76MB 큽니다. 원본 게임 파일은 사용자가 직접 준비해야 합니다.
 
@@ -42,7 +42,7 @@ Get-FileHash -Algorithm MD5 -LiteralPath '.\NBA 2K11 (USA).iso'
 
 ### xdelta UI 사용
 
-1. 릴리즈에서 `NBA_2K11_PS2_KO_v1.1.xdelta`를 받습니다.
+1. 릴리즈에서 `NBA_2K11_PS2_KO_v1.2.xdelta`를 받습니다.
 2. xdelta3 패치를 지원하는 도구에서 **Apply Patch** 기능을 엽니다.
 3. **Patch**에는 xdelta 파일을, **Source File**에는 해시가 일치하는 원본 `.iso`를 선택합니다.
 4. **Output File**에는 새 파일 이름을 지정합니다(예: `NBA 2K11 (USA) (Korean).iso`).
@@ -52,13 +52,13 @@ xdelta는 호환성을 위해 2차 압축과 파일 경로 헤더 없이 만들�
 ### 명령줄 사용
 
 ```powershell
-.\xdelta3.exe -d -s '.\NBA 2K11 (USA).iso' '.\NBA_2K11_PS2_KO_v1.1.xdelta' '.\NBA 2K11 (USA) (Korean).iso'
+.\xdelta3.exe -d -s '.\NBA 2K11 (USA).iso' '.\NBA_2K11_PS2_KO_v1.2.xdelta' '.\NBA 2K11 (USA) (Korean).iso'
 ```
 
 해시를 자동으로 검사하는 도구도 있습니다. Python 3과 xdelta3가 필요하며, 같은 이름의 출력 파일이 이미 있으면 덮어쓰지 않습니다.
 
 ```powershell
-python tools/apply_release.py --xdelta '.\xdelta3.exe' --source '.\NBA 2K11 (USA).iso' --patch '.\NBA_2K11_PS2_KO_v1.1.xdelta' --output '.\NBA 2K11 (USA) (Korean).iso'
+python tools/apply_release.py --xdelta '.\xdelta3.exe' --source '.\NBA 2K11 (USA).iso' --patch '.\NBA_2K11_PS2_KO_v1.2.xdelta' --output '.\NBA 2K11 (USA) (Korean).iso'
 ```
 
 ### PCSX2에서 실행
@@ -93,6 +93,8 @@ python tools/apply_release.py --xdelta '.\xdelta3.exe' --source '.\NBA 2K11 (USA
 ## 알려진 한계
 
 - 모든 화면을 직접 확인하지는 못했습니다. 칸을 넘치는 문구가 있으면 이슈로 알려 주세요.
+- 한글 글자 칸이 글꼴마다 31~74개입니다. 한 화면에 이보다 많은 서로 다른 글자가 같은 글꼴로 나오면, 일부 글자가 다른 글자로 바뀌어 보일 수 있습니다. 발견하면 화면과 함께 알려 주세요.
+- 경기 진입 시험(PCSX2)에서 36회 중 1회 멈춤이 있었습니다. 경기 중 멈추면 알려 주세요.
 - 경기 화면의 쿼터 표시(1st, 2nd, OT 등)는 영문을 유지했습니다.
 - 인게임 확인은 PCSX2 v2.2.0으로 했습니다. 실기에서의 동작은 확인하지 못했습니다.
 

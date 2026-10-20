@@ -79,10 +79,12 @@ SETS = [('Galmuri11.ttf', 12, 'Arial_11'),
 FONTSET = {'Arial_11': (0, 1.0, 0, (256, 256)),
            'Arial_13_bold': (1, 12 / 14, 0, (256, 256)),
            'Arial_15_bold': (1, 1.0, 0, (256, 256)),
-           'Arial_Black_15_Italic': (2, 15 / 19, 0.2, (512, 256)),
-           'Arial_Black_17': (2, 16 / 19, 0, (512, 256)),
+           'Arial_Black_15_Italic': (1, 15 / 14, 0.2, (512, 256)),
+           'Arial_Black_17': (1, 16 / 14, 0, (512, 256)),
            'Arial_Black_20': (2, 1.0, 0, (512, 256)),
            'Arial_Black_25': (2, 23 / 19, 0, (512, 256))}
+# 0x80~0xFF 중 남길 글자(나머지 자리는 한글 캐시 칸으로 씀)
+KEEPHI = {0xA9, 0xAE, 0xB0, 0xF0}
 _SETCACHE = {}
 def glyph_set(si, sylls):
     """세트 si 의 비트맵: (cw, ch, gw, gh, [4bpp 칸 바이트...])."""
@@ -114,12 +116,15 @@ def build(u, sylls, cfg=None):
     P = parse(u)
     si, scl, slant, (W, H) = FONTSET[P['name']]
     S = P['S']; w0, h0 = P['w'], P['h']
+    # 텍스처는 원래 크기 유지: 경기 중 쓰는 글꼴 텍스처가 커지면 VRAM 텍스처 배치가 바뀌어 경기 중 멈춤(VIF1/PATH3 교착)
+    W, H = w0, h0
     B0 = len(u) - (P['tb'] + 0x40)
     tex0 = u[B0:B0 + P['tb']]; pal = u[B0 + P['tb']:B0 + P['tb'] + 0x40]
     lo, hi, G = P['ranges'][0]
     occ = []
     for i in range(hi - lo + 1):
         I, F = glyph(u, G + 0x60 * i)
+        if lo + i >= 0x80 and lo + i not in KEEPHI: continue      # 안 쓰는 라틴 확장 글자 자리 = 한글 칸
         if F[18] > F[16]:
             occ.append((int(F[16] * w0) - 1, int(F[17] * h0) - 1, int(math.ceil(F[18] * w0)) + 1, int(math.ceil(F[19] * h0)) + 1))
     I, F = glyph(u, G + 0x60 * (ord('H') - lo))
@@ -131,11 +136,16 @@ def build(u, sylls, cfg=None):
     adv = round(gw * scl + max(1, SETS[si][1] * scl * 0.08))
     if slant: adv = round((gw - slant * gh * 0.5) * scl) + 1
     sx, sy = cw + 2, ch + 1
+    # 빈 공간을 1픽셀(x 는 4bpp 바이트 정렬로 2픽셀) 단위로 훑어 칸을 촘촘히 배치. 칸 사이 여백 가로 2·세로 1
+    busy = np.zeros((H + sy, W + sx), bool)
+    for a0, b0, a1, b1 in occ: busy[max(0, b0):max(0, b1), max(0, a0):max(0, a1)] = True
     slots = []
-    for y in range(0, H - ch + 1, sy):
-        for x in range(0, W - cw + 1, sx):
-            if any(x < a1 and x + cw > a0 and y < b1 and y + ch > b0 for a0, b0, a1, b1 in occ): continue
-            slots.append((x, y))
+    for y in range(0, H - ch + 1):
+        x = 0
+        while x <= W - cw:
+            if not busy[y:y + sy, x:x + sx].any():
+                slots.append((x, y)); busy[y:y + sy, x:x + sx] = True; x += sx + (sx & 1)
+            else: x += 2
     K = min(len(slots), 0x7ffe); slots = slots[:K]
     n = len(sylls)
     pix = np.zeros((H, W), np.uint8)

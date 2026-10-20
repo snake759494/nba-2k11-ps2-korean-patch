@@ -1,6 +1,6 @@
 """순차 실험: 각 설정으로 빌드 후 freezetest N회. 사용: experiment.py 이름=ENV1,ENV2 ..."""
 import subprocess, os, sys
-N = 4
+N = int(os.environ.get('KO_N', '4'))
 for spec in sys.argv[1:]:
     name, _, envs = spec.partition('=')
     env = dict(os.environ)

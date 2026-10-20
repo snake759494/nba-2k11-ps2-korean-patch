@@ -85,6 +85,8 @@ def inplace(data, tr, scopes=('mrk', 'tdb', 'nm')):
     return bytes(d), n
 
 ELFSET = set(int(x) for x in os.environ.get('KO_ELFSET', '').split(',') if x)
+# 게임이 내부 키로 비교하는 문자열(유니폼 텍스처 선택 등) — 번역하면 유니폼이 깨짐
+ELFSKIP = set(json.load(open(os.path.join(ROOT, 'translation', 'fix', 'skip_elf.json'), encoding='utf-8')))
 ELFBAD = set(json.load(open(os.path.join(ROOT, 'work', 'elf_bad.json')))) if os.path.exists(os.path.join(ROOT, 'work', 'elf_bad.json')) and os.environ.get('KO_ELFSET') is None else set()
 
 def patch_elf(elf, tr):
@@ -96,6 +98,7 @@ def patch_elf(elf, tr):
     for o, s in wstrs.find(elf, 2):
         # 코드 영역의 우연한 바이트 열을 건드리지 않도록: 문자열 데이터 구간 또는 긴 문장만
         if not (0x7f0000 <= o < 0x850000 or (len(s) >= 10 and ' ' in s)): continue
+        if s in ELFSKIP: continue
         v = tr.maps['elf'].get(s)
         if v is None and len(s) > 2:      # 2글자 이하는 내부 코드 표일 수 있으므로 ELF 전용 번역만
             v = tr.maps['tdb'].get(s) or (tr.maps['nm'].get(s) if len(s) >= 4 else None)

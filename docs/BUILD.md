@@ -20,7 +20,7 @@ dotnet publish tools/vcx -c Release -o tools/bin
 
 ```
 python tools/build.py      # -> NBA 2K11 (USA) (Korean).iso
-xdelta3 -e -S none -A -s "NBA 2K11 (USA).iso" "NBA 2K11 (USA) (Korean).iso" NBA_2K11_PS2_KO_v1.1.xdelta
+xdelta3 -e -S none -A -s "NBA 2K11 (USA).iso" "NBA 2K11 (USA) (Korean).iso" NBA_2K11_PS2_KO_v1.2.xdelta
 ```
 
 빌드 시험용 환경 변수: `KO_NOROST`, `KO_NOTDB`, `KO_NOMRK`, `KO_NOELF`, `KO_NOCODE`(해당 부분 원본 유지).
